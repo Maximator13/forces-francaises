@@ -17,7 +17,8 @@ const PAGES = [
 const LOGO = `<svg viewBox="0 0 32 32" aria-hidden="true">
   <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2"/>
   <path d="M2 16h28M16 2c-5 4-5 24 0 28M16 2c5 4 5 24 0 28" fill="none" stroke="currentColor" stroke-width="1.5"/>
-  <circle cx="22" cy="11" r="3" fill="#0072b2"/><circle cx="9" cy="19" r="3" fill="#e69f00"/>
+  <circle cx="22" cy="11" r="3.2" fill="#000091" stroke="#fff" stroke-width="1"/>
+  <circle cx="9" cy="19" r="3.2" fill="#e1000f" stroke="#fff" stroke-width="1"/>
 </svg>`;
 
 function header(current) {

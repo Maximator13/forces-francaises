@@ -226,21 +226,24 @@ img, svg { max-width: 100%; }
   font-size: 0.85rem;
   font-weight: 600;
 }
-.force::before {
-  content: attr(data-sigle);
-  display: inline-grid;
-  place-items: center;
-  width: 1.35rem; height: 1.35rem;
-  border-radius: 3px;
-  font-size: 0.75rem;
-  color: #fff;
-  background: var(--c);
+/* Logo officiel sur pastille blanche ; la bordure reprend la couleur de la force */
+.logo, .force::before {
+  display: inline-block;
+  flex: none;
+  width: 1.75rem; height: 1.75rem;
+  border-radius: 5px;
+  border: 2px solid var(--c, var(--line));
+  background: #fff var(--logo) center / 82% no-repeat;
 }
-.force[data-force="terre"] { --c: var(--terre); color: var(--terre-text); }
-.force[data-force="marine"] { --c: var(--marine); color: var(--marine-text); }
-.force[data-force="air"] { --c: var(--air); color: var(--air-text); }
-.force[data-force="gendarmerie"] { --c: var(--gendarmerie); color: var(--gendarmerie-text); }
-.force[data-force="air"]::before { color: #1b1b1b; }
+.force::before { content: ""; }
+[data-force="terre"] { --c: var(--terre); --logo: url("../img/forces/terre.svg"); }
+[data-force="marine"] { --c: var(--marine); --logo: url("../img/forces/marine.svg"); }
+[data-force="air"] { --c: var(--air); --logo: url("../img/forces/air.svg"); }
+[data-force="gendarmerie"] { --c: var(--gendarmerie); --logo: url("../img/forces/gendarmerie.svg"); }
+.force[data-force="terre"] { color: var(--terre-text); }
+.force[data-force="marine"] { color: var(--marine-text); }
+.force[data-force="air"] { color: var(--air-text); }
+.force[data-force="gendarmerie"] { color: var(--gendarmerie-text); }
 
 /* Bandeau de consentement */
 .consent {

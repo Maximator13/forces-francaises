@@ -3,7 +3,7 @@
 // et animer les changements de filtre.
 
 /* global L */
-import { byZone, isSea, shownForces, FORCES, SIGLES } from "./data.js";
+import { byZone, isSea, shownForces, FORCES } from "./data.js";
 import { t, pick, plural } from "./i18n.js";
 
 const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
@@ -93,7 +93,9 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
       if (!position) continue;
       const state = zoneState(deps, filters);
       const sea = isSea(id);
-      const text = sea ? "⚓" : state.forces.map((f) => SIGLES[f]).join("") || "·";
+      // logos des forces présentes ; ancre pour les zones maritimes
+      const text = sea ? "⚓"
+        : state.forces.map((f) => `<span class="logo" data-force="${f}"></span>`).join("") || "·";
       const label = pinLabel(id, deps, state);
       const marker = L.marker(position, {
         keyboard: true,

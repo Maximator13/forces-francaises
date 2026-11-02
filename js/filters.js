@@ -1,6 +1,6 @@
 // Filtres par force et par type, interrupteur des opérations passées, compteur global.
 
-import { FORCES, TYPES, SIGLES, defaultFilters, summary } from "./data.js";
+import { FORCES, TYPES, defaultFilters, summary } from "./data.js";
 import { t, num, plural, translatePage } from "./i18n.js";
 
 function checkbox(group, value, labelKey, extra = "") {
@@ -17,7 +17,7 @@ export function createFilters(form, counter, { deployments, onChange }) {
     <fieldset>
       <legend data-i18n="filters.forces"></legend>
       ${FORCES.map((f) => checkbox("force", f, `force.${f}`,
-        `<span class="swatch swatch--${f}" aria-hidden="true">${SIGLES[f]}</span>`)).join("")}
+        `<span class="logo" data-force="${f}" aria-hidden="true"></span>`)).join("")}
     </fieldset>
     <fieldset>
       <legend data-i18n="filters.types"></legend>

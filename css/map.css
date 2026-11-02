@@ -44,19 +44,6 @@
   cursor: pointer;
 }
 .check input, .switch input { width: 1.1rem; height: 1.1rem; accent-color: var(--accent); margin: 0; }
-.swatch {
-  display: inline-grid;
-  place-items: center;
-  width: 1.3rem; height: 1.3rem;
-  border-radius: 3px;
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: #fff;
-}
-.swatch--terre { background: var(--terre); }
-.swatch--marine { background: var(--marine); }
-.swatch--air { background: var(--air); color: #1b1b1b; }
-.swatch--gendarmerie { background: var(--gendarmerie); }
 
 /* Interrupteur discret */
 .switch input {
@@ -119,31 +106,32 @@
 .hatch-bg { fill: var(--multi); }
 .hatch-line { stroke: var(--bg); stroke-width: 2; }
 
-/* Marqueurs : sigles des forces, lisibles sans la couleur */
+/* Marqueurs : logos des forces présentes, lisibles sans la couleur */
 .pin-wrap { background: none; border: 0; }
 .pin {
-  display: inline-grid;
-  place-items: center;
-  min-width: 1.25rem;
-  height: 1.25rem;
-  padding: 0 0.25rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 1px;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  padding: 1px;
   translate: -50% -50%;
-  border-radius: 0.7rem;
-  border: 1.5px solid var(--bg);
-  background: var(--multi);
-  color: var(--bg);
-  font: 700 0.68rem/1 var(--sans);
-  letter-spacing: 0.04em;
-  box-shadow: 0 1px 3px rgb(0 0 0 / 0.35);
+  border-radius: 5px;
+  border: 2px solid var(--multi);
+  background: #fff;
+  color: #1b1b1b;
+  font: 700 0.75rem/1 var(--sans);
+  justify-content: center;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.4);
   transition: scale 0.2s var(--ease-out);
 }
-.pin--terre { background: var(--terre); color: #fff; }
-.pin--marine { background: var(--marine); color: #fff; }
-.pin--air { background: var(--air); color: #1b1b1b; }
-.pin--gendarmerie { background: var(--gendarmerie); color: #fff; }
-.pin--past { background: var(--past); color: #1b1b1b; }
-.pin--sea { border-radius: 50%; padding: 0; width: 1.5rem; height: 1.5rem; font-size: 0.8rem; }
-.pin--sea.pin--multi { background: var(--marine); color: #fff; }
+.pin .logo { width: 1.15rem; height: 1.15rem; border: 0; border-radius: 3px; background-size: 92%; }
+.pin--terre { border-color: var(--terre); }
+.pin--marine { border-color: var(--marine); }
+.pin--air { border-color: var(--air); }
+.pin--gendarmerie { border-color: var(--gendarmerie); }
+.pin--past { border-color: var(--past); filter: grayscale(1); opacity: 0.85; }
+.pin--sea { border-radius: 50%; width: 1.6rem; background: var(--marine); color: #fff; border-color: #fff; font-size: 0.85rem; }
 .pin--selected { scale: 1.35; outline: 2px solid var(--ink); outline-offset: 1px; }
 .leaflet-marker-icon:hover .pin, .leaflet-marker-icon:focus-visible .pin { scale: 1.25; }
 .leaflet-marker-icon:focus-visible { outline: none; }

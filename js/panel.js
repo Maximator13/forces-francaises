@@ -3,12 +3,12 @@
 // donc la fermeture par Échap et le retour du focus sont gérés ici.
 
 import { t, pick, num, date } from "./i18n.js";
-import { sortDeployments, SIGLES, isSea } from "./data.js";
+import { sortDeployments, isSea } from "./data.js";
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
 
 function forceBadge(force) {
-  return `<span class="force" data-force="${force}" data-sigle="${SIGLES[force]}">${esc(t(`force.${force}`))}</span>`;
+  return `<span class="force" data-force="${force}">${esc(t(`force.${force}`))}</span>`;
 }
 
 function strengthText(e) {

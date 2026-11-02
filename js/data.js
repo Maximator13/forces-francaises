@@ -2,13 +2,12 @@
 
 export const FORCES = ["terre", "marine", "air", "gendarmerie"];
 export const TYPES = ["opex", "presence", "souverainete", "otan", "onu_ue", "naval", "gendarmerie"];
-export const SIGLES = { terre: "T", marine: "M", air: "A", gendarmerie: "G" };
 
 let dataPromise;
 let worldPromise;
 
 async function json(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, { cache: "no-cache" }); // revalide après une mise à jour des données
   if (!response.ok) throw new Error(`${path} : ${response.status}`);
   return response.json();
 }

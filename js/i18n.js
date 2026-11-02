@@ -22,7 +22,7 @@ function initialLang() {
 
 async function loadTable(code) {
   if (!tables[code]) {
-    const response = await fetch(`i18n/${code}.json`);
+    const response = await fetch(`i18n/${code}.json`, { cache: "no-cache" });
     tables[code] = await response.json();
   }
   return tables[code];
