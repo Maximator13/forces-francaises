@@ -1,0 +1,2989 @@
+{
+  "unites": [
+    {
+      "id": "11e-rama",
+      "nom": {
+        "fr": "11e régiment d'artillerie de marine",
+        "en": "11th Marine Artillery Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'artillerie des troupes de marine de l'armée de Terre.",
+        "en": "French Army marine artillery regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "126e-ri",
+      "nom": {
+        "fr": "126e régiment d'infanterie",
+        "en": "126th Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'infanterie de l'armée de Terre.",
+        "en": "French Army infantry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "12e-rc",
+      "nom": {
+        "fr": "12e régiment de cuirassiers",
+        "en": "12th Cuirassier Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de cavalerie blindée de l'armée de Terre.",
+        "en": "French Army armoured cavalry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Armées d'aujourd'hui n° 392 (septembre 2014), ministère de la Défense – dossier Barkhane / Sangaris",
+          "url": "https://www.irsem.fr/storage/file_manager_files/2025/03/ada392.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "13e-rdp",
+      "nom": {
+        "fr": "13e régiment de dragons parachutistes",
+        "en": "13th Parachute Dragoon Regiment"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Régiment de recherche du renseignement des forces spéciales de l'armée de Terre.",
+        "en": "French Army special forces reconnaissance and intelligence regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "1er-rec",
+      "nom": {
+        "fr": "1er régiment étranger de cavalerie",
+        "en": "1st Foreign Cavalry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de cavalerie blindée de la Légion étrangère.",
+        "en": "Foreign Legion armoured cavalry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "1er-rhc",
+      "nom": {
+        "fr": "1er régiment d'hélicoptères de combat",
+        "en": "1st Combat Helicopter Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de l'aviation légère de l'armée de Terre (ALAT).",
+        "en": "French Army Light Aviation (ALAT) helicopter regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "1er-rhp",
+      "nom": {
+        "fr": "1er régiment de hussards parachutistes",
+        "en": "1st Parachute Hussar Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de cavalerie légère parachutiste de l'armée de Terre.",
+        "en": "French Army parachute light cavalry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "1er-rpima",
+      "nom": {
+        "fr": "1er régiment de parachutistes d'infanterie de marine",
+        "en": "1st Marine Infantry Parachute Regiment"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Régiment des forces spéciales de l'armée de Terre.",
+        "en": "French Army special forces regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "1er-rs",
+      "nom": {
+        "fr": "1er régiment de spahis",
+        "en": "1st Spahi Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de cavalerie blindée de l'armée de Terre.",
+        "en": "French Army armoured cavalry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "21e-rima",
+      "nom": {
+        "fr": "21e régiment d'infanterie de marine",
+        "en": "21st Marine Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'infanterie de marine de l'armée de Terre (troupes de marine).",
+        "en": "French Army marine infantry regiment (troupes de marine)."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "27e-bca",
+      "nom": {
+        "fr": "27e bataillon de chasseurs alpins",
+        "en": "27th Alpine Chasseurs Battalion"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Bataillon d'infanterie de montagne de l'armée de Terre.",
+        "en": "French Army mountain infantry battalion."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "2e-rei",
+      "nom": {
+        "fr": "2e régiment étranger d'infanterie",
+        "en": "2nd Foreign Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'infanterie de la Légion étrangère.",
+        "en": "Foreign Legion infantry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "2e-rep",
+      "nom": {
+        "fr": "2e régiment étranger de parachutistes",
+        "en": "2nd Foreign Parachute Regiment"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Régiment parachutiste de la Légion étrangère.",
+        "en": "Foreign Legion parachute regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "2e-rima",
+      "nom": {
+        "fr": "2e régiment d'infanterie de marine",
+        "en": "2nd Marine Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'infanterie de marine de l'armée de Terre (troupes de marine).",
+        "en": "French Army marine infantry regiment (troupes de marine)."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "2e-rmat",
+      "nom": {
+        "fr": "2e régiment du matériel",
+        "en": "2nd Materiel Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de maintenance de l'armée de Terre.",
+        "en": "French Army maintenance regiment."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "2e-rpima",
+      "nom": {
+        "fr": "2e régiment de parachutistes d'infanterie de marine",
+        "en": "2nd Marine Infantry Parachute Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment parachutiste des troupes de marine stationné à Pierrefonds (Saint-Pierre, La Réunion) ; il anime le Centre d'aguerrissement tropical de La Réunion.",
+        "en": "Marine parachute regiment stationed at Pierrefonds (Saint-Pierre, Réunion); it runs the Réunion tropical hardening centre."
+      },
+      "sources": [
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "33e-rima",
+      "nom": {
+        "fr": "33e régiment d'infanterie de marine",
+        "en": "33rd Marine Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment des troupes de marine stationné en Martinique, composante terrestre des FAA, avec une compagnie de réserve en Guadeloupe. Environ 350 militaires d'active, renforcés par des réservistes.",
+        "en": "Marine troops regiment stationed in Martinique, the land component of the FAA, with a reserve company in Guadeloupe. About 350 active personnel, reinforced by reservists."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées aux Antilles (FAA) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "3e-rei",
+      "nom": {
+        "fr": "3e régiment étranger d'infanterie",
+        "en": "3rd Foreign Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Régiment de la Légion étrangère stationné à Kourou et dans l'ouest guyanais ; il participe à la protection du Centre spatial guyanais et arme le Centre d'entraînement en forêt équatoriale de Régina.",
+        "en": "Foreign Legion regiment stationed in Kourou and western French Guiana; it helps protect the Guiana Space Centre and runs the Equatorial Forest Training Centre at Régina."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées en Guyane (FAG) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/112",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "3e-rhc",
+      "nom": {
+        "fr": "3e régiment d'hélicoptères de combat",
+        "en": "3rd Combat Helicopter Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de l'aviation légère de l'armée de Terre qui a fourni deux Caïman et deux Gazelle au sous-groupement aéromobile de Jeanne d'Arc 2026.",
+        "en": "Army aviation regiment that supplied two Caïman and two Gazelle helicopters to the airmobile sub-group of Jeanne d'Arc 2026."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "3e-rima",
+      "nom": {
+        "fr": "3e régiment d'infanterie de marine",
+        "en": "3rd Marine Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de la 9e BIMa qui a fourni en 2026 le sous-groupement d'infanterie (100 militaires) embarqué sur la mission Jeanne d'Arc.",
+        "en": "Regiment of the 9th Marine Infantry Brigade that provided the 100-strong infantry sub-group embarked on the 2026 Jeanne d'Arc mission."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "43e-bima",
+      "nom": {
+        "fr": "43e bataillon d'infanterie de marine",
+        "en": "43rd Marine Infantry Battalion"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Bataillon des troupes de marine stationné au camp de Port-Bouët (Abidjan) de 1978 à 2025 ; son dernier sous-groupement a été dissous en juin 2025.",
+        "en": "Marine troops battalion based at the Port-Bouët camp (Abidjan) from 1978 to 2025; its last sub-group was dissolved in June 2025."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – Visite de Sébastien Lecornu en Côte d'Ivoire",
+          "url": "https://www.defense.gouv.fr/actualites/visite-sebastien-lecornu-cote-divoire-france-transforme-sa-presence-ne-disparait-pas",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Ministère des Armées – DLIA-I : Dissolution des détachements et formations administratives",
+          "url": "https://www.defense.gouv.fr/operations/actualites/dlia-i-dissolution-detachements-formations-administratives",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "4e-rd",
+      "nom": {
+        "fr": "4e régiment de dragons",
+        "en": "4th Dragoon Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de cavalerie blindée de l'armée de Terre.",
+        "en": "French Army armoured cavalry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "515e-rt",
+      "nom": {
+        "fr": "515e régiment du train",
+        "en": "515th Transport Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment logistique (train) de l'armée de Terre.",
+        "en": "French Army logistics (transport) regiment."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "5e-rc",
+      "nom": {
+        "fr": "5e régiment de cuirassiers",
+        "en": "5th Cuirassier Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment interarmes à dominante blindée stationné à Zayed Military City, près d'Abu Dhabi. Il comprend notamment un escadron de chars, une compagnie d'infanterie, un appui-feux et le centre d'entraînement au combat CECAM.",
+        "en": "Armour-heavy combined-arms regiment stationed at Zayed Military City near Abu Dhabi. It includes a tank squadron, an infantry company, fire support and the CECAM combat training centre."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées - FFEAU",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-aux-emirats-arabes-unis",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "5e-re",
+      "nom": {
+        "fr": "5e régiment étranger",
+        "en": "5th Foreign Regiment"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Régiment de la Légion étrangère recréé le 1er juin 2024 à partir du détachement de Légion de Mayotte (DLEM) ; composante terrestre des FAZSOI à Mayotte, avec un détachement aux Glorieuses.",
+        "en": "Foreign Legion regiment recreated on 1 June 2024 from the Mayotte Legion detachment (DLEM); the FAZSOI land component in Mayotte, with a detachment on the Glorioso Islands."
+      },
+      "sources": [
+        {
+          "titre": "Le 5e régiment étranger (5e RE) – armée de Terre",
+          "url": "https://www.terre.defense.gouv.fr/legion-etrangere/regiments-unites-legion-etrangere/regiments-outre-mer/5e-regiment-etranger-5e-re",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "5e-riaom",
+      "nom": {
+        "fr": "5e régiment interarmes d'outre-mer",
+        "en": "5th Overseas Combined Arms Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment interarmes de l'armée de Terre stationné à Djibouti au sein des FFDj.",
+        "en": "French Army combined-arms regiment stationed in Djibouti as part of the FFDj."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "6e-rcs",
+      "nom": {
+        "fr": "6e régiment de commandement et de soutien",
+        "en": "6th Command and Support Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment de commandement et de soutien de l'armée de Terre engagé avec la division Daguet.",
+        "en": "French Army command and support regiment deployed with the Daguet division."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "6e-reg",
+      "nom": {
+        "fr": "6e régiment étranger de génie",
+        "en": "6th Foreign Engineer Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment du génie de la Légion étrangère (devenu depuis 1er REG).",
+        "en": "Foreign Legion engineer regiment (later renamed 1st REG)."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – Septembre 1990 – mai 1991. La division Daguet",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "6e-rg",
+      "nom": {
+        "fr": "6e régiment du génie",
+        "en": "6th Engineer Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment du génie de l'armée de Terre.",
+        "en": "French Army engineer regiment."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "7e-bca",
+      "nom": {
+        "fr": "7e bataillon de chasseurs alpins",
+        "en": "7th Alpine Chasseurs Battalion"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Bataillon d'infanterie de montagne stationné à Varces (Isère), au sein de la 27e brigade d'infanterie de montagne. Il a été engagé en Irak en 2026 au titre d'Inherent Resolve.",
+        "en": "Mountain infantry battalion based in Varces (Isère), part of the 27th Mountain Infantry Brigade. It deployed to Iraq in 2026 under Inherent Resolve."
+      },
+      "sources": [
+        {
+          "titre": "Armée de Terre - In memoriam",
+          "url": "https://www.defense.gouv.fr/terre/in-memoriam",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "8e-rpima",
+      "nom": {
+        "fr": "8e régiment de parachutistes d'infanterie de marine",
+        "en": "8th Marine Infantry Parachute Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment parachutiste des troupes de marine de l'armée de Terre.",
+        "en": "French Army marine infantry parachute regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "92e-ri",
+      "nom": {
+        "fr": "92e régiment d'infanterie",
+        "en": "92nd Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment d'infanterie de l'armée de Terre.",
+        "en": "French Army infantry regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "9e-rima",
+      "nom": {
+        "fr": "9e régiment d'infanterie de marine",
+        "en": "9th Marine Infantry Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment des troupes de marine basé à Cayenne, engagé notamment dans l'opération Harpie contre l'orpaillage illégal.",
+        "en": "Marine troops regiment based in Cayenne, engaged notably in Operation Harpie against illegal gold mining."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées en Guyane (FAG) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/112",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "antenne-gign",
+      "nom": {
+        "fr": "Antenne du GIGN",
+        "en": "GIGN regional branch"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Unité d'intervention spécialisée dont dispose la plupart des commandements de gendarmerie d'outre-mer.",
+        "en": "Specialised intervention unit held by most overseas gendarmerie commands."
+      },
+      "sources": [
+        {
+          "titre": "Sénat, avis n° 141 (2025-2026), tome XI « Sécurités – Gendarmerie nationale (programme 152) », PLF 2026 (24 novembre 2025)",
+          "url": "https://www.senat.fr/rap/a25-141-11/a25-141-11_mono.html",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "ba-188",
+      "nom": {
+        "fr": "Base aérienne 188 Djibouti",
+        "en": "Air Base 188 Djibouti"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Base de l'Armée de l'Air et de l'Espace à Djibouti, qui accueille les avions de chasse et les hélicoptères des FFDj.",
+        "en": "French Air and Space Force base in Djibouti hosting the FFDj fighter aircraft and helicopters."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "bcr-somme",
+      "nom": {
+        "fr": "BCR Somme",
+        "en": "Command and replenishment ship Somme"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Bâtiment de commandement et de ravitaillement, navire amiral du SNMG2 lorsque la France en a pris le commandement en avril 2024.",
+        "en": "Command and replenishment ship, flagship of SNMG2 when France took command of the group in April 2024."
+      },
+      "sources": [
+        {
+          "titre": "La France à la tête d'un groupe maritime permanent de l'OTAN",
+          "url": "https://www.defense.gouv.fr/marine/france-tete-dun-groupe-maritime-permanent-lotan",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "brf-jacques-chevallier",
+      "nom": {
+        "fr": "BRF Jacques Chevallier",
+        "en": "Fleet tanker Jacques Chevallier"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Premier bâtiment ravitailleur de forces de la Marine nationale. Il a ravitaillé le groupe aéronaval pendant Clemenceau 25.",
+        "en": "First of the French Navy's new fleet replenishment ships. It supplied the carrier strike group during Clemenceau 25."
+      },
+      "sources": [
+        {
+          "titre": "Fin de la mission Clemenceau 25 : un déploiement hors normes",
+          "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "cecad",
+      "nom": {
+        "fr": "Centre d'entraînement au combat et d'aguerrissement au désert de Djibouti (CECAD)",
+        "en": "Djibouti Desert Combat and Hardening Training Centre (CECAD)"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Centre d'entraînement des FFDj dédié au combat en milieu désertique, ouvert aux forces françaises et partenaires.",
+        "en": "FFDj training centre dedicated to desert combat, open to French and partner forces."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "ec-1-7-provence",
+      "nom": {
+        "fr": "Escadron de chasse 1/7 Provence",
+        "en": "Fighter Squadron 1/7 Provence"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Escadron de chasse sur Rafale stationné sur la base aérienne 104 d'Al Dhafra, aux Émirats arabes unis.",
+        "en": "Rafale fighter squadron stationed at Air Base 104, Al Dhafra, in the United Arab Emirates."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées - FFEAU",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-aux-emirats-arabes-unis",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "egm",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile (EGM)",
+        "en": "Mobile gendarmerie squadron (EGM)"
+      },
+      "force": "gendarmerie",
+      "rarete": "commune",
+      "description": {
+        "fr": "Unité de maintien de l'ordre projetable ; la gendarmerie en compte 116, dont 39 engagés outre-mer fin août 2025.",
+        "en": "Deployable public-order unit; the gendarmerie has 116, of which 39 were deployed overseas in late August 2025."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale, avis n° 2048 tome VIII « Sécurités – Gendarmerie nationale », PLF 2026 (29 octobre 2025)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_def/l17b2048-tviii_rapport-avis.pdf",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gendarmerie nationale, dossier de présentation 2025 (chiffres outre-mer au 31 août 2025)",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "ester-antilles",
+      "nom": {
+        "fr": "Escadron territorial de réserve aérienne (ESTER) Antilles",
+        "en": "Territorial Air Reserve Squadron (ESTER) Antilles"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron créé en 2025 au Lamentin, composé de pilotes réservistes volant sur avions civils pour des missions de guet, de renseignement et de surveillance.",
+        "en": "Squadron created in 2025 at Le Lamentin, made up of reserve pilots flying civilian aircraft on lookout, intelligence and surveillance missions."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées aux Antilles (FAA) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "et-50",
+      "nom": {
+        "fr": "Escadron de transport 50",
+        "en": "Transport Squadron 50"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Escadron de transport de la base aérienne 181 de La Réunion, doté de deux avions CASA CN235.",
+        "en": "Transport squadron of Air Base 181 in Réunion, with two CASA CN235 aircraft."
+      },
+      "sources": [
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "et-52",
+      "nom": {
+        "fr": "Escadron de transport 52",
+        "en": "Transport Squadron 52"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Escadron de la base aérienne 186 de La Tontouta (Nouvelle-Calédonie), mettant en œuvre des CN235 et des hélicoptères.",
+        "en": "Squadron of Air Base 186 at La Tontouta (New Caledonia), operating CN235 aircraft and helicopters."
+      },
+      "sources": [
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "et-68-antilles-guyane",
+      "nom": {
+        "fr": "Escadron de transport 68 « Antilles-Guyane »",
+        "en": "Transport Squadron 68 'Antilles-Guyane'"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Escadron de l'armée de l'Air et de l'Espace basé sur la plateforme de Cayenne-Matoury (BA 367), équipé d'hélicoptères Puma et Fennec et d'avions CN235.",
+        "en": "French Air and Space Force squadron based at the Cayenne-Matoury platform (Air Base 367), flying Puma and Fennec helicopters and CN235 aircraft."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées en Guyane (FAG) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/112",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "et-82-maine",
+      "nom": {
+        "fr": "Escadron de transport 82 « Maine »",
+        "en": "Transport Squadron 82 'Maine'"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Escadron de transport basé à Faa'a (Tahiti), équipé de deux avions de transport tactique CASA CN235.",
+        "en": "Transport squadron based at Faa'a (Tahiti), equipped with two CASA CN235 tactical transport aircraft."
+      },
+      "sources": [
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fcr-finul",
+      "nom": {
+        "fr": "Force Commander Reserve (FINUL)",
+        "en": "Force Commander Reserve (UNIFIL)"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Groupement franco-finlandais basé à Deir Kifa, principal moyen de réaction du commandant de la FINUL. Il réunit infanterie, reconnaissance, artillerie, génie et soutien.",
+        "en": "Franco-Finnish battlegroup based in Deir Kifa, the UNIFIL commander's main reaction force. It combines infantry, reconnaissance, artillery, engineers and support."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées - Opération Daman",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/operations-militaires-au-proche-moyen-orient/operation-daman",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fda-chevalier-paul",
+      "nom": {
+        "fr": "Frégate de défense aérienne Chevalier Paul",
+        "en": "Air-defence destroyer Chevalier Paul"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Frégate de défense aérienne de classe Horizon. Elle faisait partie de l'escorte du groupe aéronaval au départ de la mission La Fayette 26.",
+        "en": "Horizon-class air-defence destroyer. It was part of the carrier strike group's escort when La Fayette 26 began."
+      },
+      "sources": [
+        {
+          "titre": "Naval News – French CSG Retasked to East Mediterranean amid Iran tensions (presse)",
+          "url": "https://www.navalnews.com/naval-news/2026/03/french-csg-retasked-to-east-mediterranean-amid-iran-tensions/",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "flf-aconit",
+      "nom": {
+        "fr": "Frégate La Fayette Aconit",
+        "en": "La Fayette-class frigate Aconit"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate légère furtive armée par 148 marins en 2026. Elle a accompagné le Dixmude pour Jeanne d'Arc 2026 et servi dans la CTF 150 en 2022 et le SNMG2 en 2024.",
+        "en": "Light stealth frigate with a crew of 148 in 2026. It escorted Dixmude on Jeanne d'Arc 2026 and served in CTF 150 in 2022 and SNMG2 in 2024."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Interactions entre les marines indienne et française à Mumbai",
+          "url": "https://www.defense.gouv.fr/marine/actualites/interactions-entre-marines-indienne-francaise-a-mumbai",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "flf-guepratte",
+      "nom": {
+        "fr": "Frégate La Fayette Guépratte",
+        "en": "La Fayette-class frigate Guépratte"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate légère furtive de la Marine nationale. Elle a été engagée dans l'opération Agénor en 2022 et 2023.",
+        "en": "French Navy light stealth frigate. It served in Operation Agenor in 2022 and 2023."
+      },
+      "sources": [
+        {
+          "titre": "AGENOR - Deux ans de l'opération AGÉNOR",
+          "url": "https://www.defense.gouv.fr/operations/actualites/agenor-deux-ans-loperation-agenor-au-service-liberte-navigation-golfe-arabo-persique-detroit",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "flottille-25f",
+      "nom": {
+        "fr": "Flottille 25F",
+        "en": "25F Flotilla"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Flottille de surveillance maritime de l'aéronautique navale dans le Pacifique, mettant en œuvre des Falcon à Tahiti-Faa'a et à La Tontouta.",
+        "en": "Naval aviation maritime surveillance flotilla in the Pacific, operating Falcon aircraft from Tahiti-Faa'a and La Tontouta."
+      },
+      "sources": [
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "flottille-35f",
+      "nom": {
+        "fr": "Flottille 35F (détachement Polynésie)",
+        "en": "35F Flotilla (Polynesia detachment)"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Flottille d'hélicoptères de service public et de sauvetage ; un détachement de deux Dauphin N3+ est basé à Faa'a.",
+        "en": "Public-service and rescue helicopter flotilla; a detachment of two Dauphin N3+ is based at Faa'a."
+      },
+      "sources": [
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "flottille-36f",
+      "nom": {
+        "fr": "Flottille 36F (détachement Antilles)",
+        "en": "36F Flotilla (Antilles detachment)"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Flottille d'hélicoptères embarqués de l'aéronautique navale ; un détachement est stationné au pôle aéronautique du Lamentin pour les frégates de surveillance des FAA.",
+        "en": "Naval aviation shipborne helicopter flotilla; a detachment is based at the Le Lamentin aviation hub for the FAA surveillance frigates."
+      },
+      "sources": [
+        {
+          "titre": "Forces armées aux Antilles (FAA) – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fremm-alsace",
+      "nom": {
+        "fr": "FREMM-DA Alsace",
+        "en": "Air-defence frigate Alsace (FREMM-DA)"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Frégate multi-missions à capacité de défense aérienne renforcée. Elle a escorté jusqu'à 19 navires et affronté drones et missiles balistiques en mer Rouge de janvier à avril 2024.",
+        "en": "Multi-mission frigate with enhanced air-defence capability. It escorted up to 19 ships and engaged drones and ballistic missiles in the Red Sea from January to April 2024."
+      },
+      "sources": [
+        {
+          "titre": "Frégate Alsace en mer Rouge : une Marine prête au combat",
+          "url": "https://www.defense.gouv.fr/actualites/fregate-alsace-mer-rouge-marine-prete-au-combat",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fremm-auvergne",
+      "nom": {
+        "fr": "FREMM Auvergne",
+        "en": "FREMM frigate Auvergne"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate multi-missions de la Marine nationale. Elle a participé à l'exercice Northern Viking 26 avec le SNMG1 fin août 2026.",
+        "en": "French Navy multi-mission frigate. It took part in exercise Northern Viking 26 with SNMG1 in late August 2026."
+      },
+      "sources": [
+        {
+          "titre": "Renforcement du flanc Est de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fremm-provence",
+      "nom": {
+        "fr": "FREMM Provence",
+        "en": "FREMM frigate Provence"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate multi-missions rentrée le 2 octobre 2026 après près de onze mois en océan Indien. Elle a escorté des navires marchands dans le cadre d'Aspides.",
+        "en": "Multi-mission frigate that returned on 2 October 2026 after nearly eleven months in the Indian Ocean. It escorted merchant ships under Aspides."
+      },
+      "sources": [
+        {
+          "titre": "Retour de mission pour la FREMM Provence",
+          "url": "https://www.defense.gouv.fr/operations/actualites/retour-mission-fremm-provence",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "gendarmerie-prevotale",
+      "nom": {
+        "fr": "Gendarmerie prévôtale",
+        "en": "Provost gendarmerie"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Formation spécialisée de la gendarmerie qui assure la police judiciaire militaire auprès des forces armées hors de France ; 13 brigades prévôtales en 2025.",
+        "en": "Specialised gendarmerie formation providing military judicial police to armed forces outside France; 13 provost brigades in 2025."
+      },
+      "sources": [
+        {
+          "titre": "Gendarmerie nationale, dossier de présentation 2025 (chiffres outre-mer au 31 août 2025)",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pa-charles-de-gaulle",
+      "nom": {
+        "fr": "Porte-avions Charles de Gaulle",
+        "en": "Aircraft carrier Charles de Gaulle"
+      },
+      "force": "marine",
+      "rarete": "legendaire",
+      "description": {
+        "fr": "Unique porte-avions de la Marine nationale, à propulsion nucléaire, cœur du groupe aéronaval. Il a conduit les missions Clemenceau 25 et La Fayette 26.",
+        "en": "The French Navy's only aircraft carrier, nuclear-powered and the core of the carrier strike group. It led the Clemenceau 25 and La Fayette 26 missions."
+      },
+      "sources": [
+        {
+          "titre": "Fin de la mission Clemenceau 25 : un déploiement hors normes",
+          "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pha-dixmude",
+      "nom": {
+        "fr": "PHA Dixmude",
+        "en": "Amphibious helicopter carrier Dixmude"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Porte-hélicoptères amphibie de classe Mistral, armé par 205 marins en 2026. Bâtiment principal de la mission Jeanne d'Arc 2026 et habitué de la mission Corymbe.",
+        "en": "Mistral-class amphibious helicopter carrier with a crew of 205 in 2026. Lead ship of the Jeanne d'Arc 2026 mission and a regular on Corymbe."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pha-mistral",
+      "nom": {
+        "fr": "PHA Mistral",
+        "en": "Amphibious helicopter carrier Mistral"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Tête de série des porte-hélicoptères amphibies français. Il a effectué une mission Corymbe d'août à décembre 2023, saisissant environ 900 kg de cocaïne.",
+        "en": "Lead ship of France's amphibious helicopter carriers. It carried out a Corymbe deployment from August to December 2023, seizing about 900 kg of cocaine."
+      },
+      "sources": [
+        {
+          "titre": "Bilan fin de mission Corymbe du PHA Mistral",
+          "url": "https://www.defense.gouv.fr/marine/actualites/bilan-fin-mission-corymbe-du-pha-mistral",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pha-tonnerre",
+      "nom": {
+        "fr": "PHA Tonnerre",
+        "en": "Amphibious helicopter carrier Tonnerre"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Porte-hélicoptères amphibie de classe Mistral. Le ministère le cite parmi les bâtiments engagés dans la mission Corymbe.",
+        "en": "Mistral-class amphibious helicopter carrier. The ministry lists it among the ships deployed on Corymbe."
+      },
+      "sources": [
+        {
+          "titre": "Opération CORYMBE",
+          "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "phm-commandant-blaison",
+      "nom": {
+        "fr": "PHM Commandant Blaison",
+        "en": "Offshore patrol vessel Commandant Blaison"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleur de haute mer déployé en avril 2026 en mer du Nord et en Norvège dans une mission de l'OTAN liée à Baltic Sentry.",
+        "en": "Offshore patrol vessel deployed in April 2026 to the North Sea and Norway on a NATO mission linked to Baltic Sentry."
+      },
+      "sources": [
+        {
+          "titre": "Renforcement du flanc Est de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "phm-commandant-bouan",
+      "nom": {
+        "fr": "PHM Commandant Bouan",
+        "en": "Offshore patrol vessel Commandant Bouan"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleur de haute mer engagé dans Corymbe, notamment lors d'une escale de coopération à Libreville en juin 2025.",
+        "en": "Offshore patrol vessel deployed on Corymbe, including a cooperation stop in Libreville in June 2025."
+      },
+      "sources": [
+        {
+          "titre": "Opération CORYMBE",
+          "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "phm-commandant-ducuing",
+      "nom": {
+        "fr": "PHM Commandant Ducuing",
+        "en": "Offshore patrol vessel Commandant Ducuing"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleur de haute mer cité par le ministère parmi les bâtiments de la mission Corymbe.",
+        "en": "Offshore patrol vessel listed by the ministry among Corymbe ships."
+      },
+      "sources": [
+        {
+          "titre": "Opération CORYMBE",
+          "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "phm-enseigne-de-vaisseau-jacoubet",
+      "nom": {
+        "fr": "PHM Enseigne de vaisseau Jacoubet",
+        "en": "Offshore patrol vessel Enseigne de vaisseau Jacoubet"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleur de haute mer qui a relevé le PHA Mistral sur la mission Corymbe fin 2023.",
+        "en": "Offshore patrol vessel that relieved the Mistral on Corymbe in late 2023."
+      },
+      "sources": [
+        {
+          "titre": "Bilan fin de mission Corymbe du PHA Mistral",
+          "url": "https://www.defense.gouv.fr/marine/actualites/bilan-fin-mission-corymbe-du-pha-mistral",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pigr",
+      "nom": {
+        "fr": "Peloton d'intervention de la Garde républicaine (PIGR)",
+        "en": "Republican Guard intervention platoon (PIGR)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Détachement de 16 militaires de la Garde républicaine stationné à Mayotte pour les missions délicates de rétablissement de l'ordre et d'interpellation.",
+        "en": "A 16-strong Republican Guard detachment stationed in Mayotte for demanding public-order and arrest operations."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale, avis n° 2048 tome VIII « Sécurités – Gendarmerie nationale », PLF 2026 (29 octobre 2025)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_def/l17b2048-tviii_rapport-avis.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "ricm",
+      "nom": {
+        "fr": "Régiment d'infanterie-chars de marine",
+        "en": "Marine Infantry Tank Regiment"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Régiment blindé des troupes de marine de l'armée de Terre.",
+        "en": "French Army marine armoured regiment."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France dans les Balkans",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france-balkans",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rimap-nc",
+      "nom": {
+        "fr": "Régiment d'infanterie de marine du Pacifique – Nouvelle-Calédonie",
+        "en": "Pacific Marine Infantry Regiment – New Caledonia"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Composante terrestre des FANC, implantée à Plum, Nouméa et Nandaï.",
+        "en": "Land component of the FANC, based at Plum, Nouméa and Nandaï."
+      },
+      "sources": [
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rimap-p",
+      "nom": {
+        "fr": "Régiment d'infanterie de marine du Pacifique – Polynésie",
+        "en": "Pacific Marine Infantry Regiment – Polynesia"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Composante terrestre des forces armées en Polynésie française.",
+        "en": "Land component of the French Armed Forces in French Polynesia."
+      },
+      "sources": [
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    }
+  ],
+  "materiels": [
+    {
+      "id": "a330-mrtt",
+      "nom": {
+        "fr": "A330 MRTT Phénix",
+        "en": "A330 MRTT Phénix"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion multirôle de ravitaillement en vol et de transport.",
+        "en": "Multirole air-to-air refuelling and transport aircraft."
+      },
+      "sources": [
+        {
+          "titre": "Air Shielding",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "a400m",
+      "nom": {
+        "fr": "A400M Atlas",
+        "en": "A400M Atlas"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de transport tactique et stratégique.",
+        "en": "Tactical and strategic transport aircraft."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale, commission de la Défense – Audition de Mme Florence Parly sur le bilan de l'opération Apagan, 14 septembre 2021 (compte rendu n° 76)",
+          "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/cion_def/l15cion_def2021076_compte-rendu.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "amx-10-rc",
+      "categorie": "vehicule",
+      "nom": {
+        "fr": "AMX-10 RC",
+        "en": "AMX-10 RC"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Engin blindé de reconnaissance à roues armé d'un canon de 105 mm ; neuf exemplaires à Djibouti.",
+        "en": "Wheeled armoured reconnaissance vehicle with a 105 mm gun; nine in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "as350-ecureuil",
+      "nom": {
+        "fr": "Hélicoptère Écureuil",
+        "en": "Écureuil helicopter"
+      },
+      "force": "gendarmerie",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère léger des sections aériennes de la gendarmerie ; le CGOM en compte 9, dont un seul chacun en Guadeloupe, Martinique et Mayotte.",
+        "en": "Light helicopter of the gendarmerie air sections; the CGOM has 9, with only one each in Guadeloupe, Martinique and Mayotte."
+      },
+      "sources": [
+        {
+          "titre": "Sénat, avis n° 141 (2025-2026), tome XI « Sécurités – Gendarmerie nationale (programme 152) », PLF 2026 (24 novembre 2025)",
+          "url": "https://www.senat.fr/rap/a25-141-11/a25-141-11_mono.html",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "as532-cougar",
+      "nom": {
+        "fr": "Hélicoptère Cougar",
+        "en": "Cougar helicopter"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère de manœuvre de l'ALAT.",
+        "en": "French Army Light Aviation utility helicopter."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "as555-fennec",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "AS555 Fennec",
+        "en": "AS555 Fennec"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère léger ; un détachement dédié aux évacuations sanitaires était déployé en Côte d'Ivoire jusqu'en juin 2025.",
+        "en": "Light helicopter; a medical-evacuation detachment was based in Côte d'Ivoire until June 2025."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – DLIA-I : Dissolution des détachements et formations administratives",
+          "url": "https://www.defense.gouv.fr/operations/actualites/dlia-i-dissolution-detachements-formations-administratives",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "astrolabe",
+      "nom": {
+        "fr": "Patrouilleur polaire L'Astrolabe",
+        "en": "Polar patrol vessel L'Astrolabe"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Patrouilleur polaire appartenant aux TAAF et mis en œuvre par la Marine depuis La Réunion, notamment pour la desserte des îles Éparses et des Terres australes.",
+        "en": "Polar patrol vessel owned by the French Southern Lands administration (TAAF) and operated by the Navy from Réunion, notably to serve the Scattered Islands and southern territories."
+      },
+      "sources": [
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "atlantique-2",
+      "nom": {
+        "fr": "Atlantique 2 (ATL2)",
+        "en": "Atlantique 2 (ATL2)"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de patrouille maritime de la Marine nationale, engagé au profit de l'OTAN, d'Agénor, du groupe aéronaval et en mer Noire.",
+        "en": "French Navy maritime patrol aircraft, used for NATO, Agenor, the carrier group and in the Black Sea."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 22 au 29 octobre 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-22-au-29-octobre-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "batiment-commandement-ravitaillement",
+      "nom": {
+        "fr": "Bâtiment de commandement et de ravitaillement (BCR)",
+        "en": "Command and replenishment ship (BCR)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Pétrolier-ravitailleur pouvant accueillir un état-major embarqué, utilisé comme navire amiral du SNMG2 en 2024.",
+        "en": "Replenishment tanker able to host an embarked staff, used as SNMG2 flagship in 2024."
+      },
+      "sources": [
+        {
+          "titre": "La France à la tête d'un groupe maritime permanent de l'OTAN",
+          "url": "https://www.defense.gouv.fr/marine/france-tete-dun-groupe-maritime-permanent-lotan",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "batiment-ravitailleur-forces",
+      "nom": {
+        "fr": "Bâtiment ravitailleur de forces (BRF)",
+        "en": "Fleet replenishment ship (BRF)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Navire logistique qui ravitaille en mer le groupe aéronaval en carburant, vivres et munitions.",
+        "en": "Logistics ship that replenishes the carrier strike group at sea with fuel, food and ammunition."
+      },
+      "sources": [
+        {
+          "titre": "Fin de la mission Clemenceau 25 : un déploiement hors normes",
+          "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "bsaom",
+      "nom": {
+        "fr": "Bâtiment de soutien et d'assistance outre-mer (BSAOM)",
+        "en": "Overseas support and assistance vessel (BSAOM)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Navires logistiques polyvalents des forces de souveraineté : Dumont d'Urville (Antilles), Champlain (La Réunion), D'Entrecasteaux (Nouméa), Bougainville (Papeete).",
+        "en": "Multi-purpose logistics ships of the sovereignty forces: Dumont d'Urville (Antilles), Champlain (Réunion), D'Entrecasteaux (Nouméa), Bougainville (Papeete)."
+      },
+      "sources": [
+        {
+          "titre": "FAA – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "c-130-hercules",
+      "nom": {
+        "fr": "C-130 Hercules",
+        "en": "C-130 Hercules"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Avion de transport tactique de l'armée de l'Air et de l'Espace.",
+        "en": "Tactical transport aircraft of the French Air and Space Force."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale, commission de la Défense – Compte rendu du déplacement au Tchad (décembre 2013)",
+          "url": "https://www.assemblee-nationale.fr/14/commissions/cdef/cr_tchad_2013_12.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "c-130j",
+      "nom": {
+        "fr": "C-130J",
+        "en": "C-130J"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Version modernisée de l'avion de transport tactique Hercules.",
+        "en": "Modernised version of the Hercules tactical transport aircraft."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "c-135fr",
+      "nom": {
+        "fr": "C-135FR",
+        "en": "C-135FR"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion ravitailleur en vol, depuis remplacé par l'A330 MRTT.",
+        "en": "Air-to-air refuelling tanker, since replaced by the A330 MRTT."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Avis n° 256 (PLF 2013), tome VI « Préparation et emploi des forces : Air » – bilan de l'opération Harmattan",
+          "url": "https://www.assemblee-nationale.fr/14/pdf/budget/plf2013/a0256-tVI.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "c-160g-gabriel",
+      "nom": {
+        "fr": "Transall C-160G Gabriel",
+        "en": "Transall C-160G Gabriel"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de renseignement électromagnétique, retiré du service en 2022.",
+        "en": "Signals-intelligence aircraft, retired in 2022."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Avis n° 256 (PLF 2013), tome VI « Préparation et emploi des forces : Air » – bilan de l'opération Harmattan",
+          "url": "https://www.assemblee-nationale.fr/14/pdf/budget/plf2013/a0256-tVI.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "caesar",
+      "categorie": "systeme",
+      "nom": {
+        "fr": "Canon CAESAR",
+        "en": "CAESAR howitzer"
+      },
+      "force": "terre",
+      "rarete": "rare",
+      "description": {
+        "fr": "Canon automoteur de 155 mm sur camion ; quatre pièces sont en dotation à Djibouti.",
+        "en": "Truck-mounted 155 mm self-propelled howitzer; four are held in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "camcopter-s100",
+      "nom": {
+        "fr": "Drone Camcopter S-100",
+        "en": "Camcopter S-100 drone"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Drone à voilure tournante embarqué ; deux S-100 étaient à bord pour Jeanne d'Arc 2026 et un sur le Mistral lors de Corymbe 2023.",
+        "en": "Embarked rotary-wing drone; two S-100s were aboard for Jeanne d'Arc 2026 and one on the Mistral during Corymbe 2023."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "casa-cn235",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "CASA CN-235",
+        "en": "CASA CN-235"
+      },
+      "force": "air",
+      "rarete": "commune",
+      "description": {
+        "fr": "Avion de transport tactique léger ; un exemplaire est affecté aux FFDj.",
+        "en": "Light tactical transport aircraft; one is assigned to the FFDj."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "chaland-transport-materiel",
+      "categorie": "navire",
+      "nom": {
+        "fr": "Chaland de transport de matériel (CTM)",
+        "en": "Landing craft (CTM)"
+      },
+      "force": "marine",
+      "rarete": "commune",
+      "description": {
+        "fr": "Engin de débarquement pour le transport de véhicules et de matériel ; deux sont basés à Djibouti.",
+        "en": "Landing craft carrying vehicles and equipment; two are based in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "chasseur-mines-tripartite",
+      "nom": {
+        "fr": "Chasseur de mines tripartite (CMT)",
+        "en": "Tripartite minehunter (CMT)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Bâtiment de guerre des mines qui détecte, identifie et neutralise les mines. Deux CMT ont été pré-positionnés vers Oman en 2026 pour l'initiative Ormuz.",
+        "en": "Mine warfare vessel that detects, identifies and neutralises mines. Two were pre-positioned toward Oman in 2026 for the Hormuz initiative."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 18 juin au jeudi 25 juin 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-18-juin-au-jeudi-25-juin-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "dauphin",
+      "nom": {
+        "fr": "Hélicoptère Dauphin",
+        "en": "Dauphin helicopter"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère de la Marine embarqué sur la frégate Aconit pour Jeanne d'Arc 2026, avec 11 marins.",
+        "en": "Navy helicopter embarked on the frigate Aconit for Jeanne d'Arc 2026, with 11 sailors."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "dcl",
+      "nom": {
+        "fr": "DCL (dépanneur char Leclerc)",
+        "en": "DCL Leclerc recovery vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Véhicule de dépannage blindé construit sur châssis Leclerc.",
+        "en": "Armoured recovery vehicle built on the Leclerc chassis."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "e-2c-hawkeye",
+      "nom": {
+        "fr": "E-2C Hawkeye",
+        "en": "E-2C Hawkeye"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Avion de guet aérien embarqué sur le porte-avions, déployé en Méditerranée orientale en mars 2026.",
+        "en": "Carrier-borne airborne early warning aircraft, deployed in the eastern Mediterranean in March 2026."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 12 mars au jeudi 19 mars 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-12-mars-au-jeudi-19-mars-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "e-3f",
+      "nom": {
+        "fr": "E-3F SDCA",
+        "en": "E-3F AWACS"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Avion de détection et de commandement aéroporté (AWACS) de l'armée de l'Air et de l'Espace.",
+        "en": "French Air and Space Force airborne warning and control aircraft (AWACS)."
+      },
+      "sources": [
+        {
+          "titre": "Air Shielding",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "egrap",
+      "nom": {
+        "fr": "EGRAP",
+        "en": "EGRAP engineer vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "commune",
+      "description": {
+        "fr": "Engin du génie rapide de protection, utilisé pour les travaux de terrassement et d'aménagement de positions.",
+        "en": "Rapid protection engineer vehicle used for earthworks and preparing positions."
+      },
+      "sources": [
+        {
+          "titre": "Estonie : contribution française au bataillon multinational de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "erc-90",
+      "nom": {
+        "fr": "ERC 90 Sagaie",
+        "en": "ERC 90 Sagaie"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Engin blindé de reconnaissance à roues armé d'un canon de 90 mm.",
+        "en": "Wheeled armoured reconnaissance vehicle with a 90 mm gun."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France dans les Balkans",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france-balkans",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "vehicule"
+    },
+    {
+      "id": "falcon-200-gardian",
+      "nom": {
+        "fr": "Falcon 200 Gardian",
+        "en": "Falcon 200 Gardian"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de surveillance maritime de la flottille 25F ; deux exemplaires sont basés à La Tontouta.",
+        "en": "Maritime surveillance aircraft of the 25F flotilla; two are based at La Tontouta."
+      },
+      "sources": [
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "falcon-50",
+      "nom": {
+        "fr": "Falcon 50 (surveillance maritime)",
+        "en": "Falcon 50 (maritime surveillance)"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de surveillance maritime ; trois Falcon 50 de la flottille 25F sont partagés entre la Polynésie et la Nouvelle-Calédonie, où ils doivent remplacer les Falcon 200 avant 2027.",
+        "en": "Maritime surveillance aircraft; three Falcon 50s of the 25F flotilla are shared between Polynesia and New Caledonia, where they are due to replace the Falcon 200s before 2027."
+      },
+      "sources": [
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Assemblée nationale – Question écrite n° 8077",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-8077QE.htm",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "falcon-50m",
+      "nom": {
+        "fr": "Falcon 50M",
+        "en": "Falcon 50M"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de surveillance maritime ; un appareil basé à Dakar appuie la mission Corymbe.",
+        "en": "Maritime surveillance aircraft; one based in Dakar supports Corymbe."
+      },
+      "sources": [
+        {
+          "titre": "Opération CORYMBE",
+          "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fda-jean-bart",
+      "nom": {
+        "fr": "Frégate de défense aérienne Jean Bart",
+        "en": "Air-defence frigate Jean Bart"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate antiaérienne de la classe Cassard, désarmée depuis.",
+        "en": "Cassard-class air-defence frigate, since decommissioned."
+      },
+      "sources": [
+        {
+          "titre": "Centre d'études supérieures de la Marine – Brèves Marine n° 127 (9 mai 2011) « Harmattan, le dispositif naval »",
+          "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/cesm/bm-127-harmattan.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "navire"
+    },
+    {
+      "id": "fregate-fremm",
+      "nom": {
+        "fr": "Frégate multi-missions (FREMM)",
+        "en": "Multi-mission frigate (FREMM)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Frégate de premier rang polyvalente de la Marine nationale, déclinée en version de défense aérienne (FREMM-DA). Pilier des missions Aspides, SNMG et de l'initiative Ormuz.",
+        "en": "French Navy first-rank multi-role frigate, also built in an air-defence variant (FREMM-DA). Mainstay of Aspides, SNMG and the Hormuz initiative."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 10 au jeudi 17 septembre 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-10-au-jeudi-17-septembre-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fregate-horizon",
+      "nom": {
+        "fr": "Frégate de défense aérienne classe Horizon",
+        "en": "Horizon-class air-defence destroyer"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Frégate franco-italienne spécialisée dans la défense aérienne d'une force navale, notamment du groupe aéronaval.",
+        "en": "Franco-Italian destroyer specialised in air defence of a naval force, notably the carrier strike group."
+      },
+      "sources": [
+        {
+          "titre": "Naval News – French CSG Retasked to East Mediterranean amid Iran tensions (presse)",
+          "url": "https://www.navalnews.com/naval-news/2026/03/french-csg-retasked-to-east-mediterranean-amid-iran-tensions/",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fregate-la-fayette",
+      "nom": {
+        "fr": "Frégate type La Fayette (FLF)",
+        "en": "La Fayette-class frigate (FLF)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégate légère furtive de la Marine nationale, souvent engagée dans les missions de présence, Agénor, CTF 150, SNMG2 et Jeanne d'Arc.",
+        "en": "French Navy light stealth frigate, frequently used for presence missions, Agenor, CTF 150, SNMG2 and Jeanne d'Arc."
+      },
+      "sources": [
+        {
+          "titre": "Une frégate type La Fayette au service du Standing NATO Maritime Group 2",
+          "url": "https://www.defense.gouv.fr/marine/actualites/fregate-type-fayette-au-service-du-standing-nato-maritime-group-2",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "fregate-surveillance-floreal",
+      "nom": {
+        "fr": "Frégate de surveillance (classe Floréal)",
+        "en": "Surveillance frigate (Floréal class)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Frégates de surveillance stationnées outre-mer, embarquant un hélicoptère : Ventôse et Germinal (Antilles), Nivôse et Floréal (La Réunion), Vendémiaire (Nouméa), Prairial (Papeete).",
+        "en": "Overseas-based surveillance frigates each carrying a helicopter: Ventôse and Germinal (Antilles), Nivôse and Floréal (Réunion), Vendémiaire (Nouméa), Prairial (Papeete)."
+      },
+      "sources": [
+        {
+          "titre": "FAA – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "gm200",
+      "nom": {
+        "fr": "Radar GM 200",
+        "en": "GM 200 radar"
+      },
+      "force": "air",
+      "categorie": "systeme",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Radar de surveillance aérienne moyenne portée.",
+        "en": "Medium-range air surveillance radar."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "griffon",
+      "nom": {
+        "fr": "VBMR Griffon",
+        "en": "Griffon multi-role armoured vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Véhicule blindé multi-rôles 6x6 du programme Scorpion, qui remplace progressivement le VAB.",
+        "en": "6x6 multi-role armoured vehicle from the Scorpion programme, gradually replacing the VAB."
+      },
+      "sources": [
+        {
+          "titre": "Estonie : contribution française au bataillon multinational de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "h225m-caracal",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "H225M Caracal",
+        "en": "H225M Caracal"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Hélicoptère de manœuvre lourd ; deux exemplaires sont arrivés à Djibouti en 2025.",
+        "en": "Heavy utility helicopter; two arrived in Djibouti in 2025."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "harfang",
+      "nom": {
+        "fr": "Drone Harfang",
+        "en": "Harfang drone"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Drone de surveillance de moyenne altitude longue endurance de l'armée de l'Air, aujourd'hui retiré.",
+        "en": "Medium-altitude long-endurance surveillance drone of the French Air Force, now retired."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "helicoptere-panther",
+      "nom": {
+        "fr": "Hélicoptère AS565 Panther",
+        "en": "AS565 Panther helicopter"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère embarqué sur les frégates de surveillance des Antilles et de La Réunion.",
+        "en": "Shipborne helicopter carried by the surveillance frigates in the Antilles and Réunion."
+      },
+      "sources": [
+        {
+          "titre": "FAA – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAZSOI – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/99",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "leclerc",
+      "nom": {
+        "fr": "Char Leclerc",
+        "en": "Leclerc main battle tank"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "rare",
+      "description": {
+        "fr": "Char de combat principal de l'armée de Terre, armé d'un canon de 120 mm.",
+        "en": "The French Army's main battle tank, armed with a 120 mm gun."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "lru",
+      "nom": {
+        "fr": "LRU (lance-roquettes unitaire)",
+        "en": "LRU rocket launcher"
+      },
+      "force": "terre",
+      "categorie": "systeme",
+      "rarete": "rare",
+      "description": {
+        "fr": "Lance-roquettes chenillé tirant des roquettes guidées à longue portée.",
+        "en": "Tracked launcher firing long-range guided rockets."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "mirage-2000-5",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "Mirage 2000-5",
+        "en": "Mirage 2000-5"
+      },
+      "force": "air",
+      "rarete": "rare",
+      "description": {
+        "fr": "Avion de chasse de défense aérienne ; deux exemplaires sont stationnés à Djibouti.",
+        "en": "Air-defence fighter; two are stationed in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "mirage-2000c",
+      "nom": {
+        "fr": "Mirage 2000C",
+        "en": "Mirage 2000C"
+      },
+      "force": "air",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion de défense aérienne, retiré du service en 2022.",
+        "en": "Air-defence fighter, retired in 2022."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "mirage-2000d",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "Mirage 2000D",
+        "en": "Mirage 2000D"
+      },
+      "force": "air",
+      "rarete": "rare",
+      "description": {
+        "fr": "Avion de chasse biplace d'attaque au sol ; trois exemplaires sont stationnés à Djibouti.",
+        "en": "Two-seat ground-attack fighter; three are stationed in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "mistral",
+      "nom": {
+        "fr": "Mistral (SATCP)",
+        "en": "Mistral very short-range air defence"
+      },
+      "force": "terre",
+      "categorie": "systeme",
+      "rarete": "commune",
+      "description": {
+        "fr": "Missile sol-air très courte portée à guidage infrarouge.",
+        "en": "Infrared-guided very short-range surface-to-air missile."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "mortier-120",
+      "nom": {
+        "fr": "Mortier de 120 mm",
+        "en": "120 mm mortar"
+      },
+      "force": "terre",
+      "categorie": "systeme",
+      "rarete": "commune",
+      "description": {
+        "fr": "Mortier lourd d'appui feu des unités d'infanterie et d'artillerie.",
+        "en": "Heavy mortar providing fire support to infantry and artillery units."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "mq-9-reaper",
+      "nom": {
+        "fr": "Drone MQ-9 Reaper",
+        "en": "MQ-9 Reaper drone"
+      },
+      "force": "air",
+      "rarete": "rare",
+      "description": {
+        "fr": "Drone de moyenne altitude longue endurance, armé depuis fin 2019.",
+        "en": "Medium-altitude long-endurance drone, armed since late 2019."
+      },
+      "sources": [
+        {
+          "titre": "Assemblée nationale – Rapport d'information n° 4089 (14 avril 2021) sur l'opération Barkhane",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "nh90-caiman",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "NH90 Caïman",
+        "en": "NH90 Caiman"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Hélicoptère de manœuvre de l'aviation légère de l'armée de Terre ; quatre exemplaires sont stationnés à Djibouti.",
+        "en": "Army Light Aviation utility helicopter; four are stationed in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "patrouilleur-antilles-guyane",
+      "nom": {
+        "fr": "Patrouilleur Antilles-Guyane (PAG)",
+        "en": "Antilles-Guiana patrol vessel (PAG)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleurs de la classe La Confiance : La Combattante aux Antilles, La Confiance et La Résolue en Guyane.",
+        "en": "La Confiance-class patrol vessels: La Combattante in the Antilles, La Confiance and La Résolue in French Guiana."
+      },
+      "sources": [
+        {
+          "titre": "FAA – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/97",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Sénat – Rapport n° 135 (2025-2026)",
+          "url": "https://www.senat.fr/rap/r25-135/r25-13511.html",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "patrouilleur-fulmar",
+      "nom": {
+        "fr": "Patrouilleur Fulmar",
+        "en": "Patrol vessel Fulmar"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Ancien chalutier de 1990 devenu patrouilleur, basé à Saint-Pierre ; seule unité de la Marine nationale stationnée en Amérique du Nord, avec 12 marins.",
+        "en": "Former 1990 trawler converted into a patrol vessel and based at Saint-Pierre; the only French Navy unit stationed in North America, with a crew of 12."
+      },
+      "sources": [
+        {
+          "titre": "Cols bleus – Le Fulmar, une présence française en Amérique du Nord",
+          "url": "https://www.colsbleus.defense.gouv.fr/fr/patrouiller-saint-pierre-et-miquelon-le-fulmar-une-presence-francaise-en-amerique-du-nord",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "patrouilleur-haute-mer",
+      "nom": {
+        "fr": "Patrouilleur de haute mer (PHM)",
+        "en": "Offshore patrol vessel (PHM)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "commune",
+      "description": {
+        "fr": "Bâtiment de surveillance et de présence employé notamment sur Corymbe et pour Baltic Sentry.",
+        "en": "Surveillance and presence vessel used notably on Corymbe and for Baltic Sentry."
+      },
+      "sources": [
+        {
+          "titre": "Renforcement du flanc Est de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "patrouilleur-outre-mer",
+      "nom": {
+        "fr": "Patrouilleur outre-mer (POM, classe Félix Éboué)",
+        "en": "Overseas patrol vessel (POM, Félix Éboué class)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Série de six patrouilleurs remplaçant les P400 à Nouméa, Papeete et Port des Galets ; sont cités Auguste Bénébig et Jean Tranape (Nouméa), Teriieroo a Teriierooiterai et Philippe Bernardino (Papeete), Auguste Techer (La Réunion, service actif le 17 octobre 2025).",
+        "en": "Series of six patrol vessels replacing the P400s at Nouméa, Papeete and Port des Galets; named units include Auguste Bénébig and Jean Tranape (Nouméa), Teriieroo a Teriierooiterai and Philippe Bernardino (Papeete), Auguste Techer (Réunion, active service 17 October 2025)."
+      },
+      "sources": [
+        {
+          "titre": "L'Auguste Techer, troisième patrouilleur outre-mer admis au service actif",
+          "url": "https://www.defense.gouv.fr/marine/actualites/lauguste-techer-troisieme-patrouilleur-outre-mer-admis-au-service-actif",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Admission au service actif du patrouilleur outre-mer Jean Tranape",
+          "url": "https://www.defense.gouv.fr/marine/actualites/admission-au-service-actif-du-patrouilleur-outre-mer-jean-tranape",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "FAPF – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/111",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "patrouilleur-service-public",
+      "nom": {
+        "fr": "Patrouilleur de service public (PSP)",
+        "en": "Public service patrol vessel (PSP)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "commune",
+      "description": {
+        "fr": "Patrouilleur engagé en 2026 en Baltique au profit du SNMG1 pour la protection des infrastructures sous-marines.",
+        "en": "Patrol vessel deployed to the Baltic in 2026 with SNMG1 to protect undersea infrastructure."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 10 au jeudi 17 septembre 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-10-au-jeudi-17-septembre-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "pha-classe-mistral",
+      "nom": {
+        "fr": "Porte-hélicoptères amphibie (classe Mistral)",
+        "en": "Mistral-class amphibious helicopter carrier"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Bâtiment de projection amphibie capable d'embarquer hélicoptères, troupes et moyens sanitaires, dont deux blocs opératoires.",
+        "en": "Amphibious projection ship able to carry helicopters, troops and medical facilities including two operating theatres."
+      },
+      "sources": [
+        {
+          "titre": "Dossier de presse Jeanne d'Arc 2026",
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "porte-avions-charles-de-gaulle",
+      "nom": {
+        "fr": "Porte-avions Charles de Gaulle",
+        "en": "Aircraft carrier Charles de Gaulle"
+      },
+      "force": "marine",
+      "rarete": "legendaire",
+      "description": {
+        "fr": "Porte-avions à propulsion nucléaire de la Marine nationale.",
+        "en": "Nuclear-powered aircraft carrier of the French Navy."
+      },
+      "sources": [
+        {
+          "titre": "Centre d'études supérieures de la Marine – Brèves Marine n° 127 (9 mai 2011) « Harmattan, le dispositif naval »",
+          "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/cesm/bm-127-harmattan.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "navire"
+    },
+    {
+      "id": "pvp",
+      "nom": {
+        "fr": "PVP",
+        "en": "PVP light protected vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "commune",
+      "description": {
+        "fr": "Petit véhicule protégé 4x4 utilisé pour la liaison et le commandement.",
+        "en": "Small 4x4 protected vehicle used for liaison and command."
+      },
+      "sources": [
+        {
+          "titre": "Estonie : contribution française au bataillon multinational de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "radar-cobra",
+      "nom": {
+        "fr": "Radar COBRA",
+        "en": "COBRA radar"
+      },
+      "force": "terre",
+      "categorie": "systeme",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Radar de contre-batterie qui localise les tirs d'artillerie adverses.",
+        "en": "Counter-battery radar that locates hostile artillery fire."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées - Opération Daman",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/operations-militaires-au-proche-moyen-orient/operation-daman",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rafale",
+      "nom": {
+        "fr": "Rafale",
+        "en": "Rafale"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Avion de combat multirôle de Dassault Aviation en service dans l'armée de l'Air et de l'Espace et la Marine.",
+        "en": "Dassault Aviation multirole combat aircraft flown by the French Air and Space Force and Navy."
+      },
+      "sources": [
+        {
+          "titre": "Air Shielding",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rafale-b",
+      "nom": {
+        "fr": "Rafale B",
+        "en": "Rafale B"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Version biplace du Rafale de l'armée de l'Air et de l'Espace.",
+        "en": "Two-seat Rafale variant of the French Air and Space Force."
+      },
+      "sources": [
+        {
+          "titre": "Baltic Air Policing 71 : quatre mois d'engagement français dans le ciel balte",
+          "url": "https://www.defense.gouv.fr/air/actualites/baltic-air-policing-71-quatre-mois-dengagement-francais-ciel-balte",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rafale-c",
+      "nom": {
+        "fr": "Rafale C",
+        "en": "Rafale C"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Version monoplace du Rafale de l'armée de l'Air et de l'Espace.",
+        "en": "Single-seat Rafale variant of the French Air and Space Force."
+      },
+      "sources": [
+        {
+          "titre": "Baltic Air Policing 71 : quatre mois d'engagement français dans le ciel balte",
+          "url": "https://www.defense.gouv.fr/air/actualites/baltic-air-policing-71-quatre-mois-dengagement-francais-ciel-balte",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "rafale-m",
+      "nom": {
+        "fr": "Rafale Marine",
+        "en": "Rafale M"
+      },
+      "force": "marine",
+      "categorie": "aeronef",
+      "rarete": "rare",
+      "description": {
+        "fr": "Version embarquée du Rafale, avion de combat du groupe aérien du porte-avions Charles de Gaulle.",
+        "en": "Carrier-based version of the Rafale, the combat aircraft of the Charles de Gaulle's air wing."
+      },
+      "sources": [
+        {
+          "titre": "Point de situation des opérations du jeudi 12 mars au jeudi 19 mars 2026",
+          "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-12-mars-au-jeudi-19-mars-2026",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "sa330-puma",
+      "nom": {
+        "fr": "Hélicoptère SA330 Puma",
+        "en": "SA330 Puma helicopter"
+      },
+      "force": "air",
+      "categorie": "aeronef",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère de manœuvre ; cinq Puma sont en service à l'escadron de transport 68 en Guyane, notamment au profit de l'opération Harpie.",
+        "en": "Utility helicopter; five Pumas serve with Transport Squadron 68 in French Guiana, notably supporting Operation Harpie."
+      },
+      "sources": [
+        {
+          "titre": "FAG – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/112",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "sa342-gazelle",
+      "categorie": "aeronef",
+      "nom": {
+        "fr": "SA342 Gazelle",
+        "en": "SA342 Gazelle"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Hélicoptère léger de reconnaissance et d'appui ; trois exemplaires sont stationnés à Djibouti.",
+        "en": "Light reconnaissance and support helicopter; three are stationed in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Ministère des Armées – FFDj",
+          "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "samp-t-mamba",
+      "nom": {
+        "fr": "SAMP/T Mamba",
+        "en": "SAMP/T Mamba"
+      },
+      "force": "air",
+      "categorie": "systeme",
+      "rarete": "rare",
+      "description": {
+        "fr": "Système de défense sol-air moyenne portée de l'armée de l'Air et de l'Espace, tirant des missiles Aster 30.",
+        "en": "French Air and Space Force medium-range surface-to-air defence system firing Aster 30 missiles."
+      },
+      "sources": [
+        {
+          "titre": "Renforcement du flanc Est de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Air Shielding",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "serval",
+      "nom": {
+        "fr": "VBMR léger Serval",
+        "en": "Serval light armoured multi-role vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Véhicule blindé multirôle léger du programme Scorpion ; la page des FANC en recense 26 et le ministère annonce une vingtaine de livraisons supplémentaires à partir de 2027.",
+        "en": "Light multi-role armoured vehicle from the Scorpion programme; the FANC page lists 26 and the ministry announces around twenty more from 2027."
+      },
+      "sources": [
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Assemblée nationale – Question écrite n° 8077",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-8077QE.htm",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "sna-amethyste",
+      "nom": {
+        "fr": "Sous-marin nucléaire d'attaque Améthyste",
+        "en": "Nuclear attack submarine Améthyste"
+      },
+      "force": "marine",
+      "rarete": "rare",
+      "description": {
+        "fr": "Sous-marin nucléaire d'attaque de la classe Rubis.",
+        "en": "Rubis-class nuclear attack submarine."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France dans les Balkans",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france-balkans",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "navire"
+    },
+    {
+      "id": "sous-marin-nucleaire-attaque",
+      "nom": {
+        "fr": "Sous-marin nucléaire d'attaque (SNA)",
+        "en": "Nuclear attack submarine (SNA)"
+      },
+      "force": "marine",
+      "categorie": "navire",
+      "rarete": "rare",
+      "description": {
+        "fr": "Sous-marin à propulsion nucléaire qui accompagne le groupe aéronaval, comme lors de Clemenceau 25.",
+        "en": "Nuclear-powered submarine that accompanies the carrier strike group, as during Clemenceau 25."
+      },
+      "sources": [
+        {
+          "titre": "Communiqué – Clemenceau 25 : nouveau déploiement pour le groupe aéronaval (28 novembre 2024)",
+          "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/ministere-armees/Communiqu%C3%A9_Clemenceau%2025%20-%20nouveau%20d%C3%A9ploiement%20pour%20le%20groupe%20a%C3%A9ronaval.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "super-etendard-modernise",
+      "nom": {
+        "fr": "Super Étendard modernisé",
+        "en": "Super Étendard Modernisé"
+      },
+      "force": "marine",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Avion d'attaque embarqué de l'aéronautique navale, retiré du service en 2016.",
+        "en": "Carrier-based attack aircraft of French naval aviation, retired in 2016."
+      },
+      "sources": [
+        {
+          "titre": "Centre d'études supérieures de la Marine – Brèves Marine n° 127 (9 mai 2011) « Harmattan, le dispositif naval »",
+          "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/cesm/bm-127-harmattan.pdf",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "tigre",
+      "nom": {
+        "fr": "Hélicoptère Tigre",
+        "en": "Tiger helicopter"
+      },
+      "force": "terre",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Hélicoptère d'attaque de l'aviation légère de l'armée de Terre.",
+        "en": "French Army Light Aviation attack helicopter."
+      },
+      "sources": [
+        {
+          "titre": "Chemins de mémoire (ministère des Armées) – La France en Afghanistan",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
+          "date_consultation": "2026-11-02"
+        }
+      ],
+      "categorie": "aeronef"
+    },
+    {
+      "id": "vab",
+      "categorie": "vehicule",
+      "nom": {
+        "fr": "Véhicule de l'avant blindé (VAB)",
+        "en": "VAB armoured personnel carrier"
+      },
+      "force": "terre",
+      "rarete": "commune",
+      "description": {
+        "fr": "Véhicule blindé de transport de troupes à roues ; le Sénat en recense une cinquantaine à Djibouti.",
+        "en": "Wheeled armoured personnel carrier; the Senate counts about fifty in Djibouti."
+      },
+      "sources": [
+        {
+          "titre": "Sénat – Rapport n° 619 (2024-2025)",
+          "url": "https://www.senat.fr/rap/l24-619/l24-619_mono.html",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "vbci",
+      "nom": {
+        "fr": "VBCI",
+        "en": "VBCI infantry fighting vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Véhicule blindé de combat d'infanterie 8x8 armé d'un canon de 25 mm.",
+        "en": "8x8 infantry fighting vehicle armed with a 25 mm cannon."
+      },
+      "sources": [
+        {
+          "titre": "Roumanie : bataillon multinational de l'OTAN sous commandement français",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "vbl",
+      "nom": {
+        "fr": "VBL",
+        "en": "VBL light armoured vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "commune",
+      "description": {
+        "fr": "Véhicule blindé léger 4x4 de liaison et de reconnaissance.",
+        "en": "4x4 light armoured vehicle for liaison and reconnaissance."
+      },
+      "sources": [
+        {
+          "titre": "Estonie : contribution française au bataillon multinational de l'OTAN",
+          "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "vt4",
+      "nom": {
+        "fr": "Véhicule tactique VT4",
+        "en": "VT4 tactical vehicle"
+      },
+      "force": "terre",
+      "categorie": "vehicule",
+      "rarete": "commune",
+      "description": {
+        "fr": "Véhicule tactique léger 4x4 non blindé ; 46 VT4 sont recensés au sein des FANC.",
+        "en": "Unarmoured 4x4 light tactical vehicle; 46 VT4s are listed with the FANC."
+      },
+      "sources": [
+        {
+          "titre": "FANC – ministère des Armées",
+          "url": "https://www.defense.gouv.fr/en/node/100",
+          "date_consultation": "2026-11-02"
+        }
+      ]
+    }
+  ]
+}

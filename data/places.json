@@ -1,0 +1,292 @@
+{
+  "territoires": [
+    {
+      "id": "GLP",
+      "nom": {
+        "fr": "Guadeloupe",
+        "en": "Guadeloupe"
+      },
+      "marqueur": {
+        "lat": 16.0,
+        "lon": -61.73
+      }
+    },
+    {
+      "id": "MTQ",
+      "nom": {
+        "fr": "Martinique",
+        "en": "Martinique"
+      },
+      "marqueur": {
+        "lat": 14.6,
+        "lon": -61.07
+      }
+    },
+    {
+      "id": "GUF",
+      "nom": {
+        "fr": "Guyane",
+        "en": "French Guiana"
+      },
+      "marqueur": {
+        "lat": 4.94,
+        "lon": -52.33
+      }
+    },
+    {
+      "id": "REU",
+      "nom": {
+        "fr": "La Réunion",
+        "en": "Réunion"
+      },
+      "marqueur": {
+        "lat": -20.88,
+        "lon": 55.45
+      }
+    },
+    {
+      "id": "MYT",
+      "nom": {
+        "fr": "Mayotte",
+        "en": "Mayotte"
+      },
+      "marqueur": {
+        "lat": -12.78,
+        "lon": 45.23
+      }
+    },
+    {
+      "id": "NCL",
+      "nom": {
+        "fr": "Nouvelle-Calédonie",
+        "en": "New Caledonia"
+      },
+      "marqueur": {
+        "lat": -22.27,
+        "lon": 166.45
+      }
+    },
+    {
+      "id": "PYF",
+      "nom": {
+        "fr": "Polynésie française",
+        "en": "French Polynesia"
+      },
+      "marqueur": {
+        "lat": -17.53,
+        "lon": -149.57
+      }
+    },
+    {
+      "id": "WLF",
+      "nom": {
+        "fr": "Wallis-et-Futuna",
+        "en": "Wallis and Futuna"
+      },
+      "marqueur": {
+        "lat": -13.28,
+        "lon": -176.17
+      }
+    },
+    {
+      "id": "SPM",
+      "nom": {
+        "fr": "Saint-Pierre-et-Miquelon",
+        "en": "Saint Pierre and Miquelon"
+      },
+      "marqueur": {
+        "lat": 46.78,
+        "lon": -56.18
+      }
+    },
+    {
+      "id": "ATF",
+      "nom": {
+        "fr": "Terres australes et antarctiques françaises",
+        "en": "French Southern and Antarctic Lands"
+      },
+      "marqueur": {
+        "lat": -49.35,
+        "lon": 70.22
+      }
+    },
+    {
+      "id": "BLM",
+      "nom": {
+        "fr": "Saint-Barthélemy",
+        "en": "Saint Barthélemy"
+      },
+      "marqueur": {
+        "lat": 17.9,
+        "lon": -62.85
+      }
+    },
+    {
+      "id": "MAF",
+      "nom": {
+        "fr": "Saint-Martin",
+        "en": "Saint Martin"
+      },
+      "marqueur": {
+        "lat": 18.07,
+        "lon": -63.08
+      }
+    }
+  ],
+  "zones_maritimes": [
+    {
+      "id": "MER-ARABIE",
+      "nom": {
+        "fr": "Mer d'Arabie",
+        "en": "Arabian Sea"
+      },
+      "marqueur": {
+        "lat": 15.0,
+        "lon": 62.0
+      }
+    },
+    {
+      "id": "MER-ATLANTIQUE-NORD",
+      "nom": {
+        "fr": "Atlantique Nord",
+        "en": "North Atlantic"
+      },
+      "marqueur": {
+        "lat": 55.0,
+        "lon": -25.0
+      }
+    },
+    {
+      "id": "MER-BALTIQUE",
+      "nom": {
+        "fr": "Mer Baltique",
+        "en": "Baltic Sea"
+      },
+      "marqueur": {
+        "lat": 56.5,
+        "lon": 19.0
+      }
+    },
+    {
+      "id": "MER-GOLFE-ADEN",
+      "nom": {
+        "fr": "Golfe d'Aden",
+        "en": "Gulf of Aden"
+      },
+      "marqueur": {
+        "lat": 12.6,
+        "lon": 48.0
+      }
+    },
+    {
+      "id": "MER-GOLFE-ARABO-PERSIQUE",
+      "nom": {
+        "fr": "Golfe Arabo-Persique",
+        "en": "Persian Gulf"
+      },
+      "marqueur": {
+        "lat": 27.0,
+        "lon": 51.5
+      }
+    },
+    {
+      "id": "MER-GOLFE-GUINEE",
+      "nom": {
+        "fr": "Golfe de Guinée",
+        "en": "Gulf of Guinea"
+      },
+      "marqueur": {
+        "lat": 2.0,
+        "lon": 3.0
+      }
+    },
+    {
+      "id": "MER-MEDITERRANEE-CENTRALE",
+      "nom": {
+        "fr": "Méditerranée centrale",
+        "en": "Central Mediterranean"
+      },
+      "marqueur": {
+        "lat": 34.0,
+        "lon": 17.0
+      }
+    },
+    {
+      "id": "MER-MEDITERRANEE-ORIENTALE",
+      "nom": {
+        "fr": "Méditerranée orientale",
+        "en": "Eastern Mediterranean"
+      },
+      "marqueur": {
+        "lat": 34.0,
+        "lon": 31.0
+      }
+    },
+    {
+      "id": "MER-NOIRE",
+      "nom": {
+        "fr": "Mer Noire",
+        "en": "Black Sea"
+      },
+      "marqueur": {
+        "lat": 43.5,
+        "lon": 34.0
+      }
+    },
+    {
+      "id": "MER-OCEAN-INDIEN",
+      "nom": {
+        "fr": "Océan Indien",
+        "en": "Indian Ocean"
+      },
+      "marqueur": {
+        "lat": -5.0,
+        "lon": 75.0
+      }
+    },
+    {
+      "id": "MER-OCEAN-INDIEN-OUEST",
+      "nom": {
+        "fr": "Océan Indien occidental (bassin somalien)",
+        "en": "Western Indian Ocean (Somali Basin)"
+      },
+      "marqueur": {
+        "lat": 2.0,
+        "lon": 52.0
+      }
+    },
+    {
+      "id": "MER-ORMUZ",
+      "nom": {
+        "fr": "Détroit d'Ormuz et golfe d'Oman",
+        "en": "Strait of Hormuz and Gulf of Oman"
+      },
+      "marqueur": {
+        "lat": 25.0,
+        "lon": 58.0
+      }
+    },
+    {
+      "id": "MER-PACIFIQUE-OUEST",
+      "nom": {
+        "fr": "Pacifique occidental",
+        "en": "Western Pacific"
+      },
+      "marqueur": {
+        "lat": 18.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "id": "MER-ROUGE",
+      "nom": {
+        "fr": "Mer Rouge",
+        "en": "Red Sea"
+      },
+      "marqueur": {
+        "lat": 20.0,
+        "lon": 38.5
+      }
+    }
+  ]
+}
