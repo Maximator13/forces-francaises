@@ -1,0 +1,99 @@
+/* Accueil : carte animée, chiffres, forces, aperçu des cartes. */
+
+.hero {
+  display: grid;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+.hero-map { height: clamp(13rem, 42vw, 30rem); background: var(--ocean); }
+.hero-map svg { display: block; width: 100%; height: 100%; }
+.hero-text {
+  position: relative;
+  margin-top: -3rem;
+  padding: 0 0 2.5rem;
+  background: linear-gradient(to bottom, transparent, var(--bg) 3rem);
+}
+.hero-text .wrap { padding-top: 1.5rem; }
+.hero-text .wrap { display: grid; gap: 0.75rem; }
+.hero h1 { max-width: 18ch; }
+.hero .lede { max-width: 48ch; margin: 0; }
+
+.h-land {
+  fill: var(--land);
+  stroke: var(--land-line);
+  stroke-width: 0.5;
+  vector-effect: non-scaling-stroke;
+}
+.h-on { stroke: var(--bg); }
+.h-terre { fill: var(--terre); }
+.h-marine { fill: var(--marine); }
+.h-air { fill: var(--air); }
+.h-gendarmerie { fill: var(--gendarmerie); }
+.h-multi { fill: var(--multi); }
+.h-pin { fill: var(--ink); stroke: var(--bg); stroke-width: 1.5; }
+
+@media (prefers-reduced-motion: no-preference) {
+  /* les contours se dessinent, puis les zones se remplissent et les points apparaissent */
+  .h-land {
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    fill-opacity: 0;
+    animation:
+      draw 1.6s ease-out calc(var(--i) * 25ms) forwards,
+      fill-in 0.8s ease-out calc(1.2s + var(--i) * 25ms) forwards;
+  }
+  .h-pin {
+    scale: 0;
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: pop-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) calc(2s + var(--i) * 40ms) forwards,
+      beat 2.8s ease-in-out calc(3.5s + var(--i) * 40ms) infinite;
+  }
+}
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes fill-in { to { fill-opacity: 1; } }
+@keyframes pop-in { to { scale: 1; } }
+@keyframes beat { 50% { scale: 1.5; } }
+
+.figures { display: flex; flex-wrap: wrap; gap: 0.5rem 2rem; margin-top: 0.5rem; }
+.figure strong { display: block; font: 700 clamp(1.8rem, 5vw, 2.8rem)/1 var(--serif); font-variant-numeric: tabular-nums; }
+.figure span { color: var(--muted); font-size: 0.9rem; }
+.figures-note { font-size: 0.8rem; color: var(--muted); margin: 0; }
+.hero .button { justify-self: start; margin-top: 0.5rem; }
+
+.home-section { padding-block: 3rem 1rem; }
+.home-section > p { max-width: 60ch; color: var(--muted); }
+
+.force-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+.force-card {
+  padding: 1.25rem;
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--c);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+.force-card .logo { width: 3.5rem; height: 3.5rem; border-width: 0; }
+.force-card h3 { margin: 0.75rem 0 0.25rem; }
+.force-card p { margin: 0; color: var(--muted); }
+.force-card strong { color: var(--ink); font-size: 1.3rem; }
+
+.type-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.25rem 1.5rem; list-style: none; padding: 0; }
+.type-list li { padding: 0.6rem 0; border-bottom: 1px solid var(--line); }
+.type-list strong { font-family: var(--serif); font-size: 1.2rem; margin-right: 0.35rem; }
+
+.collect { display: grid; gap: 2rem; align-items: center; }
+@media (min-width: 50rem) { .collect { grid-template-columns: 1fr 1.2fr; } }
+.showcase { display: flex; justify-content: center; padding: 1rem 0 2rem; }
+.showcase-card { width: 10.5rem; margin-inline: -1.2rem; transition: rotate 0.3s var(--ease-out), translate 0.3s var(--ease-out); }
+.showcase-card:nth-child(1) { rotate: -9deg; translate: 0 0.8rem; }
+.showcase-card:nth-child(3) { rotate: 9deg; translate: 0 0.8rem; }
+.showcase:hover .showcase-card:nth-child(1) { rotate: -14deg; translate: -1.5rem 0.6rem; }
+.showcase:hover .showcase-card:nth-child(3) { rotate: 14deg; translate: 1.5rem 0.6rem; }
+.showcase:hover .showcase-card:nth-child(2) { translate: 0 -0.8rem; }

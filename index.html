@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.goatcounter.com; base-uri 'self'; form-action 'none'">
+  <title>Forces françaises déployées dans le monde : carte et chiffres</title>
+  <meta name="description" content="Où sont déployés les militaires et gendarmes français ? Carte, effectifs, unités et matériels des opérations extérieures, forces de présence et outre-mer, d'après des sources publiques.">
+  <link rel="canonical" href="https://maximator13.github.io/forces-francaises/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Forces françaises déployées">
+  <meta property="og:title" content="Forces françaises déployées dans le monde">
+  <meta property="og:description" content="Carte interactive et chiffres des déploiements militaires français, d'après des sources publiques.">
+  <meta property="og:url" content="https://maximator13.github.io/forces-francaises/">
+  <meta property="og:image" content="https://maximator13.github.io/forces-francaises/og-image.png">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <link rel="stylesheet" href="css/home.css">
+  <script type="module" src="js/pages/accueil.js"></script>
+</head>
+<body data-page="accueil">
+  <main id="contenu">
+    <section class="hero">
+      <div class="hero-map" id="hero-map"></div>
+      <div class="hero-text">
+        <div class="wrap">
+          <h1 data-i18n="home.title">Où sont déployées les forces françaises ?</h1>
+          <p class="lede" data-i18n="home.lede">Opérations extérieures, forces de présence, outre-mer, missions de l'OTAN, de l'ONU et de l'Union européenne : la carte des militaires et gendarmes français hors de métropole.</p>
+          <div class="figures" id="figures"></div>
+          <p class="figures-note" id="figures-note"></p>
+          <a class="button" href="carte.html" data-i18n="home.cta">Explorer la carte</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="wrap home-section">
+      <h2 class="reveal" data-i18n="home.forces_title">Quatre forces engagées</h2>
+      <p class="reveal" data-i18n="home.forces_text">Chaque déploiement indique les forces qui y participent, avec leurs unités et leurs matériels quand ils sont publiés.</p>
+      <ul class="force-grid" id="forces"></ul>
+    </section>
+
+    <section class="wrap home-section">
+      <h2 class="reveal" data-i18n="home.types_title">Déploiements en cours, par type</h2>
+      <ul class="type-list" id="types"></ul>
+      <p class="reveal"><a href="deploiements.html" data-i18n="home.list_link">Voir tous les déploiements dans un tableau</a></p>
+    </section>
+
+    <section class="wrap home-section collect">
+      <div class="reveal">
+        <h2 data-i18n="home.collect_title">Collectionnez les cartes</h2>
+        <p data-i18n="home.collect_text">Ouvrez des paquets de cartes tirées des données du site : déploiements, régiments, navires, avions. De commune à légendaire, sans attente entre deux paquets.</p>
+        <p><a href="paquets.html" data-i18n="home.collect_link">Ouvrir un paquet</a></p>
+      </div>
+      <div class="showcase" id="showcase" aria-hidden="true"></div>
+    </section>
+
+    <section class="wrap home-section">
+      <h2 class="reveal" data-i18n="home.method_title">Des sources publiques</h2>
+      <p class="reveal" data-i18n="home.method_text">Chaque fiche cite ses sources : ministère des Armées, Gendarmerie nationale, Assemblée nationale, Sénat, ONU, OTAN, Union européenne. Les chiffres non publiés sont indiqués comme tels. Ce site n'est pas officiel.</p>
+      <p class="reveal"><a href="methode.html" data-i18n="home.method_link">Lire la méthode</a></p>
+    </section>
+  </main>
+</body>
+</html>
