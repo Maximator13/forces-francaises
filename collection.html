@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.goatcounter.com; base-uri 'self'; form-action 'none'">
+  <title>Ma collection de cartes des forces françaises</title>
+  <meta name="description" content="Suivez votre collection de cartes : déploiements, unités et matériels obtenus, progression par rareté, fiches détaillées avec leurs sources.">
+  <link rel="canonical" href="https://maximator13.github.io/forces-francaises/collection.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Forces françaises déployées">
+  <meta property="og:title" content="Collection de cartes des forces françaises">
+  <meta property="og:description" content="Déploiements, unités et matériels à collectionner, de commune à légendaire.">
+  <meta property="og:url" content="https://maximator13.github.io/forces-francaises/collection.html">
+  <meta property="og:image" content="https://maximator13.github.io/forces-francaises/og-image.png">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/map.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <script type="module" src="js/pages/collection.js"></script>
+</head>
+<body data-page="collection">
+  <main id="contenu" class="wrap collection">
+    <h1 data-i18n="collection.heading">Ma collection</h1>
+    <p class="lede" data-i18n="collection.intro">Votre collection est enregistrée dans ce navigateur uniquement. Elle disparaît si vous effacez les données du site.</p>
+    <div class="progress-grid" id="progress"></div>
+    <p><a class="button" href="paquets.html" data-i18n="collection.cta">Ouvrir des paquets</a></p>
+
+    <form class="collection-tools" id="tools">
+      <label><span data-i18n="collection.filter_kind">Type de carte</span>
+        <select name="kind">
+          <option value="all" data-i18n="collection.all">Toutes</option>
+          <option value="dep" data-i18n="cards.kind.dep">Déploiement</option>
+          <option value="unite" data-i18n="cards.kind.unite">Unité</option>
+          <option value="mat" data-i18n="cards.kind.mat">Matériel</option>
+        </select></label>
+      <label><span data-i18n="collection.filter_rarity">Rareté</span>
+        <select name="rarity">
+          <option value="all" data-i18n="collection.all">Toutes</option>
+          <option value="commune" data-i18n="rarete.commune">Commune</option>
+          <option value="peu_commune" data-i18n="rarete.peu_commune">Peu commune</option>
+          <option value="rare" data-i18n="rarete.rare">Rare</option>
+          <option value="legendaire" data-i18n="rarete.legendaire">Légendaire</option>
+        </select></label>
+      <label><span data-i18n="collection.filter_force">Force</span>
+        <select name="force">
+          <option value="all" data-i18n="collection.all">Toutes</option>
+          <option value="terre" data-i18n="force.terre">Armée de Terre</option>
+          <option value="marine" data-i18n="force.marine">Marine nationale</option>
+          <option value="air" data-i18n="force.air">Armée de l'Air et de l'Espace</option>
+          <option value="gendarmerie" data-i18n="force.gendarmerie">Gendarmerie nationale</option>
+        </select></label>
+      <label><span data-i18n="collection.filter_owned">Affichage</span>
+        <select name="owned">
+          <option value="all" data-i18n="collection.all">Toutes</option>
+          <option value="owned" data-i18n="collection.owned">Obtenues</option>
+          <option value="missing" data-i18n="collection.missing_plural">Manquantes</option>
+        </select></label>
+      <button class="button secondary" type="button" id="reset" data-i18n="collection.reset">Réinitialiser</button>
+    </form>
+
+    <ul class="card-grid" id="grid"></ul>
+
+    <dialog class="card-dialog" id="detail" aria-labelledby="detail-title" closedby="any"></dialog>
+
+    <dialog class="card-dialog confirm" id="confirm-reset" aria-labelledby="confirm-title">
+      <div>
+        <h2 id="confirm-title" data-i18n="collection.reset_title">Réinitialiser la collection ?</h2>
+        <p data-i18n="collection.reset_text">Toutes vos cartes et le compteur de paquets seront effacés de ce navigateur.</p>
+        <form method="dialog" class="pack-actions">
+          <button class="button secondary" value="cancel" autofocus data-i18n="collection.cancel">Annuler</button>
+          <button class="button" value="reset" data-i18n="collection.reset_confirm">Tout effacer</button>
+        </form>
+      </div>
+    </dialog>
+  </main>
+</body>
+</html>

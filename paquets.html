@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.goatcounter.com; base-uri 'self'; form-action 'none'">
+  <title>Ouvrir des paquets de cartes des forces françaises</title>
+  <meta name="description" content="Ouvrez des paquets de cartes à collectionner : déploiements, unités et matériels des forces françaises, de commune à légendaire, tirés de données publiques.">
+  <link rel="canonical" href="https://maximator13.github.io/forces-francaises/paquets.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Forces françaises déployées">
+  <meta property="og:title" content="Paquets de cartes des forces françaises">
+  <meta property="og:description" content="Déploiements, unités et matériels à collectionner, de commune à légendaire.">
+  <meta property="og:url" content="https://maximator13.github.io/forces-francaises/paquets.html">
+  <meta property="og:image" content="https://maximator13.github.io/forces-francaises/og-image.png">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <script type="module" src="js/pages/paquets.js"></script>
+</head>
+<body data-page="paquets">
+  <main id="contenu" class="wrap packs">
+    <h1 data-i18n="packs.heading">Ouvrir un paquet</h1>
+    <p class="lede" data-i18n="packs.intro">Chaque paquet contient 5 cartes tirées des données du site : déploiements, unités et matériels. Au moins une carte peu commune ou mieux par paquet. Paquets illimités, sans attente.</p>
+    <div class="pack-stage" id="stage"></div>
+    <div class="pack-actions">
+      <button class="button" type="button" id="open" data-i18n="packs.open">Ouvrir le paquet</button>
+      <button class="button secondary" type="button" id="flip-all" hidden data-i18n="packs.flip_all">Tout retourner</button>
+    </div>
+    <p class="pack-summary" id="summary" aria-live="polite"></p>
+    <p class="pack-stats"><span id="stats"></span> · <a href="collection.html" data-i18n="packs.see_collection">Voir ma collection</a></p>
+  </main>
+</body>
+</html>
