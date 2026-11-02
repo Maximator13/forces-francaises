@@ -2577,27 +2577,6 @@
       ]
     },
     {
-      "id": "porte-avions-charles-de-gaulle",
-      "nom": {
-        "fr": "Porte-avions Charles de Gaulle",
-        "en": "Aircraft carrier Charles de Gaulle"
-      },
-      "force": "marine",
-      "rarete": "legendaire",
-      "description": {
-        "fr": "Porte-avions à propulsion nucléaire de la Marine nationale.",
-        "en": "Nuclear-powered aircraft carrier of the French Navy."
-      },
-      "sources": [
-        {
-          "titre": "Centre d'études supérieures de la Marine – Brèves Marine n° 127 (9 mai 2011) « Harmattan, le dispositif naval »",
-          "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/cesm/bm-127-harmattan.pdf",
-          "date_consultation": "2026-11-02"
-        }
-      ],
-      "categorie": "navire"
-    },
-    {
       "id": "pvp",
       "nom": {
         "fr": "PVP",

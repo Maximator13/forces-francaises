@@ -3972,9 +3972,10 @@
         {
           "force": "marine",
           "specialite": null,
-          "unites": [],
+          "unites": [
+            "pa-charles-de-gaulle"
+          ],
           "materiel": [
-            "porte-avions-charles-de-gaulle",
             "rafale-m",
             "super-etendard-modernise",
             "e-2c-hawkeye",
