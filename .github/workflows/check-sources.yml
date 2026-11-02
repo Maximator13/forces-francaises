@@ -1,0 +1,45 @@
+name: Vérification mensuelle des sources
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test des liens et des dates de vérification
+        id: check
+        run: |
+          if python scripts/check_sources.py --markdown > report.md; then
+            echo "problems=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "problems=true" >> "$GITHUB_OUTPUT"
+          fi
+          cat report.md
+      - name: Mise à jour de l'issue de suivi
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROBLEMS: ${{ steps.check.outputs.problems }}
+        run: |
+          gh label create verification-sources --color FBCA04 --description "Liens morts et entrées à revérifier" --force
+          number=$(gh issue list --label verification-sources --state open --json number --jq '.[0].number')
+          if [ "$PROBLEMS" = "true" ]; then
+            if [ -n "$number" ]; then
+              gh issue edit "$number" --body-file report.md
+              gh issue comment "$number" --body "Rapport mis à jour le $(date -u +%Y-%m-%d)."
+            else
+              gh issue create --title "Vérification des sources" --label verification-sources --body-file report.md
+            fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "Plus aucun lien mort ni entrée à revérifier au $(date -u +%Y-%m-%d)."
+          fi
