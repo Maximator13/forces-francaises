@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maximator13.github.io/forces-francaises/sitemap.xml
