@@ -173,5 +173,19 @@
   "home.collect_link": "Open a pack",
   "home.method_title": "Public sources",
   "home.method_text": "Every entry cites its sources: French Ministry of the Armed Forces, Gendarmerie, National Assembly, Senate, UN, NATO, European Union. Unpublished figures are marked as such. This is not an official website.",
-  "home.method_link": "Read the method"
+  "home.method_link": "Read the method",
+  "meta.methode.title": "Method and sources: how the French forces map is built",
+  "meta.methode.description": "Official sources, collection rules, data limits, card rarities, licences and how to contribute.",
+  "meta.notice.title": "Legal notice",
+  "meta.notice.description": "Publisher, host, intellectual property and credits of the French forces deployed website.",
+  "meta.privacy.title": "Privacy policy",
+  "meta.privacy.description": "Data handled by the site: no personal data, cookie-free audience measurement with consent, local storage.",
+  "meta.terms.title": "Terms of use",
+  "meta.terms.description": "Terms of use: unofficial website, information without warranty, collectible cards with no value.",
+  "meta.notfound.title": "Page not found",
+  "meta.notfound.description": "This page does not exist or has moved.",
+  "privacy.choice_title": "Your choice",
+  "privacy.state_yes": "audience measurement accepted",
+  "privacy.state_no": "audience measurement declined",
+  "privacy.state_none": "no choice saved"
 }

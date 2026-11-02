@@ -286,3 +286,13 @@ img, svg { max-width: 100%; }
 }
 @keyframes page-out { to { opacity: 0; translate: 0 -0.75rem; } }
 @keyframes page-in { from { opacity: 0; translate: 0 1.25rem; } }
+
+/* Pages de texte bilingues : seul le bloc de la langue courante est affiché */
+html[lang="fr"] [data-lang="en"],
+html[lang="en"] [data-lang="fr"] { display: none; }
+.prose h2 { margin-top: 2.5rem; }
+.prose dl { display: grid; grid-template-columns: auto 1fr; gap: 0.35rem 1rem; }
+.prose dt { font-weight: 600; }
+.prose dd { margin: 0; }
+.consent-box { padding: 1rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.consent-box .actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
