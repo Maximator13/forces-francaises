@@ -1,0 +1,13 @@
+Les données du dossier data/ (deployments.json, catalogue.json, places.json)
+sont mises à disposition sous licence Creative Commons Attribution 4.0
+International (CC BY 4.0) : https://creativecommons.org/licenses/by/4.0/deed.fr
+
+Attribution demandée : « Forces françaises déployées, Maximator13,
+https://github.com/Maximator13/forces-francaises ».
+
+Elles compilent des informations publiques dont les sources sont citées
+entrée par entrée. Le fond de carte data/world.geojson est dérivé de
+Natural Earth (domaine public).
+
+The data in the data/ folder is licensed under Creative Commons Attribution
+4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
