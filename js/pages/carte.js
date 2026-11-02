@@ -44,8 +44,11 @@ function render() {
 
 function fromHash() {
   const zone = readHash().zone;
+  const closing = current && !zone;
+  const previous = current;
   current = zone && names.has(zone) ? zone : null;
   render();
+  if (closing) map.focusZone(previous);
 }
 
 window.addEventListener("hashchange", fromHash);

@@ -57,6 +57,7 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
   </defs>`);
 
   const pins = L.layerGroup().addTo(map);
+  const pinElements = new Map();
 
   function markerPosition(id) {
     const place = data.territories.get(id) ?? data.seaZones.get(id);
@@ -73,6 +74,7 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
   function update(filters) {
     visible = byZone(data.deployments, filters);
     pins.clearLayers();
+    pinElements.clear();
 
     for (const [id, layer] of layers) {
       const deps = visible.get(id);
@@ -111,6 +113,7 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
       marker.on("click", () => onSelect(id));
       marker.on("add", () => {
         const el = marker.getElement();
+        pinElements.set(id, el);
         el.setAttribute("role", "button");
         el.setAttribute("aria-label", label);
         el.addEventListener("keydown", (e) => {
@@ -145,5 +148,10 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
     });
   }
 
-  return { map, update, select };
+  /** Remet le focus clavier sur le marqueur d'une zone (les marqueurs sont recréés à chaque mise à jour). */
+  function focusZone(id) {
+    pinElements.get(id)?.focus({ preventScroll: true });
+  }
+
+  return { map, update, select, focusZone };
 }
