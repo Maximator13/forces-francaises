@@ -18,8 +18,10 @@
 @media (min-width: 60rem) {
   .map-layout {
     grid-template-columns: 19rem 1fr;
-    grid-template-rows: 1fr;
+    grid-template-rows: minmax(0, 1fr); /* la colonne des filtres défile au lieu d'agrandir la carte */
     height: calc(100dvh - var(--header-h));
+    min-height: 0;
+    flex: none; /* sinon, élément flex de body, il prend la hauteur de son contenu */
   }
   .map-sidebar { border-bottom: 0; border-right: 1px solid var(--line); overflow-y: auto; }
 }
