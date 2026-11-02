@@ -11,7 +11,6 @@
   "nav.method": "Method",
   "lang.switch": "FR",
   "lang.switch_label": "Passer en français",
-
   "footer.disclaimer": "Unofficial website, not affiliated with the French Ministry of the Armed Forces or the Gendarmerie nationale. Data from public sources, possibly incomplete or out of date.",
   "footer.updated": "Data last updated:",
   "footer.legal": "Legal information",
@@ -20,10 +19,8 @@
   "footer.terms": "Terms of use",
   "footer.method": "Method and sources",
   "footer.source": "Source code",
-
   "na": "Not disclosed",
   "approx": "approx.",
-
   "force.terre": "French Army",
   "force.marine": "French Navy",
   "force.air": "French Air and Space Force",
@@ -47,7 +44,6 @@
   "specialite.prevotale": "Military police (prévôté)",
   "specialite.outre_mer": "Overseas gendarmerie",
   "specialite.international": "International mission",
-
   "meta.map.title": "Map of French armed forces deployments worldwide",
   "meta.map.description": "Interactive map of French armed forces and gendarmerie deployments: overseas operations, prepositioned forces, overseas territories, NATO, UN, EU and naval missions.",
   "map.heading": "Deployments map",
@@ -56,13 +52,11 @@
   "map.deployments_one": "{n} deployment",
   "map.deployments_many": "{n} deployments",
   "map.past_only": "past operations",
-
   "filters.label": "Filters and counter",
   "filters.title": "Filter",
   "filters.forces": "Forces",
   "filters.types": "Deployment types",
   "filters.past": "Show past operations",
-
   "counter.people": "service members and gendarmes",
   "counter.place": "country or territory",
   "counter.places": "countries and territories",
@@ -70,12 +64,10 @@
   "counter.seas": "maritime areas",
   "counter.missing_one": "{n} deployment with no published strength is not counted.",
   "counter.missing_many": "{n} deployments with no published strength are not counted.",
-
   "legend.multi": "Several forces",
   "legend.past": "Past operations",
   "legend.territory": "French territory",
   "legend.sea": "Maritime area",
-
   "panel.close": "Close details",
   "panel.summary": "{active} ongoing out of {total} recorded deployment(s).",
   "panel.territory": "French territory",
@@ -93,10 +85,22 @@
   "panel.consulted": "accessed",
   "panel.verified": "Last checked:",
   "panel.no_breakdown": "Breakdown by service not disclosed.",
-
   "consent.title": "Audience measurement",
   "consent.text": "This site can count visits with GoatCounter, without cookies or personal data. Do you accept?",
   "consent.accept": "Accept",
   "consent.refuse": "Decline",
-  "consent.more": "Learn more"
+  "consent.more": "Learn more",
+  "meta.list.title": "List of current and past French military deployments",
+  "meta.list.description": "Sortable table of all French armed forces and gendarmerie deployments: locations, services, types, dates and published strength.",
+  "list.heading": "All deployments",
+  "list.intro": "The same information as the map, as a table. Select a name to open its details on the map.",
+  "list.caption": "Deployments matching the filters, sortable by column",
+  "list.name": "Name",
+  "list.zones": "Locations",
+  "list.forces": "Services",
+  "list.type": "Type",
+  "list.start": "Start",
+  "list.end": "End",
+  "list.strength": "Strength",
+  "list.empty": "No deployment matches the filters."
 }

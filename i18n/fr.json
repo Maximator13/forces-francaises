@@ -11,7 +11,6 @@
   "nav.method": "Méthode",
   "lang.switch": "EN",
   "lang.switch_label": "Switch to English",
-
   "footer.disclaimer": "Site non officiel, sans lien avec le ministère des Armées ni la Gendarmerie nationale. Données issues de sources publiques, possiblement incomplètes ou dépassées.",
   "footer.updated": "Dernière mise à jour des données :",
   "footer.legal": "Informations légales",
@@ -20,10 +19,8 @@
   "footer.terms": "Conditions d'utilisation",
   "footer.method": "Méthode et sources",
   "footer.source": "Code source",
-
   "na": "Non communiqué",
   "approx": "env.",
-
   "force.terre": "Armée de Terre",
   "force.marine": "Marine nationale",
   "force.air": "Armée de l'Air et de l'Espace",
@@ -47,7 +44,6 @@
   "specialite.prevotale": "Prévôté",
   "specialite.outre_mer": "Gendarmerie outre-mer",
   "specialite.international": "Mission internationale",
-
   "meta.map.title": "Carte des déploiements des forces françaises dans le monde",
   "meta.map.description": "Carte interactive des déploiements des armées françaises et de la gendarmerie : OPEX, forces de présence, outre-mer, OTAN, ONU, UE et missions navales.",
   "map.heading": "Carte des déploiements",
@@ -56,13 +52,11 @@
   "map.deployments_one": "{n} déploiement",
   "map.deployments_many": "{n} déploiements",
   "map.past_only": "opérations passées",
-
   "filters.label": "Filtres et compteur",
   "filters.title": "Filtrer",
   "filters.forces": "Forces",
   "filters.types": "Types de déploiement",
   "filters.past": "Afficher les opérations passées",
-
   "counter.people": "militaires et gendarmes",
   "counter.place": "pays ou territoire",
   "counter.places": "pays et territoires",
@@ -70,12 +64,10 @@
   "counter.seas": "zones maritimes",
   "counter.missing_one": "{n} déploiement sans effectif publié n'est pas compté.",
   "counter.missing_many": "{n} déploiements sans effectif publié ne sont pas comptés.",
-
   "legend.multi": "Plusieurs forces",
   "legend.past": "Opérations passées",
   "legend.territory": "Territoire français",
   "legend.sea": "Zone maritime",
-
   "panel.close": "Fermer la fiche",
   "panel.summary": "{active} en cours sur {total} déploiement(s) recensé(s).",
   "panel.territory": "Territoire français",
@@ -93,10 +85,22 @@
   "panel.consulted": "consulté le",
   "panel.verified": "Dernière vérification :",
   "panel.no_breakdown": "Répartition par force non communiquée.",
-
   "consent.title": "Mesure d'audience",
   "consent.text": "Ce site peut compter ses visites avec GoatCounter, sans cookie ni donnée personnelle. Acceptez-vous ?",
   "consent.accept": "Accepter",
   "consent.refuse": "Refuser",
-  "consent.more": "En savoir plus"
+  "consent.more": "En savoir plus",
+  "meta.list.title": "Liste des déploiements militaires français en cours et passés",
+  "meta.list.description": "Tableau triable de tous les déploiements des armées françaises et de la gendarmerie : lieux, forces, types, dates et effectifs publiés.",
+  "list.heading": "Tous les déploiements",
+  "list.intro": "La même information que la carte, sous forme de tableau. Cliquez sur un nom pour ouvrir sa fiche sur la carte.",
+  "list.caption": "Déploiements correspondant aux filtres, triables par colonne",
+  "list.name": "Nom",
+  "list.zones": "Lieux",
+  "list.forces": "Forces",
+  "list.type": "Type",
+  "list.start": "Début",
+  "list.end": "Fin",
+  "list.strength": "Effectif",
+  "list.empty": "Aucun déploiement ne correspond aux filtres."
 }

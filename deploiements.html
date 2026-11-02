@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.goatcounter.com; base-uri 'self'; form-action 'none'">
+  <title>Liste des déploiements militaires français en cours et passés</title>
+  <meta name="description" content="Tableau triable de tous les déploiements des armées françaises et de la gendarmerie : lieux, forces, types, dates et effectifs publiés.">
+  <link rel="canonical" href="https://maximator13.github.io/forces-francaises/deploiements.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Forces françaises déployées">
+  <meta property="og:title" content="Liste des déploiements des forces françaises">
+  <meta property="og:description" content="Tous les déploiements militaires français recensés, triables par lieu, force, date ou effectif.">
+  <meta property="og:url" content="https://maximator13.github.io/forces-francaises/deploiements.html">
+  <meta property="og:image" content="https://maximator13.github.io/forces-francaises/og-image.png">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/map.css">
+  <script type="module" src="js/pages/deploiements.js"></script>
+</head>
+<body data-page="deploiements">
+  <main id="contenu" class="wrap list-layout">
+    <h1 data-i18n="list.heading">Tous les déploiements</h1>
+    <p class="lede" data-i18n="list.intro">La même information que la carte, sous forme de tableau. Cliquez sur un nom pour ouvrir sa fiche sur la carte.</p>
+    <div class="list-tools">
+      <p class="counter" id="counter" aria-live="polite"></p>
+      <details class="filters-box">
+        <summary data-i18n="filters.title">Filtrer</summary>
+        <form id="filters"></form>
+      </details>
+    </div>
+    <div class="table-wrap">
+      <table class="deps" id="deps"></table>
+    </div>
+  </main>
+</body>
+</html>
