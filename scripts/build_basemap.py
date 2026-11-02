@@ -53,14 +53,17 @@ def main(argv):
     source = load_source(argv)
     geometries = defaultdict(list)
     names = {}
+    labels = {}
     for feature in source["features"]:
         props = feature["properties"]
         key = zone_id(props)
         geometries[key].append(shape(feature["geometry"]))
         # le nom du pays entier quand plusieurs unités sont fusionnées (Royaume-Uni…)
         names.setdefault(key, {"fr": props["NAME_FR"], "en": props["NAME_EN"]})
+        labels.setdefault(key, [props["LABEL_Y"], props["LABEL_X"]])
         if props["GU_A3"] == props["ADM0_A3"] or key == "FRA":
             names[key] = {"fr": props["NAME_FR"], "en": props["NAME_EN"]}
+            labels[key] = [props["LABEL_Y"], props["LABEL_X"]]
 
     features = []
     for key in sorted(geometries):
@@ -71,7 +74,8 @@ def main(argv):
         features.append({
             "type": "Feature",
             "id": key,
-            "properties": {"nom": names[key]},
+            # point d'étiquette Natural Earth [lat, lon], placé à l'intérieur du pays
+            "properties": {"nom": names[key], "label": round_coords(labels[key])},
             "geometry": {"type": geo["type"], "coordinates": round_coords(geo["coordinates"])},
         })
 
