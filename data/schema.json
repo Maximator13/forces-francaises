@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Déploiements des forces françaises",
+  "$defs": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "date": { "type": "string", "pattern": "^\\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\\d|3[01]))?)?$" },
+    "jour": { "type": "string", "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$" },
+    "texte": {
+      "type": "object",
+      "required": ["fr", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "fr": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "force": { "enum": ["terre", "marine", "air", "gendarmerie"] },
+    "rarete": { "enum": ["commune", "peu_commune", "rare", "legendaire"] },
+    "point": {
+      "type": "object",
+      "required": ["lat", "lon"],
+      "additionalProperties": false,
+      "properties": {
+        "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+        "lon": { "type": "number", "minimum": -180, "maximum": 180 }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["titre", "url", "date_consultation"],
+      "additionalProperties": false,
+      "properties": {
+        "titre": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https://" },
+        "date_consultation": { "$ref": "#/$defs/jour" }
+      }
+    },
+    "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source" } },
+    "effectif": {
+      "type": "object",
+      "required": ["valeur", "approximatif"],
+      "additionalProperties": false,
+      "properties": {
+        "valeur": { "type": ["integer", "null"], "minimum": 0 },
+        "approximatif": { "type": "boolean" },
+        "date_reference": { "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] }
+      }
+    },
+    "composante": {
+      "type": "object",
+      "required": ["force", "specialite", "unites", "materiel", "effectif"],
+      "additionalProperties": false,
+      "properties": {
+        "force": { "$ref": "#/$defs/force" },
+        "specialite": { "enum": [null, "mobile", "prevotale", "outre_mer", "international"] },
+        "unites": { "type": "array", "items": { "$ref": "#/$defs/id" } },
+        "materiel": { "type": "array", "items": { "$ref": "#/$defs/id" } },
+        "effectif": { "$ref": "#/$defs/effectif" }
+      }
+    },
+    "deploiement": {
+      "type": "object",
+      "required": ["id", "nom", "statut", "type", "cadre", "date_debut", "date_fin", "zones",
+                   "composantes", "effectif_total", "mission", "contexte", "rarete", "sources",
+                   "derniere_verification"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "nom": { "$ref": "#/$defs/texte" },
+        "statut": { "enum": ["actif", "termine"] },
+        "type": { "enum": ["opex", "presence", "souverainete", "otan", "onu_ue", "naval", "gendarmerie"] },
+        "cadre": { "enum": ["national", "onu", "otan", "ue", "bilateral", "coalition"] },
+        "date_debut": { "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+        "date_fin": { "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+        "zones": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string" } },
+        "lieux": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["nom", "lat", "lon"],
+            "additionalProperties": false,
+            "properties": {
+              "nom": { "$ref": "#/$defs/texte" },
+              "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+              "lon": { "type": "number", "minimum": -180, "maximum": 180 }
+            }
+          }
+        },
+        "composantes": { "type": "array", "items": { "$ref": "#/$defs/composante" } },
+        "effectif_total": { "$ref": "#/$defs/effectif" },
+        "mission": { "$ref": "#/$defs/texte" },
+        "contexte": { "$ref": "#/$defs/texte" },
+        "rarete": { "$ref": "#/$defs/rarete" },
+        "sources": { "$ref": "#/$defs/sources" },
+        "derniere_verification": { "$ref": "#/$defs/jour" }
+      }
+    },
+    "element_catalogue": {
+      "type": "object",
+      "required": ["id", "nom", "force", "rarete"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "nom": { "$ref": "#/$defs/texte" },
+        "force": { "$ref": "#/$defs/force" },
+        "categorie": { "enum": ["aeronef", "navire", "vehicule", "systeme", "autre"] },
+        "rarete": { "$ref": "#/$defs/rarete" },
+        "description": { "$ref": "#/$defs/texte" },
+        "sources": { "$ref": "#/$defs/sources" }
+      },
+      "dependentRequired": { "description": ["sources"] }
+    },
+    "lieu_nomme": {
+      "type": "object",
+      "required": ["id", "nom", "marqueur"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[A-Z0-9-]+$" },
+        "nom": { "$ref": "#/$defs/texte" },
+        "marqueur": { "$ref": "#/$defs/point" }
+      }
+    },
+
+    "fichier_deploiements": {
+      "type": "object",
+      "required": ["derniere_mise_a_jour", "deploiements"],
+      "additionalProperties": false,
+      "properties": {
+        "derniere_mise_a_jour": { "$ref": "#/$defs/jour" },
+        "deploiements": { "type": "array", "items": { "$ref": "#/$defs/deploiement" } }
+      }
+    },
+    "fichier_catalogue": {
+      "type": "object",
+      "required": ["unites", "materiels"],
+      "additionalProperties": false,
+      "properties": {
+        "unites": { "type": "array", "items": { "$ref": "#/$defs/element_catalogue" } },
+        "materiels": {
+          "type": "array",
+          "items": { "allOf": [{ "$ref": "#/$defs/element_catalogue" }, { "required": ["categorie"] }] }
+        }
+      }
+    },
+    "fichier_lieux": {
+      "type": "object",
+      "required": ["territoires", "zones_maritimes"],
+      "additionalProperties": false,
+      "properties": {
+        "territoires": { "type": "array", "items": { "$ref": "#/$defs/lieu_nomme" } },
+        "zones_maritimes": {
+          "type": "array",
+          "items": { "allOf": [{ "$ref": "#/$defs/lieu_nomme" }, { "properties": { "id": { "pattern": "^MER-[A-Z0-9-]+$" } } }] }
+        }
+      }
+    }
+  }
+}
