@@ -19,7 +19,6 @@ const project = worldProjection(W, H);
 /* Carte animée */
 const active = byZone(data.deployments, filters);
 const shapes = world.features
-  .filter((f) => f.id !== "ATA") // l'Antarctique écrase le bas de la carte
   .map((f, i) => {
     const on = active.get(f.id);
     const forces = on ? new Set(on.flatMap((d) => d.composantes.map((c) => c.force))) : null;

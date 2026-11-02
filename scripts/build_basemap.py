@@ -26,6 +26,7 @@ SOURCE_URL = (
 OUTPUT = Path(__file__).resolve().parent.parent / "data" / "world.geojson"
 TOLERANCE = 0.04  # degrés ; au-delà, les petites îles disparaissent
 DECIMALS = 2
+SKIP = {"ATA"}  # Antarctique : aucun déploiement, et il couvre toutes les longitudes en Mercator
 
 
 def load_source(argv):
@@ -57,6 +58,8 @@ def main(argv):
     for feature in source["features"]:
         props = feature["properties"]
         key = zone_id(props)
+        if key in SKIP:
+            continue
         geometries[key].append(shape(feature["geometry"]))
         # le nom du pays entier quand plusieurs unités sont fusionnées (Royaume-Uni…)
         names.setdefault(key, {"fr": props["NAME_FR"], "en": props["NAME_EN"]})
