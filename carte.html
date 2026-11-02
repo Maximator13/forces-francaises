@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://unpkg.com https://gc.zgo.at; style-src 'self' https://unpkg.com; img-src 'self' data:; connect-src 'self' https://*.goatcounter.com; base-uri 'self'; form-action 'none'">
+  <title>Carte des déploiements des forces françaises dans le monde</title>
+  <meta name="description" content="Carte interactive des déploiements des armées françaises et de la gendarmerie : OPEX, forces de présence, outre-mer, OTAN, ONU, UE et missions navales.">
+  <link rel="canonical" href="https://maximator13.github.io/forces-francaises/carte.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Forces françaises déployées">
+  <meta property="og:title" content="Carte des déploiements des forces françaises">
+  <meta property="og:description" content="Où sont déployés les militaires et gendarmes français ? Carte interactive à partir de sources publiques.">
+  <meta property="og:url" content="https://maximator13.github.io/forces-francaises/carte.html">
+  <meta property="og:image" content="https://maximator13.github.io/forces-francaises/og-image.png">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121416" media="(prefers-color-scheme: dark)">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/map.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+  <script type="module" src="js/pages/carte.js"></script>
+</head>
+<body data-page="carte" class="page-map">
+  <main id="contenu" class="map-layout">
+    <h1 class="visually-hidden" data-i18n="map.heading">Carte des déploiements</h1>
+
+    <section class="map-sidebar" data-i18n-attr="aria-label:filters.label" aria-label="Filtres">
+      <p class="counter" id="counter" aria-live="polite"></p>
+      <details class="filters-box" open>
+        <summary data-i18n="filters.title">Filtrer</summary>
+        <form id="filters"></form>
+      </details>
+      <div class="legend" aria-hidden="true">
+        <span><i class="key key--multi"></i><span data-i18n="legend.multi">Plusieurs forces</span></span>
+        <span><i class="key key--past"></i><span data-i18n="legend.past">Opérations passées</span></span>
+        <span><i class="key key--fr"></i><span data-i18n="legend.territory">Territoire français</span></span>
+        <span><i class="key key--sea">⚓</i><span data-i18n="legend.sea">Zone maritime</span></span>
+      </div>
+      <p class="small"><a href="deploiements.html" data-i18n="map.list_link">Voir la liste accessible des déploiements</a></p>
+    </section>
+
+    <div class="map" id="map" role="region" data-i18n-attr="aria-label:map.label" aria-label="Carte du monde"></div>
+
+    <dialog class="panel" id="panel" aria-labelledby="panel-title">
+      <div class="panel-head">
+        <h2 id="panel-title" tabindex="-1"></h2>
+        <button class="panel-close" type="button" data-i18n-attr="aria-label:panel.close" aria-label="Fermer">✕</button>
+      </div>
+      <div class="panel-body"></div>
+    </dialog>
+  </main>
+</body>
+</html>
