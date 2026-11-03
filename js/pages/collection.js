@@ -72,7 +72,7 @@ function openDetail(card) {
       ${deps ? `<h3>${esc(t("collection.deployments"))}</h3><ul>${deps}</ul>` : ""}
       ${sources ? `<h3>${esc(t("panel.sources"))}</h3><ul>${sources}</ul>` : ""}
       ${item.image ? `<p class="credit">${esc(t(item.image.type === "insigne" ? "cards.insignia_credit" : "cards.photo_credit"))}
-        <a href="${esc(item.image.source)}" rel="noopener" target="_blank">${esc(item.image.auteur)}</a>, ${esc(item.image.licence)}, Wikimedia Commons</p>` : ""}
+        ${item.image.legende ? `${esc(pick(item.image.legende))}, ` : ""}<a href="${esc(item.image.source)}" rel="noopener" target="_blank">${esc(item.image.auteur)}</a>, ${esc(item.image.licence)}, Wikimedia Commons</p>` : ""}
       <form method="dialog" class="close-row"><button class="button secondary" autofocus>${esc(t("panel.close"))}</button></form>
     </div>`;
   detail.showModal();

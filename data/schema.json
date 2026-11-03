@@ -120,7 +120,8 @@
         "type": { "enum": ["photo", "insigne"] },
         "auteur": { "type": "string", "minLength": 1 },
         "licence": { "type": "string", "minLength": 1 },
-        "source": { "type": "string", "pattern": "^https://commons\\.wikimedia\\.org/wiki/File:" }
+        "source": { "type": "string", "pattern": "^https://commons\\.wikimedia\\.org/wiki/File:" },
+        "legende": { "$ref": "#/$defs/texte" }
       }
     },
     "lieu_nomme": {

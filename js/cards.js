@@ -128,7 +128,9 @@ function art(card) {
   }
   const image = card.source.image;
   if (image) {
-    const alt = t(image.type === "insigne" ? "cards.insignia_alt" : "cards.photo_alt", { name: pick(card.nom) });
+    // la légende décrit les photos de contexte, qui ne montrent pas l'unité elle-même
+    const alt = image.legende ? pick(image.legende)
+      : t(image.type === "insigne" ? "cards.insignia_alt" : "cards.photo_alt", { name: pick(card.nom) });
     return `<img class="card-img card-img--${image.type}" src="${esc(image.fichier)}" alt="${esc(alt)}" loading="lazy" decoding="async">`;
   }
   const icon = card.kind === "unite" ? ICONS.unite : ICONS[card.categorie] ?? ICONS.autre;

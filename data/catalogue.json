@@ -1022,7 +1022,18 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/cecad.webp",
+        "type": "photo",
+        "auteur": "Photo by Tech. Sgt. Donald Allen",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:5th_French_Marine_Regiment_in_Djibouti.jpg",
+        "legende": {
+          "fr": "Sergent du 5e RIAOM enseignant la survie en milieu désertique à Djibouti",
+          "en": "A 5e RIAOM sergeant teaching desert survival in Djibouti"
+        }
+      }
     },
     {
       "id": "ec-1-7-provence",
@@ -1101,7 +1112,18 @@
           "url": "https://www.defense.gouv.fr/en/node/97",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/ester-antilles.webp",
+        "type": "photo",
+        "auteur": "Maxime ✈ from Le François , Martinique",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:CASA_Arm%C3%A9e_de_l%27Air_(26765514042).jpg",
+        "legende": {
+          "fr": "CN-235 de l'armée de l'Air au Lamentin (Martinique), 2016",
+          "en": "French Air Force CN-235 at Le Lamentin, Martinique, 2016"
+        }
+      }
     },
     {
       "id": "et-50",
@@ -1121,7 +1143,18 @@
           "url": "https://www.defense.gouv.fr/en/node/99",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/et-50.webp",
+        "type": "photo",
+        "auteur": "U.S. Air Force photo by Staff Sgt. Jessica Avallone",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Marara_22_Refugee_Evacuation_7202697_(cropped).jpg",
+        "legende": {
+          "fr": "CN-235 de l'armée de l'Air (escadron 82) à Tahiti, même avion que l'ET 50",
+          "en": "French Air Force CN-235 (squadron 82) in Tahiti, the same aircraft type as ET 50's"
+        }
+      }
     },
     {
       "id": "et-52",
@@ -1141,7 +1174,18 @@
           "url": "https://www.defense.gouv.fr/en/node/100",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/et-52.webp",
+        "type": "photo",
+        "auteur": "Phillip Capper",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Air_Force_CASA_CN235,_Wellington,_28_December_2007.jpg",
+        "legende": {
+          "fr": "CN-235 de l'ET 52 en escale à Wellington, 2007",
+          "en": "ET 52 CN-235 stopping over in Wellington, 2007"
+        }
+      }
     },
     {
       "id": "et-68-antilles-guyane",
@@ -1161,7 +1205,18 @@
           "url": "https://www.defense.gouv.fr/en/node/112",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/et-68-antilles-guyane.webp",
+        "type": "photo",
+        "auteur": "Spotting973",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:F-RAAV_(10602605203).jpg",
+        "legende": {
+          "fr": "Puma de l'armée de l'Air en Guyane, 2013",
+          "en": "French Air Force Puma in French Guiana, 2013"
+        }
+      }
     },
     {
       "id": "et-82-maine",
@@ -1208,7 +1263,18 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/operations-militaires-au-proche-moyen-orient/operation-daman",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fcr-finul.webp",
+        "type": "photo",
+        "auteur": "2eREI",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Op%C3%A9ration_Daman_2eREI.jpg",
+        "legende": {
+          "fr": "Légionnaires du 2e REI pendant l'opération Daman au Liban, 2022",
+          "en": "2e REI legionnaires during Operation Daman in Lebanon, 2022"
+        }
+      }
     },
     {
       "id": "fda-chevalier-paul",
@@ -1319,7 +1385,18 @@
           "url": "https://www.defense.gouv.fr/en/node/100",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/flottille-25f.webp",
+        "type": "photo",
+        "auteur": "U.S. Army photo by Spc. Daniel Proper, 25th Infantry Division",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:MARARA_22_-_Aviation_Tour_7200596.jpg",
+        "legende": {
+          "fr": "Falcon 200 Gardian de la flottille 25F à Tahiti-Faa'a, 2022",
+          "en": "Flottille 25F Falcon 200 Gardian at Tahiti-Faa'a, 2022"
+        }
+      }
     },
     {
       "id": "flottille-35f",
@@ -1366,7 +1443,18 @@
           "url": "https://www.defense.gouv.fr/en/node/97",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/flottille-36f.webp",
+        "type": "photo",
+        "auteur": "Mass Communication Specialist 2nd Class John Bellino",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Navy_Aircraft_Lands_on_USS_Arlington_(cropped).jpg",
+        "legende": {
+          "fr": "Panther de la frégate Germinal (Antilles) en mer des Caraïbes, 2021",
+          "en": "Panther from the frigate Germinal (Antilles) in the Caribbean Sea, 2021"
+        }
+      }
     },
     {
       "id": "fremm-alsace",
@@ -1710,7 +1798,18 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_def/l17b2048-tviii_rapport-avis.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pigr.webp",
+        "type": "photo",
+        "auteur": "Domenjod",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PIGR3_AVRIL_2015.jpg",
+        "legende": {
+          "fr": "Entraînement du PIGR, 2015",
+          "en": "PIGR training, 2015"
+        }
+      }
     },
     {
       "id": "ricm",
