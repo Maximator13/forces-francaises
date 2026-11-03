@@ -18,7 +18,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/11e-rama.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Scan=nomFantassin 72 (Coloniale)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_11e_r%C3%A9giment_d%27artillerie_de_marine.JPG"
+      }
     },
     {
       "id": "126e-ri",
@@ -38,7 +45,14 @@
           "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/126e-ri.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Scan=nom Fantassin 72 Fantassin 72, 21 May 2010 (UTC)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_126e_RI_bison_blanc.jpg"
+      }
     },
     {
       "id": "12e-rc",
@@ -58,7 +72,14 @@
           "url": "https://www.irsem.fr/storage/file_manager_files/2025/03/ada392.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/12e-rc.webp",
+        "type": "insigne",
+        "auteur": "Q 700",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Badge_12e_cuir.png"
+      }
     },
     {
       "id": "13e-rdp",
@@ -78,7 +99,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/13e-rdp.webp",
+        "type": "insigne",
+        "auteur": "Armée de terre Française / Picture :Futurhit12",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:13e_RDP.png"
+      }
     },
     {
       "id": "1er-rec",
@@ -98,7 +126,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/1er-rec.webp",
+        "type": "insigne",
+        "auteur": "Sarumo74",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1rec_SVG.svg"
+      }
     },
     {
       "id": "1er-rhc",
@@ -118,7 +153,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/1er-rhc.webp",
+        "type": "insigne",
+        "auteur": "fabricant Arthus Bertrand Paris Déposé. Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_1er_RHC.jpg"
+      }
     },
     {
       "id": "1er-rhp",
@@ -138,7 +180,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/1er-rhp.webp",
+        "type": "insigne",
+        "auteur": "Hamramehdi",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1RHP_INSIGNE_copy.jpg"
+      }
     },
     {
       "id": "1er-rpima",
@@ -158,7 +207,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/1er-rpima.webp",
+        "type": "insigne",
+        "auteur": "Armée de terre Française / Vector graphic : Futurhit12",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_1er_r%C3%A9giment_de_parachutistes_d%27infanterie_de_marine_(1erRPIMA).svg"
+      }
     },
     {
       "id": "1er-rs",
@@ -178,7 +234,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/1er-rs.webp",
+        "type": "insigne",
+        "auteur": "Le Petit Chat",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_1er_RS,_1997.svg"
+      }
     },
     {
       "id": "21e-rima",
@@ -198,7 +261,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/21e-rima.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_21e_RIMa.jpg"
+      }
     },
     {
       "id": "27e-bca",
@@ -218,7 +288,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/27e-bca.webp",
+        "type": "insigne",
+        "auteur": "27bca",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:27_BCA.jpg"
+      }
     },
     {
       "id": "2e-rei",
@@ -238,7 +315,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/2e-rei.webp",
+        "type": "insigne",
+        "auteur": "Schneider7cie",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_2e_R%C3%A9giment_Etranger_d%27Infanterie.jpg"
+      }
     },
     {
       "id": "2e-rep",
@@ -258,7 +342,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/2e-rep.webp",
+        "type": "insigne",
+        "auteur": "Filipe46",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_2e_r%C3%A9giment_%C3%A9tranger_de_parachutistes.png"
+      }
     },
     {
       "id": "2e-rima",
@@ -278,7 +369,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/2e-rima.webp",
+        "type": "insigne",
+        "auteur": "2eRIMa",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_2e_RIMa.jpg"
+      }
     },
     {
       "id": "2e-rmat",
@@ -298,7 +396,14 @@
           "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/2e-rmat.webp",
+        "type": "insigne",
+        "auteur": "Fantassin 72 (scanner)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_2e_R%C3%A9giment_du_Mat%C3%A9riel.jpg"
+      }
     },
     {
       "id": "2e-rpima",
@@ -318,7 +423,14 @@
           "url": "https://www.defense.gouv.fr/en/node/99",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/2e-rpima.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_2%C2%B0_RPIMa.JPG"
+      }
     },
     {
       "id": "33e-rima",
@@ -338,7 +450,14 @@
           "url": "https://www.defense.gouv.fr/en/node/97",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/33e-rima.webp",
+        "type": "insigne",
+        "auteur": "Fantassin 72 (scanner)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_33e_R%C3%A9giment_d%E2%80%99Infanterie_de_Marine.jpg"
+      }
     },
     {
       "id": "3e-rei",
@@ -358,7 +477,14 @@
           "url": "https://www.defense.gouv.fr/en/node/112",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/3e-rei.webp",
+        "type": "insigne",
+        "auteur": "Inconnu - Homologation n° G 3426 le 25 mars 1987.",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:3rei.jpg"
+      }
     },
     {
       "id": "3e-rhc",
@@ -378,7 +504,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/3e-rhc.webp",
+        "type": "insigne",
+        "auteur": "fabricant Arthus Bertrand Paris Déposé. Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_3e_RHC.jpg"
+      }
     },
     {
       "id": "3e-rima",
@@ -398,7 +531,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/3e-rima.webp",
+        "type": "insigne",
+        "auteur": "GwenofGwened",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:3eme_RIMa.png"
+      }
     },
     {
       "id": "43e-bima",
@@ -423,7 +563,14 @@
           "url": "https://www.defense.gouv.fr/operations/actualites/dlia-i-dissolution-detachements-formations-administratives",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/43e-bima.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Référenceco10433200 Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_43e_Bataillon_d%E2%80%99Infanterie_de_Marine,_9_palmes.jpg"
+      }
     },
     {
       "id": "4e-rd",
@@ -443,7 +590,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/4e-rd.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Scan=nomFantassin 72 derivative work: Steinbeisser",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:4e_r%C3%A9giment_de_dragon.png"
+      }
     },
     {
       "id": "515e-rt",
@@ -463,7 +617,14 @@
           "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/515e-rt.webp",
+        "type": "insigne",
+        "auteur": "Fantassin 72 (scanner)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_515e_R%C3%A9giment_du_Train.jpg"
+      }
     },
     {
       "id": "5e-rc",
@@ -483,7 +644,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-aux-emirats-arabes-unis",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/5e-rc.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:5%C2%B0_R%C3%A9giment_de_Cuirassiers.jpg"
+      }
     },
     {
       "id": "5e-re",
@@ -503,7 +671,14 @@
           "url": "https://www.terre.defense.gouv.fr/legion-etrangere/regiments-unites-legion-etrangere/regiments-outre-mer/5e-regiment-etranger-5e-re",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/5e-re.webp",
+        "type": "insigne",
+        "auteur": "Renaud Voyer",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:20251030_Insigne-5RE.png"
+      }
     },
     {
       "id": "5e-riaom",
@@ -523,7 +698,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/5e-riaom.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. scan=nomFantassin 72 (Coloniale) Derivative by Centenier",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:5e_r%C3%A9giment_interarmes_d%E2%80%99outre-mer_1.png"
+      }
     },
     {
       "id": "6e-rcs",
@@ -543,7 +725,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/6e-rcs.webp",
+        "type": "insigne",
+        "auteur": "fabricant Bous. 3201. Référence tr90061900 Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_6e_R%C3%A9giment_de_Commandement_et_de_Soutien.jpg"
+      }
     },
     {
       "id": "6e-reg",
@@ -563,7 +752,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/septembre-1990",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/6e-reg.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:6%C2%B0_REG_Type_1.jpg"
+      }
     },
     {
       "id": "6e-rg",
@@ -583,7 +779,14 @@
           "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i4089.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/6e-rg.webp",
+        "type": "insigne",
+        "auteur": "Jojoj770170",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_6e_RG.png"
+      }
     },
     {
       "id": "7e-bca",
@@ -603,7 +806,14 @@
           "url": "https://www.defense.gouv.fr/terre/in-memoriam",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/7e-bca.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insign_du_7e_BCA.jpg"
+      }
     },
     {
       "id": "8e-rpima",
@@ -623,7 +833,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/8e-rpima.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_8%C2%B0_RPIMA.jpg"
+      }
     },
     {
       "id": "92e-ri",
@@ -643,7 +860,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/92e-ri.webp",
+        "type": "insigne",
+        "auteur": "Auteur non indiqué",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_92e_RI.jpg"
+      }
     },
     {
       "id": "9e-rima",
@@ -663,7 +887,14 @@
           "url": "https://www.defense.gouv.fr/en/node/112",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/9e-rima.webp",
+        "type": "insigne",
+        "auteur": "fabricant Arthus Bertrand Paris Déposé. Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:9e_R_I_Ma.jpg"
+      }
     },
     {
       "id": "antenne-gign",
@@ -683,7 +914,14 @@
           "url": "https://www.senat.fr/rap/a25-141-11/a25-141-11_mono.html",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/antenne-gign.webp",
+        "type": "insigne",
+        "auteur": "Gendarmerie nationale Française / Vector graphic : Futurhit12",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Embl%C3%A8me_des_Antennes_du_Groupe_d%27intervention_de_la_Gendarmerie_nationale_(AGIGN).svg"
+      }
     },
     {
       "id": "ba-188",
@@ -703,7 +941,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/ba-188.webp",
+        "type": "insigne",
+        "auteur": "Ghislain Champeaux",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_BA_188_nouvelle_g%C3%A9n%C3%A9ration.png"
+      }
     },
     {
       "id": "bcr-somme",
@@ -723,7 +968,14 @@
           "url": "https://www.defense.gouv.fr/marine/france-tete-dun-groupe-maritime-permanent-lotan",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/bcr-somme.webp",
+        "type": "photo",
+        "auteur": "Wolfgang Fricke",
+        "licence": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Somme_A631_W_Kiel_18-06-2023_(1).jpg"
+      }
     },
     {
       "id": "brf-jacques-chevallier",
@@ -743,7 +995,14 @@
           "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/brf-jacques-chevallier.webp",
+        "type": "photo",
+        "auteur": "Gnrc",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jacques_Chevallier_(A725),_b%C3%A2timent_ravitailleur_de_forces,_en_aout_2023.jpg"
+      }
     },
     {
       "id": "cecad",
@@ -783,7 +1042,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-aux-emirats-arabes-unis",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/ec-1-7-provence.webp",
+        "type": "insigne",
+        "auteur": "Yebee33",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:EC_1.7_Provence_(2016).gif"
+      }
     },
     {
       "id": "egm",
@@ -808,7 +1074,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "ester-antilles",
@@ -908,7 +1181,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/et-82-maine.webp",
+        "type": "insigne",
+        "auteur": "Miek1171",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_de_l%27ET82_Maine.jpg"
+      }
     },
     {
       "id": "fcr-finul",
@@ -948,7 +1228,14 @@
           "url": "https://www.navalnews.com/naval-news/2026/03/french-csg-retasked-to-east-mediterranean-amid-iran-tensions/",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fda-chevalier-paul.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:20250911_FFEAUChevalier_Paul_1.jpg"
+      }
     },
     {
       "id": "flf-aconit",
@@ -973,7 +1260,14 @@
           "url": "https://www.defense.gouv.fr/marine/actualites/interactions-entre-marines-indienne-francaise-a-mumbai",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/flf-aconit.webp",
+        "type": "photo",
+        "auteur": "Auteur non indiqué",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FS_Aconit_6.jpg"
+      }
     },
     {
       "id": "flf-guepratte",
@@ -993,7 +1287,14 @@
           "url": "https://www.defense.gouv.fr/operations/actualites/agenor-deux-ans-loperation-agenor-au-service-liberte-navigation-golfe-arabo-persique-detroit",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/flf-guepratte.webp",
+        "type": "photo",
+        "auteur": "Marine nationale",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:Gu%C3%A9pratte2024_MBST_032_F_030_013.jpg"
+      }
     },
     {
       "id": "flottille-25f",
@@ -1038,7 +1339,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/flottille-35f.webp",
+        "type": "photo",
+        "auteur": "Gaspard courte",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dauphin_35F.jpg"
+      }
     },
     {
       "id": "flottille-36f",
@@ -1078,7 +1386,14 @@
           "url": "https://www.defense.gouv.fr/actualites/fregate-alsace-mer-rouge-marine-prete-au-combat",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fremm-alsace.webp",
+        "type": "photo",
+        "auteur": "Corinne (@cbreizhmabro)",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FREMM_Alsace-MVI_9214_06.jpg"
+      }
     },
     {
       "id": "fremm-auvergne",
@@ -1098,7 +1413,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fremm-auvergne.webp",
+        "type": "photo",
+        "auteur": "U.S. Navy photo by Mass Communication Specialist 2nd Class Elesia K. Patten",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_frigate_Auvergne_(D654)_underway_in_the_Arabian_Gulf_on_19_September_2017_(170919-N-WM647-0667).JPG"
+      }
     },
     {
       "id": "fremm-provence",
@@ -1118,7 +1440,14 @@
           "url": "https://www.defense.gouv.fr/operations/actualites/retour-mission-fremm-provence",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fremm-provence.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:20260212_FFEAU_FREMM-31janv26-GolfePersique.jpg"
+      }
     },
     {
       "id": "gendarmerie-prevotale",
@@ -1138,7 +1467,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/gendarmerie-prevotale.webp",
+        "type": "insigne",
+        "auteur": "Gendarmerie Nationale Française / Vector graphic : Futurhit12",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Embl%C3%A8me_de_la_Gendarmerie_pr%C3%A9v%C3%B4tale_(insigne).svg"
+      }
     },
     {
       "id": "pa-charles-de-gaulle",
@@ -1158,7 +1494,14 @@
           "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pa-charles-de-gaulle.webp",
+        "type": "photo",
+        "auteur": "U.S. Navy photo by Mass Communication Specialist 3rd Class Bela Chambers",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_aircraft_carrier_Charles_de_Gaulle_(R91)_underway_in_the_Ionian_Sea_on_17_March_2022_(220317-N-DH793-1322)cropped.JPG"
+      }
     },
     {
       "id": "pha-dixmude",
@@ -1178,7 +1521,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pha-dixmude.webp",
+        "type": "photo",
+        "auteur": "Simon Ghesquiere/Marine Nationale",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BPC_Dixmude.jpg"
+      }
     },
     {
       "id": "pha-mistral",
@@ -1198,7 +1548,14 @@
           "url": "https://www.defense.gouv.fr/marine/actualites/bilan-fin-mission-corymbe-du-pha-mistral",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pha-mistral.webp",
+        "type": "photo",
+        "auteur": "U.S. Marine Corps photo by Cpl. Gary Jayne",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_amphibious_assault_ship_Mistral_(L9013)_underway_in_the_Mediterranean_Sea_on_24_June_2020_(200624-M-IR130-1284).JPG"
+      }
     },
     {
       "id": "pha-tonnerre",
@@ -1218,7 +1575,14 @@
           "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pha-tonnerre.webp",
+        "type": "photo",
+        "auteur": "Bertrand SOUBEYRAND",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Le_porte-h%C3%A9licopt%C3%A8res_amphibie_le_Tonnerre_%C3%A0_Marseille-photo_Bertrand_SOUBEYRAND.jpg"
+      }
     },
     {
       "id": "phm-commandant-blaison",
@@ -1238,7 +1602,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/phm-commandant-blaison.webp",
+        "type": "insigne",
+        "auteur": "Ourumov15",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_%22Commandant_Baison%22..png"
+      }
     },
     {
       "id": "phm-commandant-bouan",
@@ -1258,7 +1629,14 @@
           "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/phm-commandant-bouan.webp",
+        "type": "photo",
+        "auteur": "L'amateur d'aéroplanes",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Commandant_Bouan,_Port-la-Nouvelle,_9_mai_2026.jpg"
+      }
     },
     {
       "id": "phm-commandant-ducuing",
@@ -1278,7 +1656,14 @@
           "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/phm-commandant-ducuing.webp",
+        "type": "photo",
+        "auteur": "heb@Wikimedia Commons",
+        "licence": "CC BY-SA 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:F795_Cdt._Ducuing.jpg"
+      }
     },
     {
       "id": "phm-enseigne-de-vaisseau-jacoubet",
@@ -1298,7 +1683,14 @@
           "url": "https://www.defense.gouv.fr/marine/actualites/bilan-fin-mission-corymbe-du-pha-mistral",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/phm-enseigne-de-vaisseau-jacoubet.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:20260406_NP_JCB_GHN_PASSEX_AFLAO_05_(cropped).jpg"
+      }
     },
     {
       "id": "pigr",
@@ -1338,7 +1730,14 @@
           "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/operations-exterieures/opex-travers-monde/france-balkans",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/ricm.webp",
+        "type": "insigne",
+        "auteur": "BrunoLC",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_du_RICM.jpg"
+      }
     },
     {
       "id": "rimap-nc",
@@ -1358,7 +1757,14 @@
           "url": "https://www.defense.gouv.fr/en/node/100",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rimap-nc.webp",
+        "type": "insigne",
+        "auteur": "Cagou33",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RIMAP_NC.JPG"
+      }
     },
     {
       "id": "rimap-p",
@@ -1378,7 +1784,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rimap-p.webp",
+        "type": "insigne",
+        "auteur": "Fantassin 72 (scanner)",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_R%C3%A9giment_d%E2%80%99Infanterie_de_Marine_POLYNESIE.jpg"
+      }
     },
     {
       "id": "egm-211-1-melun",
@@ -1398,7 +1811,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2024/nouvelle-caledonie-deces-d-un-gendarme-mobile-de-melun-dans-l-exercice-de-ses-fonctions",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-13-3-pontivy",
@@ -1418,7 +1838,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/la-transmission-des-valeurs-au-caeur-du-modele-de-la-gendarmerie-mobile",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-25-5-bourgoin-jallieu",
@@ -1438,7 +1865,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/engages-en-nouvelle-caledonie-florent-et-marie-sont-gendarmes-mobiles-par-vocation",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-13-6-lodeve",
@@ -1458,7 +1892,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/en-nouvelle-caledonie-les-gendarmes-renouent-le-contact-avec-la-population",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-13-5-sathonay-camp",
@@ -1478,7 +1919,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/mission-harpie-entretien-avec-la-capitaine-violette-chomienne-commandant-l-egm-13-5-de-sathonay-camp",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-27-1-drancy",
@@ -1498,7 +1946,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-le-gendarme-mobile-ali-raconte-l-apres-cyclone",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-11-1-satory",
@@ -1518,7 +1973,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-les-gendarmes-securisent-l-aeroport-marcel-henry",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-44-3-pithiviers",
@@ -1538,7 +2000,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/en-images/en-immersion-avec-les-gendarmes-de-l-escadron-de-gendarmerie-mobile-44-3-de-pithiviers-engages-a-mayotte",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-27-2-marmande",
@@ -1558,7 +2027,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/jop-2024-retour-sur-l-engagement-de-l-egm-27-2-de-marmande-en-polynesie-francaise",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-aurillac",
@@ -1578,7 +2054,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/deplacement-du-directeur-general-de-la-gendarmerie-nationale-aux-antilles",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-nimes",
@@ -1598,7 +2081,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2025/cyclone-garance-l-engagement-massif-des-gendarmes-aux-cotes-de-la-population-reunionnaise",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "egm-mont-de-marsan",
@@ -1618,7 +2108,14 @@
           "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2025/cyclone-garance-l-engagement-massif-des-gendarmes-aux-cotes-de-la-population-reunionnaise",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     },
     {
       "id": "11e-rc",
@@ -1643,7 +2140,14 @@
           "url": "https://www.monsieur-legionnaire.org/images/Historique-du-camp-de-CARPIAGNE-1895-2014.pdf",
           "date_consultation": "2026-11-03"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/11e-rc.webp",
+        "type": "insigne",
+        "auteur": "fabricant Drago, rue Olivier Métra, Paris. Scan=nom Fantassin 72",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_11e_R%C3%A9giment_de_Cuirassiers.jpg"
+      }
     }
   ],
   "materiels": [
@@ -1666,7 +2170,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/a330-mrtt.webp",
+        "type": "photo",
+        "auteur": "ERIC SALARD from Paris, FRANCE",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:F-UJCG_A330_FRENCH_AIR_FORCE_14_JUILLET_2020_(50111351636).jpg"
+      }
     },
     {
       "id": "a400m",
@@ -1687,7 +2198,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/a400m.webp",
+        "type": "photo",
+        "auteur": "Spotting973",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Airbus_A400M_French_Air_Force_F-RBAG.jpg"
+      }
     },
     {
       "id": "amx-10-rc",
@@ -1708,7 +2226,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/amx-10-rc.webp",
+        "type": "photo",
+        "auteur": "davric",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:AMX-10-RC.JPG"
+      }
     },
     {
       "id": "as350-ecureuil",
@@ -1729,7 +2254,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/as350-ecureuil.webp",
+        "type": "photo",
+        "auteur": "Rama",
+        "licence": "CC BY-SA 2.0 fr",
+        "source": "https://commons.wikimedia.org/wiki/File:AS350b_Ecureuil_F-MJCV-IMG_5138.jpg"
+      }
     },
     {
       "id": "as532-cougar",
@@ -1750,7 +2282,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/as532-cougar.webp",
+        "type": "photo",
+        "auteur": "Arnaud Lambert",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Eurocopter_AS.532_Cougar..JPG"
+      }
     },
     {
       "id": "as555-fennec",
@@ -1771,7 +2310,14 @@
           "url": "https://www.defense.gouv.fr/operations/actualites/dlia-i-dissolution-detachements-formations-administratives",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/as555-fennec.webp",
+        "type": "photo",
+        "auteur": "Remi Jouan",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Helicoptere_Fennec.JPG"
+      }
     },
     {
       "id": "astrolabe",
@@ -1792,7 +2338,14 @@
           "url": "https://www.defense.gouv.fr/en/node/99",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/astrolabe.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:Astrolabe_-_Copie_(cropped).jpg"
+      }
     },
     {
       "id": "atlantique-2",
@@ -1813,7 +2366,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-22-au-29-octobre-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/atlantique-2.webp",
+        "type": "photo",
+        "auteur": "Airwolfhound from Hertfordshire, UK",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Breguet_Atlantic_ATL2_-_RIAT_2018_(41932969940).jpg"
+      }
     },
     {
       "id": "batiment-commandement-ravitaillement",
@@ -1834,7 +2394,14 @@
           "url": "https://www.defense.gouv.fr/marine/france-tete-dun-groupe-maritime-permanent-lotan",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/batiment-commandement-ravitaillement.webp",
+        "type": "photo",
+        "auteur": "David Monniaux",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Marne_p1150194.jpg"
+      }
     },
     {
       "id": "batiment-ravitailleur-forces",
@@ -1855,7 +2422,14 @@
           "url": "https://www.defense.gouv.fr/actualites/fin-mission-clemenceau-25-deploiement-hors-normes",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/batiment-ravitailleur-forces.webp",
+        "type": "photo",
+        "auteur": "Gnrc",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jacques_Chevallier_(A725),_b%C3%A2timent_ravitailleur_de_forces,_en_aout_2023.jpg"
+      }
     },
     {
       "id": "bsaom",
@@ -1891,7 +2465,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/bsaom.webp",
+        "type": "photo",
+        "auteur": "U.S. Army photo by Staff Sgt. Elizabeth Bryson",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_navy_participates_in_passing_exercise_during_TRADEWINDS_24_(8400960).jpg"
+      }
     },
     {
       "id": "c-130-hercules",
@@ -1912,7 +2493,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/c-130-hercules.webp",
+        "type": "photo",
+        "auteur": "Spotting973",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lockheed_C130H-30_French_Air_Force_61-PI_04-11-2015_(22596620850).jpg"
+      }
     },
     {
       "id": "c-130j",
@@ -1933,7 +2521,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/c-130j.webp",
+        "type": "photo",
+        "auteur": "wallycacsabre",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_Royal_International_Air_Tattoo_1P4A3538_(48395828696).jpg"
+      }
     },
     {
       "id": "c-135fr",
@@ -1954,7 +2549,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/c-135fr.webp",
+        "type": "photo",
+        "auteur": "Senior Airman Aubrey White",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:1st_Fighter_Wing_hosts_coalition_aerial_exercise_151201-F-YC840-163.jpg"
+      }
     },
     {
       "id": "c-160g-gabriel",
@@ -1975,7 +2577,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/c-160g-gabriel.webp",
+        "type": "photo",
+        "auteur": "Colin Cooke Photo",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:C-160G_F221-GS_(2005).jpg"
+      }
     },
     {
       "id": "caesar",
@@ -1996,7 +2605,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/caesar.webp",
+        "type": "photo",
+        "auteur": "Markus Rauchenberger",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Army_CAESAR_155_mm_self-propelled_howitzer_prepares_to_fire,_2018.jpg"
+      }
     },
     {
       "id": "camcopter-s100",
@@ -2017,7 +2633,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/camcopter-s100.webp",
+        "type": "photo",
+        "auteur": "Lubos Sramek",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Schiebel_CAMCOPTER_S-100_7.jpg"
+      }
     },
     {
       "id": "casa-cn235",
@@ -2038,7 +2661,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/casa-cn235.webp",
+        "type": "photo",
+        "auteur": "André Gerwing",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:CASA_CN-235-300M_(c-n_200,_64-HH)_2026-10-03_Andre_Gerwing_Collection_ID_031239.jpg"
+      }
     },
     {
       "id": "chaland-transport-materiel",
@@ -2059,7 +2689,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/chaland-transport-materiel.webp",
+        "type": "photo",
+        "auteur": "Anthony Levrot",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lanester_-_56600_-_2021.06.12_-_Marine_Nationale_-_%C2%AB_CTM_15_%C2%BB_%C2%A9_Anthony_Levrot.jpg"
+      }
     },
     {
       "id": "chasseur-mines-tripartite",
@@ -2080,7 +2717,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-18-juin-au-jeudi-25-juin-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/chasseur-mines-tripartite.webp",
+        "type": "photo",
+        "auteur": "Gareth James",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:French_navy_Tripartite-class_minehunter_M641_Eridan_on_the_Liffey_-_geograph.org.uk_-_5345273.jpg"
+      }
     },
     {
       "id": "dauphin",
@@ -2101,7 +2745,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/dauphin.webp",
+        "type": "photo",
+        "auteur": "Jean-Pierre Bazard Jpbazard",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:L%E2%80%99h%C3%A9licopt%C3%A8re_Dauphin_6081_de_la_Marine_Nationale_(4).JPG"
+      }
     },
     {
       "id": "dcl",
@@ -2122,7 +2773,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/dcl.webp",
+        "type": "photo",
+        "auteur": "David Monniaux",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Char_de_D%C3%A9pannage_DNG-DCL_14_juillet_2006.jpg"
+      }
     },
     {
       "id": "e-2c-hawkeye",
@@ -2143,7 +2801,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-12-mars-au-jeudi-19-mars-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/e-2c-hawkeye.webp",
+        "type": "photo",
+        "auteur": "MC3 Karl Anderson",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:A_French_Navy_E-2C_Hawkeye_aircraft_assigned_to_the_French_aircraft_carrier_Charles_de_Gaulle_(R_91)_taxis_on_the_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)_during_carrier_qualification_integration_in_140114-N-ZG705-232.jpg"
+      }
     },
     {
       "id": "e-3f",
@@ -2164,7 +2829,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/e-3f.webp",
+        "type": "photo",
+        "auteur": "Cjp24",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Boeing_E-3F_Sentry_(6b).jpg"
+      }
     },
     {
       "id": "egrap",
@@ -2185,7 +2857,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/egrap.webp",
+        "type": "photo",
+        "auteur": "Mickline78",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:EGRAP_Engin_du_G%C3%A9nie_Rapide_de_Protection.jpg"
+      }
     },
     {
       "id": "erc-90",
@@ -2206,7 +2885,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "vehicule"
+      "categorie": "vehicule",
+      "image": {
+        "fichier": "img/catalogue/erc-90.webp",
+        "type": "photo",
+        "auteur": "Rama",
+        "licence": "CC BY-SA 2.0 fr",
+        "source": "https://commons.wikimedia.org/wiki/File:ERC_90_Sagaie-1RCA-IMG_5009.jpg"
+      }
     },
     {
       "id": "falcon-200-gardian",
@@ -2227,7 +2913,14 @@
           "url": "https://www.defense.gouv.fr/en/node/100",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/falcon-200-gardian.webp",
+        "type": "photo",
+        "auteur": "Original uploader was en:User:YSSYguy at en.wikipedia",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dassault_Falcon_20_Gardian.jpg"
+      }
     },
     {
       "id": "falcon-50",
@@ -2253,7 +2946,14 @@
           "url": "https://questions.assemblee-nationale.fr/q17/17-8077QE.htm",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/falcon-50.webp",
+        "type": "photo",
+        "auteur": "Quintin Soloviev",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Navy_Dassault_Falcon_50_in_Greenland.jpg"
+      }
     },
     {
       "id": "falcon-50m",
@@ -2274,7 +2974,14 @@
           "url": "https://www.defense.gouv.fr/operations/afrique/operations-militaires-afrique/operation-corymbe",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/falcon-50m.webp",
+        "type": "photo",
+        "auteur": "Adrian Pingstone",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Dassault.falcon.50m.fairford.arp.jpg"
+      }
     },
     {
       "id": "fda-jean-bart",
@@ -2295,7 +3002,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "navire"
+      "categorie": "navire",
+      "image": {
+        "fichier": "img/catalogue/fda-jean-bart.webp",
+        "type": "photo",
+        "auteur": "U.S. Navy photo by Mass Communication Specialist 3rd Class Maria I. Alvarez",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_frigate_Jean_Bart_(D615)_underway_in_the_Gulf_of_Oman_on_21_October_2017_(171021-N-BY095-1071).JPG"
+      }
     },
     {
       "id": "fregate-fremm",
@@ -2316,7 +3030,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-10-au-jeudi-17-septembre-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fregate-fremm.webp",
+        "type": "photo",
+        "auteur": "Richard Tanguy",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FREMM_Aquitaine_1.jpg"
+      }
     },
     {
       "id": "fregate-horizon",
@@ -2337,7 +3058,14 @@
           "url": "https://www.navalnews.com/naval-news/2026/03/french-csg-retasked-to-east-mediterranean-amid-iran-tensions/",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fregate-horizon.webp",
+        "type": "photo",
+        "auteur": "U.S. Navy photo by Mass Communication Specialist 1st Class Leonard Adams",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_destroyer_Forbin_(D620)_underway_in_the_Indian_Ocean_on_21_May_2019_(190521-N-VA840-0040).jpg"
+      }
     },
     {
       "id": "fregate-la-fayette",
@@ -2358,7 +3086,14 @@
           "url": "https://www.defense.gouv.fr/marine/actualites/fregate-type-fayette-au-service-du-standing-nato-maritime-group-2",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fregate-la-fayette.webp",
+        "type": "photo",
+        "auteur": "Rama",
+        "licence": "CC BY-SA 2.0 fr",
+        "source": "https://commons.wikimedia.org/wiki/File:Lafayette_mg_6013.jpg"
+      }
     },
     {
       "id": "fregate-surveillance-floreal",
@@ -2394,7 +3129,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/fregate-surveillance-floreal.webp",
+        "type": "photo",
+        "auteur": "Antoine Lamielle",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021-03_Amsterdam_Island_-_Flor%C3%A9al_29.jpg"
+      }
     },
     {
       "id": "gm200",
@@ -2415,7 +3157,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/gm200.webp",
+        "type": "photo",
+        "auteur": "Guépard78",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GM200_in_Evreux.jpg"
+      }
     },
     {
       "id": "griffon",
@@ -2436,7 +3185,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/griffon.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:VBMR_Griffon_-_Arm%C3%A9e_de_terre_(14_juillet_2021)_(2).jpg"
+      }
     },
     {
       "id": "h225m-caracal",
@@ -2457,7 +3213,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/h225m-caracal.webp",
+        "type": "photo",
+        "auteur": "Dsgn",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Airbus_Helicopters_EC725_Caracal.jpg"
+      }
     },
     {
       "id": "harfang",
@@ -2478,7 +3241,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/harfang.webp",
+        "type": "photo",
+        "auteur": "U.S. Air Force photo/Senior Airman Felicia Juenke",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Harfang-090711-F-4859J-003.jpg"
+      }
     },
     {
       "id": "helicoptere-panther",
@@ -2504,7 +3274,14 @@
           "url": "https://www.defense.gouv.fr/en/node/99",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/helicoptere-panther.webp",
+        "type": "photo",
+        "auteur": "Mass Communication Specialist 2nd Class John Bellino",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Navy_Aircraft_Lands_on_USS_Arlington_(cropped).jpg"
+      }
     },
     {
       "id": "leclerc",
@@ -2525,7 +3302,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/leclerc.webp",
+        "type": "photo",
+        "auteur": "7th Army Training Command from Grafenwoehr, Germany",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chars_Leclerc,_1er_r%C3%A9giment_de_chasseurs,_Strong_Europe_Tank_Challenge_2018.jpg"
+      }
     },
     {
       "id": "lru",
@@ -2546,7 +3330,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/lru.webp",
+        "type": "photo",
+        "auteur": "Thomas Bresson",
+        "licence": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2013-07-14_11-52-32-defile-mil-belfort.jpg"
+      }
     },
     {
       "id": "mirage-2000-5",
@@ -2567,7 +3358,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/mirage-2000-5.webp",
+        "type": "photo",
+        "auteur": "Alan Wilson from Peterborough, Cambs, UK",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dassault_Mirage_2000-5F_%E2%80%9877_2-AX%E2%80%99_(49494271106).jpg"
+      }
     },
     {
       "id": "mirage-2000c",
@@ -2588,7 +3386,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/mirage-2000c.webp",
+        "type": "photo",
+        "auteur": "SRA GREG L. DAVIS, USAF",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Mirage_2000C_in-flight.jpg"
+      }
     },
     {
       "id": "mirage-2000d",
@@ -2609,7 +3414,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/mirage-2000d.webp",
+        "type": "photo",
+        "auteur": "aceebee from Camberley, UK",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:3-IT_Dassault_Mirage_2000D_France_-_Air_Force_(43416817642).jpg"
+      }
     },
     {
       "id": "mistral",
@@ -2630,7 +3442,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/mistral.webp",
+        "type": "photo",
+        "auteur": "U.S. Army photo by Capt. Robyn Haake",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Exercise_Foch_22_(7455577).jpg"
+      }
     },
     {
       "id": "mortier-120",
@@ -2651,7 +3470,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/mortier-120.webp",
+        "type": "photo",
+        "auteur": "Tech. Sgt. H. H. Deffner",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_MO-120-RT-61_and_V%C3%A9hicule_de_Tracte_Mortier_120_during_Operation_Desert_Shield.JPEG"
+      }
     },
     {
       "id": "mq-9-reaper",
@@ -2672,7 +3498,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/mq-9-reaper.webp",
+        "type": "photo",
+        "auteur": "Lt. Col. Leslie Pratt",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV_(cropped).jpg"
+      }
     },
     {
       "id": "nh90-caiman",
@@ -2693,7 +3526,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/nh90-caiman.webp",
+        "type": "photo",
+        "auteur": "Ibex73",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:NH90_at_Paris_Air_Show_2019_(18).jpg"
+      }
     },
     {
       "id": "patrouilleur-antilles-guyane",
@@ -2719,7 +3559,14 @@
           "url": "https://www.senat.fr/rap/r25-135/r25-13511.html",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/patrouilleur-antilles-guyane.webp",
+        "type": "photo",
+        "auteur": "Etat-major des armées",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:20250321_MOKARRAN_2.jpg"
+      }
     },
     {
       "id": "patrouilleur-fulmar",
@@ -2740,7 +3587,14 @@
           "url": "https://www.colsbleus.defense.gouv.fr/fr/patrouiller-saint-pierre-et-miquelon-le-fulmar-une-presence-francaise-en-amerique-du-nord",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/patrouilleur-fulmar.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:2008_CECLANT.jpg"
+      }
     },
     {
       "id": "patrouilleur-haute-mer",
@@ -2761,7 +3615,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/renforcement-du-flanc-est-lotan",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/patrouilleur-haute-mer.webp",
+        "type": "photo",
+        "auteur": "Armée française",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:20260406_NP_JCB_GHN_PASSEX_AFLAO_05_(cropped).jpg"
+      }
     },
     {
       "id": "patrouilleur-outre-mer",
@@ -2797,7 +3658,14 @@
           "url": "https://www.defense.gouv.fr/en/node/111",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/patrouilleur-outre-mer.webp",
+        "type": "photo",
+        "auteur": "Marine nationale",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:2025_MTIO_001_Z_001_020.jpg"
+      }
     },
     {
       "id": "patrouilleur-service-public",
@@ -2818,7 +3686,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-10-au-jeudi-17-septembre-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/patrouilleur-service-public.webp",
+        "type": "photo",
+        "auteur": "jaqian",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Navy_Flamant_Class_P676_Dublin_Docks.jpg"
+      }
     },
     {
       "id": "pha-classe-mistral",
@@ -2839,7 +3714,14 @@
           "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/2026_MPAR_PAO_DOSSIER_DE_PRESSE_JDA26_v3_compressed-1.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pha-classe-mistral.webp",
+        "type": "photo",
+        "auteur": "U.S. Marine Corps photo by Cpl. Gary Jayne",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_amphibious_assault_ship_Mistral_(L9013)_underway_in_the_Mediterranean_Sea_on_24_June_2020_(200624-M-IR130-1284).JPG"
+      }
     },
     {
       "id": "pvp",
@@ -2860,7 +3742,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/pvp.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PVP,_Arm%C3%A9e_de_terre_-_14_juillet_2021_(1).jpg"
+      }
     },
     {
       "id": "radar-cobra",
@@ -2881,7 +3770,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/operations-militaires-au-proche-moyen-orient/operation-daman",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/radar-cobra.webp",
+        "type": "photo",
+        "auteur": "AlfvanBeem",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Radar_COBRA_sur_Renault_TRM_10_000.jpg"
+      }
     },
     {
       "id": "rafale",
@@ -2902,7 +3798,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rafale.webp",
+        "type": "photo",
+        "auteur": "U.S. Air Force photo by Staff Sgt. Hannah Strobel",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:French_Air_Force_Dassault_Rafale_awaits_takeoff_from_Andersen_during_Northern_Edge_23-2.jpg"
+      }
     },
     {
       "id": "rafale-b",
@@ -2923,7 +3826,14 @@
           "url": "https://www.defense.gouv.fr/air/actualites/baltic-air-policing-71-quatre-mois-dengagement-francais-ciel-balte",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rafale-b.webp",
+        "type": "photo",
+        "auteur": "Jerry Gunner from Lincoln, UK",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:330-EC_Rafale_French_Air_Force_(3100253980).jpg"
+      }
     },
     {
       "id": "rafale-c",
@@ -2944,7 +3854,14 @@
           "url": "https://www.defense.gouv.fr/air/actualites/baltic-air-policing-71-quatre-mois-dengagement-francais-ciel-balte",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rafale-c.webp",
+        "type": "photo",
+        "auteur": "Ank Kumar",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%27113-GU%27_French_Air_Force_Dassault_Rafale_C_at_Air14,_Payerne,_Switzerland_(Ank_Kumar,_Infosys)_08.jpg"
+      }
     },
     {
       "id": "rafale-m",
@@ -2965,7 +3882,14 @@
           "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-du-jeudi-12-mars-au-jeudi-19-mars-2026",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/rafale-m.webp",
+        "type": "photo",
+        "auteur": "U.S. Navy photo by Mass Communication Specialist 2nd Class David Mora",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Dassault_Rafale_M_of_Flottille_17F_lands_aboard_USS_George_H.W._Bush_(CVN-77)_in_the_Atlantic_Ocean_on_10_May_2018_(180510-N-UV609-0540).JPG"
+      }
     },
     {
       "id": "sa330-puma",
@@ -2986,7 +3910,14 @@
           "url": "https://www.defense.gouv.fr/en/node/112",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/sa330-puma.webp",
+        "type": "photo",
+        "auteur": "U.S. Air Force photo by Senior Airman Blake Wiles",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:U.S._joins_in_French-hosted_ground,_air_capabilities_display_in_Djibouti_220115-F-NS874-1292.jpg"
+      }
     },
     {
       "id": "sa342-gazelle",
@@ -3007,7 +3938,14 @@
           "url": "https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-stationnees-djibouti-ffdj",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/sa342-gazelle.webp",
+        "type": "photo",
+        "auteur": "MilborneOne",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:A2582-France-Gazelle-4059-RIAT2013.JPG"
+      }
     },
     {
       "id": "samp-t-mamba",
@@ -3033,7 +3971,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/air-shielding",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/samp-t-mamba.webp",
+        "type": "photo",
+        "auteur": "Marie-Lan Nguyen",
+        "licence": "CC BY 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Air_Defence_Squadron_Tursan_Bastille_Day_2013_Paris_t114413.jpg"
+      }
     },
     {
       "id": "serval",
@@ -3059,7 +4004,14 @@
           "url": "https://questions.assemblee-nationale.fr/q17/17-8077QE.htm",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/serval.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e_de_terre_-_VBMR-L_Serval_(14_juillet_2023).jpg"
+      }
     },
     {
       "id": "sna-amethyste",
@@ -3080,7 +4032,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "navire"
+      "categorie": "navire",
+      "image": {
+        "fichier": "img/catalogue/sna-amethyste.webp",
+        "type": "photo",
+        "auteur": "Photo by Petty Officer 3rd Class Christian Bianchi, Submarine Readiness Squadron (SRS) 32",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:FNS_Amethyste_(S605)_visits_Naval_Submarine_Base_New_London_210901-N-GR655-111.jpg"
+      }
     },
     {
       "id": "sous-marin-nucleaire-attaque",
@@ -3101,7 +4060,14 @@
           "url": "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/ministere-armees/Communiqu%C3%A9_Clemenceau%2025%20-%20nouveau%20d%C3%A9ploiement%20pour%20le%20groupe%20a%C3%A9ronaval.pdf",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/sous-marin-nucleaire-attaque.webp",
+        "type": "photo",
+        "auteur": "Marine nationale",
+        "licence": "Licence Ouverte",
+        "source": "https://commons.wikimedia.org/wiki/File:2020_MTLN_182_A_001_043_Suffren.jpg"
+      }
     },
     {
       "id": "super-etendard-modernise",
@@ -3122,7 +4088,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/super-etendard-modernise.webp",
+        "type": "photo",
+        "auteur": "Jerry Gunner from Lincoln, UK",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:No._31_Super_%C3%89tendard_Modernis%C3%A9_of_11_F_Landivisiau_(3217969396).jpg"
+      }
     },
     {
       "id": "tigre",
@@ -3143,7 +4116,14 @@
           "date_consultation": "2026-11-02"
         }
       ],
-      "categorie": "aeronef"
+      "categorie": "aeronef",
+      "image": {
+        "fichier": "img/catalogue/tigre.webp",
+        "type": "photo",
+        "auteur": "Arnaud Lambert",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Eurocopter_Tigre_de_l%27aviation_l%C3%A9g%C3%A8re_de_l%27arm%C3%A9e_de_terre.jpg"
+      }
     },
     {
       "id": "vab",
@@ -3164,7 +4144,14 @@
           "url": "https://www.senat.fr/rap/l24-619/l24-619_mono.html",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/vab.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:VAB,_Arm%C3%A9e_de_Terre_(14_juillet_2021)_(2).jpg"
+      }
     },
     {
       "id": "vbci",
@@ -3185,7 +4172,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/roumanie-bataillon-multinational-lotan-commandement-francais",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/vbci.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:VBCI,_nouvelles_couleurs_Arm%C3%A9e_de_Terre_(14_juillet_2021)_(4).jpg"
+      }
     },
     {
       "id": "vbl",
@@ -3206,7 +4200,14 @@
           "url": "https://www.defense.gouv.fr/operations/europe/flanc-est/otan/estonie-contribution-francaise-au-bataillon-multinational-lotan-commandement",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/vbl.webp",
+        "type": "photo",
+        "auteur": "AlfvanBeem",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panhard_VBL_(V%C3%A8hicule_Blind%C3%A9_Leg%C3%A9r),_French_army_licence_registration_%276074_0065%27.JPG"
+      }
     },
     {
       "id": "vt4",
@@ -3227,7 +4228,14 @@
           "url": "https://www.defense.gouv.fr/en/node/100",
           "date_consultation": "2026-11-02"
         }
-      ]
+      ],
+      "image": {
+        "fichier": "img/catalogue/vt4.webp",
+        "type": "photo",
+        "auteur": "Kevin.B",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:VT4_-_Arm%C3%A9e_de_terre_(14_juillet_2021),_nouveau_camouflage_(2)_(cropped).jpg"
+      }
     }
   ]
 }
