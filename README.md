@@ -28,7 +28,7 @@ Une carte du monde, des fiches sourcées, et des cartes à collectionner.
 | **≈ 17 800** | militaires et gendarmes, d'après les effectifs publiés |
 | **27** | opérations terminées, de Daguet (1990) aux missions de 2026 |
 | **136** | sources publiques citées |
-| **227** | cartes à collectionner |
+| **228** | cartes à collectionner |
 
 *Chiffres au 2 novembre 2026. Les déploiements sans effectif publié ne sont pas comptés.*
 

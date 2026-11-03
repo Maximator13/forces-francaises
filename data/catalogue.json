@@ -2247,6 +2247,38 @@
         "licence": "Public domain",
         "source": "https://commons.wikimedia.org/wiki/File:Insigne_r%C3%A9gimentaire_du_11e_R%C3%A9giment_de_Cuirassiers.jpg"
       }
+    },
+    {
+      "id": "egm-32-7-chaumont",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 32/7 de Chaumont",
+        "en": "Mobile Gendarmerie Squadron 32/7 (Chaumont)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de gendarmerie mobile basé à Chaumont (Haute-Marne), l'un des 116 escadrons de la gendarmerie mobile. Aucune source publique ne détaille ses missions outre-mer.",
+        "en": "Mobile gendarmerie squadron based in Chaumont (Haute-Marne), one of the 116 squadrons of the mobile gendarmerie. No public source details its overseas missions."
+      },
+      "sources": [
+        {
+          "titre": "Bulletin officiel des armées – texte citant l'escadron de gendarmerie mobile 32/7 de Chaumont",
+          "url": "https://www.bo.sga.defense.gouv.fr/texte/signe/50392/Sans%20titre.pdf",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gendarmerie nationale – La gendarmerie mobile (116 escadrons)",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/organisation/nos-unites/la-gendarmerie-mobile",
+          "date_consultation": "2026-11-03"
+        }
+      ],
+      "image": {
+        "fichier": "img/catalogue/egm.webp",
+        "type": "insigne",
+        "auteur": "Futurhit12 & Loick7695",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Grenade_Gendarmerie_mobile.svg"
+      }
     }
   ],
   "materiels": [
