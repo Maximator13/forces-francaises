@@ -1,4 +1,4 @@
-// Carte Leaflet sans tuiles : pays (fond Natural Earth), territoires d'outre-mer et zones maritimes.
+// Carte Leaflet sans tuiles : pays (fond Natural Earth, crédité dans la page Méthode), territoires d'outre-mer et zones maritimes.
 // Les couleurs sont portées par des classes CSS (voir map.css) pour suivre le mode sombre
 // et animer les changements de filtre.
 
@@ -30,9 +30,8 @@ export function createMap(container, { world, data, names, onSelect, obscured = 
     zoomSnap: 0.25,
     maxBounds: [[-80, -220], [88, 220]],
     worldCopyJump: false,
+    attributionControl: false,
   });
-  map.attributionControl.setPrefix(false);
-  map.attributionControl.addAttribution("Natural Earth · Leaflet");
 
   const labels = new Map(world.features.map((f) => [f.id, f.properties.label]));
   const layers = new Map();

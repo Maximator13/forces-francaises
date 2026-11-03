@@ -2,36 +2,37 @@
 
 :root {
   color-scheme: light dark;
+  /* chaque couleur : light-dark(clair, sombre) ; le bouton de thème force l'un ou l'autre */
 
-  --bg: #f6f5f1;
-  --surface: #ffffff;
-  --ink: #1b1b1b;
-  --muted: #595959;
-  --line: #d6d3cb;
-  --accent: #14365d;
-  --focus: #1a5fb4;
+  --bg: light-dark(#f6f5f1, #121416);
+  --surface: light-dark(#ffffff, #1b1e21);
+  --ink: light-dark(#1b1b1b, #ececea);
+  --muted: light-dark(#595959, #a8a8a4);
+  --line: light-dark(#d6d3cb, #34383c);
+  --accent: light-dark(#14365d, #9cc3ef);
+  --focus: light-dark(#1a5fb4, #8ab8ff);
 
-  --ocean: #dde5ea;
-  --land: #ecebe6;
-  --land-line: #c3c0b7;
-  --past: #a9a9a9;
-  --multi: #3d3d3d;
+  --ocean: light-dark(#dde5ea, #131a20);
+  --land: light-dark(#ecebe6, #30353a);
+  --land-line: light-dark(#c3c0b7, #474d53);
+  --past: light-dark(#a9a9a9, #6c6f72);
+  --multi: light-dark(#3d3d3d, #c9c9c6);
 
   /* Palette Okabe-Ito : distinguable par les personnes daltoniennes */
-  --terre: #009e73;
-  --marine: #0072b2;
-  --air: #e69f00;
-  --gendarmerie: #cc79a7;
+  --terre: light-dark(#009e73, #2cc28f);
+  --marine: light-dark(#0072b2, #4aa3df);
+  --air: light-dark(#e69f00, #f0b429);
+  --gendarmerie: light-dark(#cc79a7, #e08fbf);
   /* Variantes foncées pour du texte sur fond clair (contraste AA) */
-  --terre-text: #00684b;
-  --marine-text: #005a8c;
-  --air-text: #8a5f00;
-  --gendarmerie-text: #8f3d6c;
+  --terre-text: light-dark(#00684b, #5fd6ab);
+  --marine-text: light-dark(#005a8c, #7bbcea);
+  --air-text: light-dark(#8a5f00, #f3c45a);
+  --gendarmerie-text: light-dark(#8f3d6c, #eba9cf);
 
-  --commune: #6b6b6b;
-  --peu_commune: #2f7d4f;
-  --rare: #1f5fae;
-  --legendaire: #a6720b;
+  --commune: light-dark(#6b6b6b, #a0a0a0);
+  --peu_commune: light-dark(#2f7d4f, #5cc08a);
+  --rare: light-dark(#1f5fae, #6aa6f2);
+  --legendaire: light-dark(#a6720b, #f0c14b);
 
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -40,37 +41,9 @@
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #121416;
-    --surface: #1b1e21;
-    --ink: #ececea;
-    --muted: #a8a8a4;
-    --line: #34383c;
-    --accent: #9cc3ef;
-    --focus: #8ab8ff;
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
 
-    --ocean: #131a20;
-    --land: #30353a;
-    --land-line: #474d53;
-    --past: #6c6f72;
-    --multi: #c9c9c6;
-
-    --terre: #2cc28f;
-    --marine: #4aa3df;
-    --air: #f0b429;
-    --gendarmerie: #e08fbf;
-    --terre-text: #5fd6ab;
-    --marine-text: #7bbcea;
-    --air-text: #f3c45a;
-    --gendarmerie-text: #eba9cf;
-
-    --commune: #a0a0a0;
-    --peu_commune: #5cc08a;
-    --rare: #6aa6f2;
-    --legendaire: #f0c14b;
-  }
-}
 
 *, *::before, *::after { box-sizing: border-box; }
 
@@ -166,7 +139,7 @@ img, svg { max-width: 100%; }
 }
 .site-nav a:hover { background: var(--line); }
 .site-nav a[aria-current="page"] { box-shadow: inset 0 -2px 0 var(--accent); }
-.menu-toggle, .lang-toggle {
+.menu-toggle, .lang-toggle, .theme-toggle {
   border: 1px solid var(--line);
   background: var(--surface);
   border-radius: var(--radius);
@@ -174,6 +147,7 @@ img, svg { max-width: 100%; }
   font-size: 0.9rem;
 }
 .menu-toggle { display: none; margin-left: auto; }
+.theme-toggle { min-width: 2.2rem; font-size: 1rem; line-height: 1.2; }
 
 @media (max-width: 52rem) {
   .menu-toggle { display: block; }

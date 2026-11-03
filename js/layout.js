@@ -4,6 +4,7 @@
 import { initI18n, lang, setLang, t, date, translatePage } from "./i18n.js";
 import { loadData } from "./data.js";
 import { initConsent } from "./consent.js";
+import { write } from "./store.js";
 
 const PAGES = [
   ["accueil", "index.html", "nav.home"],
@@ -17,8 +18,8 @@ const PAGES = [
 const LOGO = `<svg viewBox="0 0 32 32" aria-hidden="true">
   <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2"/>
   <path d="M2 16h28M16 2c-5 4-5 24 0 28M16 2c5 4 5 24 0 28" fill="none" stroke="currentColor" stroke-width="1.5"/>
-  <circle cx="22" cy="11" r="3.2" fill="#000091" stroke="#fff" stroke-width="1"/>
-  <circle cx="9" cy="19" r="3.2" fill="#e1000f" stroke="#fff" stroke-width="1"/>
+  <circle cx="22" cy="11" r="3.2" fill="#e1000f" stroke="#fff" stroke-width="1"/>
+  <circle cx="9" cy="19" r="3.2" fill="#000091" stroke="#fff" stroke-width="1"/>
 </svg>`;
 
 function header(current) {
@@ -32,6 +33,7 @@ function header(current) {
       <a class="brand" href="index.html">${LOGO}<span data-i18n="site.short"></span></a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-i18n="nav.menu"></button>
       <nav class="site-nav" id="site-nav" data-i18n-attr="aria-label:nav.label"><ul>${links}</ul></nav>
+      <button class="theme-toggle" type="button"></button>
       <button class="lang-toggle" type="button" data-i18n="lang.switch" data-i18n-attr="aria-label:lang.switch_label"></button>
     </div>
   </header>`;
@@ -71,6 +73,26 @@ export async function initLayout() {
   document.querySelector(".lang-toggle").addEventListener("click", () => {
     setLang(lang() === "fr" ? "en" : "fr");
   });
+
+  // Thème : celui du système tant que la personne n'en a pas choisi un (voir theme.js)
+  const themeButton = document.querySelector(".theme-toggle");
+  const dark = () => {
+    const chosen = document.documentElement.dataset.theme;
+    return chosen ? chosen === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  };
+  const showTheme = () => {
+    themeButton.textContent = dark() ? "☀" : "☾";
+    themeButton.setAttribute("aria-label", t(dark() ? "theme.light" : "theme.dark"));
+    themeButton.title = themeButton.getAttribute("aria-label");
+  };
+  themeButton.addEventListener("click", () => {
+    const next = dark() ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    write("ff-theme", next);
+    showTheme();
+  });
+  showTheme();
+  document.addEventListener("langchange", showTheme);
 
   const updated = document.querySelector("[data-updated]");
   const showDate = (value) => {
