@@ -150,6 +150,7 @@ img, svg { max-width: 100%; }
 .theme-toggle { min-width: 2.2rem; font-size: 1rem; line-height: 1.2; }
 
 @media (max-width: 52rem) {
+  .site-header .wrap { gap: 0.5rem; }
   .menu-toggle { display: block; }
   .site-nav {
     display: none;
@@ -270,3 +271,7 @@ html[lang="en"] [data-lang="fr"] { display: none; }
 .prose dd { margin: 0; }
 .consent-box { padding: 1rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
 .consent-box .actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+/* Très petits écrans : le nom reste lisible par les lecteurs d'écran, seul le logo s'affiche */
+@media (max-width: 22rem) {
+  .brand span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+}
