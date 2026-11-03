@@ -1,50 +1,109 @@
+<div align="center">
+
+<img src="favicon.svg" alt="" width="88">
+
 # Forces françaises déployées
 
-*[English version below](#english)*
+**Où sont les militaires et les gendarmes français, et pour quoi faire ?**<br>
+Une carte du monde, des fiches sourcées, et des cartes à collectionner.
 
-Carte interactive des déploiements des forces armées françaises (Armée de Terre, Marine nationale, Armée de l'Air et de l'Espace) et de la Gendarmerie nationale hors de métropole : opérations extérieures, forces de présence, forces de souveraineté outre-mer, missions de l'OTAN, de l'ONU et de l'Union européenne, missions navales. Chaque fiche donne la mission, le contexte, les effectifs, les unités, le matériel, le cadre, les dates et les sources. Le site propose aussi des cartes à collectionner tirées des mêmes données.
+[**🌍 Voir le site**](https://maximator13.github.io/forces-francaises/) · [Méthode](https://maximator13.github.io/forces-francaises/methode.html) · [Signaler une erreur](https://github.com/Maximator13/forces-francaises/issues) · [English](#english)
 
-**Site : https://maximator13.github.io/forces-francaises/**
+[![Validation des données](https://github.com/Maximator13/forces-francaises/actions/workflows/validate.yml/badge.svg)](https://github.com/Maximator13/forces-francaises/actions/workflows/validate.yml)
+[![Déploiement](https://github.com/Maximator13/forces-francaises/actions/workflows/pages.yml/badge.svg)](https://github.com/Maximator13/forces-francaises/actions/workflows/pages.yml)
+[![Code : MIT](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
+[![Données : CC BY 4.0](https://img.shields.io/badge/donn%C3%A9es-CC%20BY%204.0-green)](LICENSE-DATA)
+![Sans framework](https://img.shields.io/badge/HTML%20%C2%B7%20CSS%20%C2%B7%20JS-sans%20framework-lightgrey)
 
-![Carte des déploiements, fiche de Djibouti ouverte](docs/capture.webp)
+<img src="docs/accueil.webp" alt="Page d'accueil : carte du monde avec les zones de déploiement colorées et les chiffres clés" width="900">
 
-Site non officiel, sans lien avec le ministère des Armées ni la Gendarmerie nationale. Données issues de sources publiques, possiblement incomplètes.
+</div>
 
-## Méthode et sources
+## En quelques chiffres
 
-- Sources officielles en priorité : ministère des Armées et État-major des armées, Gendarmerie nationale, rapports de l'Assemblée nationale et du Sénat, Légifrance, ONU, OTAN, Union européenne. La presse ne sert qu'à confirmer une date ou un retrait sans page officielle.
-- Aucun chiffre, aucune unité ni aucun matériel n'est estimé : une information non publiée vaut `null` et s'affiche « Non communiqué ».
-- Localisation au niveau du pays, du territoire ou de la ville et de la base officiellement annoncés.
-- Chaque entrée cite au moins une source avec sa date de consultation, et porte la date de sa dernière vérification.
+| 🎖️ | |
+|---|---|
+| **47** | déploiements en cours |
+| **34** | pays et territoires, plus **12** zones maritimes |
+| **≈ 17 800** | militaires et gendarmes, d'après les effectifs publiés |
+| **27** | opérations terminées, de Daguet (1990) aux missions de 2026 |
+| **136** | sources publiques citées |
+| **214** | cartes à collectionner |
 
-Le détail est sur la page [Méthode](https://maximator13.github.io/forces-francaises/methode.html).
+*Chiffres au 2 novembre 2026. Les déploiements sans effectif publié ne sont pas comptés.*
 
-## Organisation
+## Ce que vous y trouverez
+
+### 🗺️ La carte
+
+Armée de Terre, Marine nationale, Armée de l'Air et de l'Espace, Gendarmerie : chaque pays, territoire d'outre-mer ou zone maritime où elles sont présentes s'allume. Un clic ouvre la fiche : mission, contexte, effectifs, unités, matériel, cadre (national, OTAN, ONU, UE…), dates et sources.
+
+- Filtres par force et par type (OPEX, forces de présence, souveraineté, OTAN, ONU/UE, missions navales, gendarmerie), combinables.
+- Un compteur qui suit les filtres.
+- Les opérations terminées (Serval, Barkhane, Licorne…) sont là, grisées, derrière un interrupteur discret.
+- Un lien partageable : `…/carte.html#fr/DJI` ouvre directement Djibouti.
+
+<div align="center"><img src="docs/carte.webp" alt="Carte zoomée sur l'Estonie avec la fiche de la mission Lynx ouverte" width="900"></div>
+
+### 📋 La liste
+
+La même chose sous forme de tableau triable : pratique au clavier, avec un lecteur d'écran ou sur un petit écran.
+
+### 🃏 Les cartes à collectionner
+
+Chaque déploiement, régiment, navire ou avion des données devient une carte. Ouvrez des paquets de 5 (autant que vous voulez, sans attente), retournez les cartes et complétez votre collection, de *commune* à *légendaire*.
+
+| Rareté | Chance par carte | Exemples |
+|---|---|---|
+| Commune | 65 % | régiments, matériels courants |
+| Peu commune | 25 % | missions OTAN, présences navales |
+| Rare | 8 % | FFDj, Chammal, Atalante, Licorne |
+| **Légendaire** | 2 % | Serval, Barkhane, Daguet, le porte-avions Charles de Gaulle |
+
+Au moins une peu commune par paquet. Aucune statistique inventée : les cartes ne montrent que des informations publiées. La collection reste dans votre navigateur.
+
+<div align="center"><img src="docs/collection.webp" alt="Page collection avec la progression par rareté et des cartes obtenues" width="900"></div>
+
+### Et aussi
+
+- 🇫🇷 / 🇬🇧 Français et anglais, avec un sélecteur de langue.
+- 🌙 Mode sombre automatique, animations désactivées si vous les réduisez dans votre système.
+- ♿ Navigation complète au clavier, contrastes AA, la couleur n'est jamais le seul repère : logos des armées, hachures, pointillés.
+- 🔒 Aucun cookie. Mesure d'audience sans cookie, chargée seulement si vous l'acceptez.
+
+## Comment c'est construit
+
+- **Sources officielles d'abord** : ministère des Armées, État-major des armées, Gendarmerie nationale, Assemblée nationale, Sénat, ONU, OTAN, Union européenne.
+- **Rien n'est estimé** : un chiffre non publié s'affiche « Non communiqué ».
+- **Localisation prudente** : pays, territoire, ou ville et base officiellement annoncées, jamais plus précis.
+- **Traçable** : chaque entrée cite ses sources avec leur date de consultation.
+
+Côté technique, c'est volontairement simple : HTML, CSS et JavaScript en modules natifs, sans framework ni compilation. La carte utilise [Leaflet](https://leafletjs.com/) sur un fond [Natural Earth](https://www.naturalearthdata.com/) stocké dans le dépôt, sans tuiles ni clé d'API. L'outillage des données est en Python.
 
 ```
-index.html, carte.html, deploiements.html, paquets.html, collection.html, methode.html …
-css/        styles (communs, carte, cartes à collectionner, accueil)
-js/         modules ES : données, carte, fiche, filtres, liste, cartes, traductions
-js/pages/   un point d'entrée par page
-i18n/       chaînes d'interface fr.json et en.json
-data/       deployments.json, catalogue.json, places.json, schema.json, world.geojson
-scripts/    validate_data.py, check_sources.py, build_basemap.py
-tests/      test du tirage des paquets (node --test)
+├── index.html, carte.html, deploiements.html, paquets.html, collection.html, methode.html…
+├── css/          styles : communs, carte, cartes à collectionner, accueil
+├── js/           modules : données, carte, fiche, filtres, liste, cartes, traductions
+│   └── pages/    un point d'entrée par page
+├── i18n/         textes de l'interface (fr.json, en.json)
+├── data/         deployments.json, catalogue.json, places.json, schema.json, world.geojson
+├── scripts/      validate_data.py, check_sources.py, build_basemap.py
+└── tests/        test du tirage des paquets
 ```
 
-Le site est en HTML, CSS et JavaScript natifs, sans framework ni étape de compilation. La carte utilise [Leaflet](https://leafletjs.com/) 1.9.4 et un fond [Natural Earth](https://www.naturalearthdata.com/) stocké dans le dépôt, sans tuiles ni clé d'API.
-
-## Lancer le site en local
+## Lancer en local
 
 ```bash
 python -m http.server 8000
 ```
 
-Puis ouvrir http://localhost:8000. Un serveur est nécessaire car les données sont chargées avec `fetch`.
+Puis ouvrir http://localhost:8000. Un petit serveur est nécessaire, car les données sont chargées avec `fetch`.
 
-## Ajouter ou corriger un déploiement
+## Contribuer
 
-1. Modifier `data/deployments.json`. Un déploiement ressemble à ceci (champs complets dans `data/schema.json`) :
+Une erreur, un déploiement oublié, une source morte ? [Ouvrez une issue](https://github.com/Maximator13/forces-francaises/issues) ou proposez une modification.
+
+1. **Modifiez `data/deployments.json`.** Exemple d'entrée (le format complet est dans `data/schema.json`) :
 
    ```json
    {
@@ -70,85 +129,79 @@ Puis ouvrir http://localhost:8000. Un serveur est nécessaire car les données s
    }
    ```
 
-   - `statut` : `actif` ou `termine` (une opération terminée a une `date_fin`).
-   - `type` : `opex`, `presence`, `souverainete`, `otan`, `onu_ue`, `naval`, `gendarmerie`.
-   - `cadre` : `national`, `onu`, `otan`, `ue`, `bilateral`, `coalition`.
-   - `zones` : code ISO 3166-1 alpha-3 du pays ou du territoire (`GUF`, `NCL`, `PYF`…), ou zone maritime `MER-…` définie dans `data/places.json`.
-   - `composantes[].force` : `terre`, `marine`, `air`, `gendarmerie` ; `specialite` (gendarmerie seulement) : `mobile`, `prevotale`, `outre_mer`, `international`.
-   - `unites` et `materiel` renvoient aux identifiants de `data/catalogue.json`, où chaque unité ou matériel a son nom en deux langues, sa force, sa rareté et, s'il a une description, ses sources.
-   - `rarete` (cartes à collectionner) : `commune`, `peu_commune`, `rare`, `legendaire`.
-2. Vérifier les données :
+   | Champ | Valeurs |
+   |---|---|
+   | `statut` | `actif` ou `termine` (une opération terminée a une `date_fin`) |
+   | `type` | `opex`, `presence`, `souverainete`, `otan`, `onu_ue`, `naval`, `gendarmerie` |
+   | `cadre` | `national`, `onu`, `otan`, `ue`, `bilateral`, `coalition` |
+   | `zones` | code ISO 3166-1 alpha-3 (`DJI`, `GUF`, `NCL`…) ou zone maritime `MER-…` de `data/places.json` |
+   | `force` | `terre`, `marine`, `air`, `gendarmerie` ; pour la gendarmerie, `specialite` : `mobile`, `prevotale`, `outre_mer`, `international` |
+   | `unites`, `materiel` | identifiants de `data/catalogue.json` (nom bilingue, force, rareté, sources) |
+   | `rarete` | `commune`, `peu_commune`, `rare`, `legendaire` |
+   | dates | `AAAA`, `AAAA-MM` ou `AAAA-MM-JJ`, à la précision publiée |
+
+2. **Vérifiez** :
 
    ```bash
    pip install -r scripts/requirements.txt
    python scripts/validate_data.py
    ```
 
-   Le script contrôle le schéma, les identifiants, les références au catalogue, la cohérence statut et dates, les zones connues et les traductions.
-3. Vérifier les liens des sources (facultatif, une minute environ) :
+   Le script contrôle le schéma, les identifiants, les références au catalogue, la cohérence entre statut et dates, les zones et les traductions.
 
-   ```bash
-   python scripts/check_sources.py
-   ```
+3. **Testez les liens** (facultatif, environ une minute) : `python scripts/check_sources.py`.
 
-4. Ouvrir une demande de modification. La validation tourne automatiquement sur chaque push et chaque demande.
-
-Le fond de carte se régénère avec `python scripts/build_basemap.py` (nécessite `shapely`).
+Le fond de carte se régénère avec `python scripts/build_basemap.py`.
 
 ## Automatisation
 
-- `validate.yml` : validation des données et test du tirage à chaque push et demande de modification.
-- `pages.yml` : déploiement sur GitHub Pages à chaque push sur `main`.
-- `check-sources.yml` : le 1er de chaque mois, test des liens et des dates de vérification ; une issue étiquetée `verification-sources` liste les liens morts et les entrées de plus de 6 mois, puis se ferme quand tout est réglé.
+| Workflow | Quand | Quoi |
+|---|---|---|
+| `validate.yml` | chaque push et chaque demande de modification | validation des données, test du tirage des paquets |
+| `pages.yml` | chaque push sur `main` | déploiement sur GitHub Pages |
+| `check-sources.yml` | le 1er de chaque mois | test des liens et des dates de vérification ; une issue `verification-sources` liste les liens morts et les entrées de plus de 6 mois, puis se ferme quand tout est réglé |
 
-## Mise en ligne
+## Questions fréquentes
 
-Dans les réglages du dépôt : *Pages* → *Source* : *GitHub Actions*, et cocher *Enforce HTTPS*. La mesure d'audience utilise [GoatCounter](https://www.goatcounter.com/) (sans cookie, chargé seulement après consentement) : créer le site `maximator13` sur goatcounter.com, ou changer l'adresse dans `js/consent.js`. Pour la Google Search Console, ajouter la propriété `https://maximator13.github.io/forces-francaises/` et soumettre `sitemap.xml`.
+**C'est un site officiel ?** Non. Il n'a aucun lien avec le ministère des Armées ni la Gendarmerie nationale. Il compile des informations publiques et peut être incomplet.
 
-## Licences
+**Pourquoi certains effectifs sont « Non communiqués » ?** Parce qu'ils ne sont pas publiés. Le site préfère un blanc honnête à un chiffre inventé.
+
+**Pourquoi le total ne correspond pas aux chiffres officiels ?** Il additionne seulement les effectifs publiés, à des dates de référence différentes. C'est un ordre de grandeur.
+
+**Mes cartes sont sauvegardées ?** Oui, dans votre navigateur. Elles disparaissent si vous effacez les données du site.
+
+## Licences et crédits
 
 - Code : [MIT](LICENSE).
-- Données (`data/`) : [CC BY 4.0](LICENSE-DATA).
-- Fond de carte : Natural Earth, domaine public.
-- Logos des armées (`img/forces/`) : marques de leurs titulaires, utilisées pour identifier chaque force. Vectorisations issues de Wikimedia Commons : Armée de Terre (Cheposo, CC BY-SA 3.0), Marine nationale (SIRPA Marine, CC BY-SA 4.0), Armée de l'Air et de l'Espace et Gendarmerie nationale (domaine public).
+- Données (`data/`) : [CC BY 4.0](LICENSE-DATA). Merci de citer « Forces françaises déployées ».
+- Fond de carte : [Natural Earth](https://www.naturalearthdata.com/), domaine public.
+- Logos des armées (`img/forces/`) : marques de leurs titulaires, utilisées pour identifier chaque force, sans lien ni approbation. Fichiers issus de Wikimedia Commons : Armée de Terre (Cheposo, CC BY-SA 3.0), Marine nationale (SIRPA Marine, CC BY-SA 4.0), Armée de l'Air et de l'Espace et Gendarmerie nationale (domaine public).
 
 ---
 
 <a id="english"></a>
 
-# French forces deployed
+<div align="center">
 
-Interactive map of French armed forces (Army, Navy, Air and Space Force) and Gendarmerie deployments outside mainland France: overseas operations, prepositioned forces, overseas sovereignty forces, NATO, UN and EU missions, naval missions. Each entry gives the mission, context, strength, units, equipment, framework, dates and sources. The site also offers collectible cards built from the same data.
+# 🇬🇧 French forces deployed
 
-**Website: https://maximator13.github.io/forces-francaises/**
+**Where are French service members and gendarmes deployed, and why?**<br>
+A world map, sourced fact sheets, and collectible cards.
+
+[**🌍 Visit the website**](https://maximator13.github.io/forces-francaises/) · [Report an error](https://github.com/Maximator13/forces-francaises/issues)
+
+</div>
+
+- 🗺️ **Map**: every country, overseas territory and maritime area where the French Army, Navy, Air and Space Force or Gendarmerie are present. Click for the mission, context, strength, units, equipment, framework, dates and sources. Filter by service and deployment type, show past operations, share a link (`…/carte.html#en/DJI`).
+- 📋 **List**: the same data as a sortable table, keyboard and screen reader friendly.
+- 🃏 **Cards**: every deployment, regiment, ship and aircraft becomes a collectible card. Open as many 5-card packs as you like, from *common* to *legendary*.
+- 🔍 **Method**: official sources first; nothing is estimated ("Not disclosed" when unpublished); locations no more precise than officially announced; every entry cites its sources.
 
 Unofficial website, not affiliated with the French Ministry of the Armed Forces or the Gendarmerie nationale. Data from public sources, possibly incomplete.
 
-## Method and sources
+**Run locally**: `python -m http.server 8000`, then open http://localhost:8000.
 
-- Official sources first: Ministry of the Armed Forces and Defence Staff, Gendarmerie nationale, National Assembly and Senate reports, Légifrance, UN, NATO, European Union. Press articles only confirm a date or a withdrawal with no official page.
-- No figure, unit or equipment is estimated: unpublished information is `null` and shown as "Not disclosed".
-- Locations stop at the country, territory, or officially announced city and base.
-- Every entry cites at least one source with its access date and shows when it was last checked.
+**Contribute**: edit `data/deployments.json` (see the example and field table above, and `data/schema.json`), then run `pip install -r scripts/requirements.txt` and `python scripts/validate_data.py`. Optionally check source links with `python scripts/check_sources.py`. Pull requests are validated automatically.
 
-## Running locally
-
-```bash
-python -m http.server 8000
-```
-
-Then open http://localhost:8000.
-
-## Adding or fixing a deployment
-
-1. Edit `data/deployments.json` (see the example and field list above, and `data/schema.json`). Units and equipment refer to ids in `data/catalogue.json`; sea zones are defined in `data/places.json`.
-2. Run `pip install -r scripts/requirements.txt` then `python scripts/validate_data.py`.
-3. Optionally run `python scripts/check_sources.py` to test source links.
-4. Open a pull request; validation runs automatically.
-
-## Licences
-
-- Code: [MIT](LICENSE).
-- Data (`data/`): [CC BY 4.0](LICENSE-DATA).
-- Base map: Natural Earth, public domain.
-- Service logos (`img/forces/`): trademarks of their owners, used to identify each service. Vector files from Wikimedia Commons: French Army (Cheposo, CC BY-SA 3.0), French Navy (SIRPA Marine, CC BY-SA 4.0), Air and Space Force and Gendarmerie (public domain).
+**Licences**: code [MIT](LICENSE), data [CC BY 4.0](LICENSE-DATA), base map Natural Earth (public domain). Service logos are trademarks of their owners, used for identification only (Wikimedia Commons: French Army by Cheposo, CC BY-SA 3.0; French Navy by SIRPA Marine, CC BY-SA 4.0; Air and Space Force and Gendarmerie, public domain).
