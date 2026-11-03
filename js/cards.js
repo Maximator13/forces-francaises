@@ -1,4 +1,5 @@
-// Cartes à collectionner : jeu construit à partir des données réelles,
+// Cartes à collectionner : jeu construit à partir des données réelles (photos et insignes
+// de Wikimedia Commons quand le catalogue en a, pictogrammes sinon),
 // tirage pondéré par rareté, collection sauvegardée dans le navigateur.
 
 import { isSea, FORCES } from "./data.js";
@@ -125,6 +126,11 @@ function art(card) {
       ? `<svg viewBox="0 0 100 100" aria-hidden="true"><path class="card-shape" d="${card.shape}"/></svg>`
       : `<svg viewBox="0 0 100 100" aria-hidden="true" class="card-icon">${ICONS.mer}</svg>`;
   }
+  const image = card.source.image;
+  if (image) {
+    const alt = t(image.type === "insigne" ? "cards.insignia_alt" : "cards.photo_alt", { name: pick(card.nom) });
+    return `<img class="card-img card-img--${image.type}" src="${esc(image.fichier)}" alt="${esc(alt)}" loading="lazy" decoding="async">`;
+  }
   const icon = card.kind === "unite" ? ICONS.unite : ICONS[card.categorie] ?? ICONS.autre;
   return `<svg viewBox="0 0 100 100" aria-hidden="true" class="card-icon">${icon}</svg>`;
 }
@@ -170,7 +176,7 @@ export function cardBack(label = "") {
     <svg viewBox="0 0 32 32" aria-hidden="true" class="card-back-logo">
       <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="1.5"/>
       <path d="M2 16h28M16 2c-5 4-5 24 0 28M16 2c5 4 5 24 0 28" fill="none" stroke="currentColor" stroke-width="1"/>
-      <circle cx="22" cy="11" r="3" fill="#000091" stroke="#fff"/><circle cx="9" cy="19" r="3" fill="#e1000f" stroke="#fff"/>
+      <circle cx="22" cy="11" r="3" fill="#e1000f" stroke="#fff"/><circle cx="9" cy="19" r="3" fill="#000091" stroke="#fff"/>
     </svg>
     ${label ? `<span class="card-back-label">${esc(label)}</span>` : ""}
   </div>`;

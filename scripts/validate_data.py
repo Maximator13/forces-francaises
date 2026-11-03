@@ -1,7 +1,8 @@
 """Valide les fichiers de données du site.
 
 Contrôles : JSON Schema, identifiants uniques, références au catalogue, cohérence
-statut/dates, zones connues (fond de carte ou places.json), traductions d'interface.
+statut/dates, zones connues (fond de carte ou places.json), images présentes,
+traductions d'interface.
 
 Usage :
     python scripts/validate_data.py
@@ -98,6 +99,11 @@ def check(deployments, catalogue, places, world, i18n):
         total = d["effectif_total"]["valeur"]
         if total is not None and None not in parts and sum(parts) > total:
             warnings.append(f"{where} : la somme des composantes ({sum(parts)}) dépasse le total ({total})")
+
+    for item in catalogue["unites"] + catalogue["materiels"]:
+        image = item.get("image")
+        if image and not (ROOT / image["fichier"]).is_file():
+            errors.append(f"{item['id']} : image absente {image['fichier']}")
 
     for u in sorted(unit_ids - used_units):
         warnings.append(f"unité inutilisée : {u}")

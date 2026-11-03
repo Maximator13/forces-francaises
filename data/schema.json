@@ -106,9 +106,22 @@
         "categorie": { "enum": ["aeronef", "navire", "vehicule", "systeme", "autre"] },
         "rarete": { "$ref": "#/$defs/rarete" },
         "description": { "$ref": "#/$defs/texte" },
-        "sources": { "$ref": "#/$defs/sources" }
+        "sources": { "$ref": "#/$defs/sources" },
+        "image": { "$ref": "#/$defs/image" }
       },
       "dependentRequired": { "description": ["sources"] }
+    },
+    "image": {
+      "type": "object",
+      "required": ["fichier", "type", "auteur", "licence", "source"],
+      "additionalProperties": false,
+      "properties": {
+        "fichier": { "type": "string", "pattern": "^img/catalogue/[a-z0-9-]+\\.webp$" },
+        "type": { "enum": ["photo", "insigne"] },
+        "auteur": { "type": "string", "minLength": 1 },
+        "licence": { "type": "string", "minLength": 1 },
+        "source": { "type": "string", "pattern": "^https://commons\\.wikimedia\\.org/wiki/File:" }
+      }
     },
     "lieu_nomme": {
       "type": "object",

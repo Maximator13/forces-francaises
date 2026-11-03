@@ -30,6 +30,10 @@
 
 .card-art { display: grid; place-items: center; min-height: 0; padding: 0.3rem; overflow: hidden; }
 .card-art svg { width: auto; height: 100%; max-width: 78%; max-height: 7rem; }
+.card-img { width: 100%; height: 100%; min-height: 0; }
+.card-img--photo { object-fit: cover; border-radius: calc(var(--radius) - 2px); }
+.card-img--insigne { object-fit: contain; max-height: 7rem; filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.25)); }
+.card-art:has(.card-img--photo) { padding: 0; }
 .card-shape { fill: color-mix(in srgb, var(--rc) 55%, var(--ink)); stroke: var(--surface); stroke-width: 0.6; }
 .card-icon { fill: none; stroke: color-mix(in srgb, var(--rc) 70%, var(--ink)); stroke-width: 3.5; stroke-linejoin: round; stroke-linecap: round; }
 
@@ -184,3 +188,4 @@
 .card-dialog ul { padding-left: 1.1rem; }
 .card-dialog .close-row { margin-top: 1rem; }
 .confirm[open] { grid-template-columns: 1fr; width: min(100% - 2rem, 28rem); }
+.credit { color: var(--muted); font-size: 0.85rem; }
