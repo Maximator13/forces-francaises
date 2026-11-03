@@ -152,7 +152,7 @@ function footer(card) {
     return e.valeur === null ? t("na") : `${e.approximatif ? t("approx") + " " : ""}${num(e.valeur)} ${t("cards.people")}`;
   }
   const n = card.deployments.length;
-  return t(n > 1 ? "cards.seen_many" : "cards.seen_one", { n });
+  return t(n === 0 ? "cards.seen_none" : n > 1 ? "cards.seen_many" : "cards.seen_one", { n });
 }
 
 /** Face d'une carte. count > 1 affiche le nombre d'exemplaires. */

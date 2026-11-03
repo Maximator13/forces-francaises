@@ -124,6 +124,7 @@
   "rarete.legendaire": "Légendaire",
   "cards.new": "Nouveau",
   "cards.people": "personnels",
+  "cards.seen_none": "Aucun déploiement recensé",
   "cards.seen_one": "Cité dans {n} déploiement",
   "cards.seen_many": "Cité dans {n} déploiements",
   "cards.kind.dep": "Déploiement",
