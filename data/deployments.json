@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-11-02",
+  "derniere_mise_a_jour": "2026-11-03",
   "deploiements": [
     {
       "id": "aigle",
@@ -1082,7 +1082,8 @@
           "force": "gendarmerie",
           "specialite": "mobile",
           "unites": [
-            "egm"
+            "egm",
+            "egm-aurillac"
           ],
           "materiel": [],
           "effectif": {
@@ -1115,6 +1116,11 @@
           "titre": "Gendarmerie nationale, dossier de présentation 2025 (chiffres outre-mer au 31 août 2025)",
           "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Déplacement du directeur général de la gendarmerie nationale aux Antilles",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/deplacement-du-directeur-general-de-la-gendarmerie-nationale-aux-antilles",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"
@@ -1163,7 +1169,11 @@
           "specialite": "mobile",
           "unites": [
             "egm",
-            "pigr"
+            "pigr",
+            "egm-25-5-bourgoin-jallieu",
+            "egm-27-1-drancy",
+            "egm-11-1-satory",
+            "egm-44-3-pithiviers"
           ],
           "materiel": [],
           "effectif": {
@@ -1201,6 +1211,26 @@
           "titre": "Gendarmerie nationale, dossier de présentation 2025 (chiffres outre-mer au 31 août 2025)",
           "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Engagés en Nouvelle-Calédonie, Florent et Marie sont gendarmes mobiles par vocation",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/engages-en-nouvelle-caledonie-florent-et-marie-sont-gendarmes-mobiles-par-vocation",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – Mayotte : le gendarme mobile Ali raconte l'après-cyclone",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-le-gendarme-mobile-ali-raconte-l-apres-cyclone",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – Mayotte : les gendarmes sécurisent l'aéroport Marcel-Henry",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-les-gendarmes-securisent-l-aeroport-marcel-henry",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – En immersion avec l'EGM 44/3 de Pithiviers engagé à Mayotte",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/en-images/en-immersion-avec-les-gendarmes-de-l-escadron-de-gendarmerie-mobile-44-3-de-pithiviers-engages-a-mayotte",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"
@@ -1299,7 +1329,8 @@
           "force": "gendarmerie",
           "specialite": "mobile",
           "unites": [
-            "egm"
+            "egm",
+            "egm-27-2-marmande"
           ],
           "materiel": [],
           "effectif": {
@@ -1337,6 +1368,11 @@
           "titre": "Assemblée nationale, question écrite n° 4526 (16e législature) sur les gendarmes en Polynésie française",
           "url": "https://questions.assemblee-nationale.fr/q16/16-4526QE.htm",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Retour sur l'engagement de l'EGM 27/2 de Marmande en Polynésie française",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/jop-2024-retour-sur-l-engagement-de-l-egm-27-2-de-marmande-en-polynesie-francaise",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"
@@ -1373,7 +1409,9 @@
           "force": "gendarmerie",
           "specialite": "mobile",
           "unites": [
-            "egm"
+            "egm",
+            "egm-nimes",
+            "egm-mont-de-marsan"
           ],
           "materiel": [],
           "effectif": {
@@ -1411,6 +1449,11 @@
           "titre": "Gendarmerie nationale, dossier de présentation 2025 (chiffres outre-mer au 31 août 2025)",
           "url": "https://www.gendarmerie.interieur.gouv.fr/content/download/57235/file/dossier-GN-2025.pdf",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Cyclone Garance : l'engagement massif des gendarmes aux côtés de la population réunionnaise",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2025/cyclone-garance-l-engagement-massif-des-gendarmes-aux-cotes-de-la-population-reunionnaise",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"
@@ -3890,7 +3933,11 @@
           "force": "gendarmerie",
           "specialite": "mobile",
           "unites": [
-            "egm"
+            "egm",
+            "egm-211-1-melun",
+            "egm-13-3-pontivy",
+            "egm-25-5-bourgoin-jallieu",
+            "egm-13-6-lodeve"
           ],
           "materiel": [],
           "effectif": {
@@ -3933,6 +3980,26 @@
           "titre": "Les Nouvelles Calédoniennes, entretien avec le général Haouchine (18 août 2026) – presse",
           "url": "https://www.lnc.nc/article/general-haouchine-la-force-qui-est-en-place-est-suffisante-pour-faire-face-a-nos-missions",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Nouvelle-Calédonie : décès d'un gendarme mobile de Melun",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2024/nouvelle-caledonie-deces-d-un-gendarme-mobile-de-melun-dans-l-exercice-de-ses-fonctions",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – La transmission des valeurs au cœur du modèle de la gendarmerie mobile",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/la-transmission-des-valeurs-au-caeur-du-modele-de-la-gendarmerie-mobile",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – Engagés en Nouvelle-Calédonie, Florent et Marie sont gendarmes mobiles par vocation",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/engages-en-nouvelle-caledonie-florent-et-marie-sont-gendarmes-mobiles-par-vocation",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Gend'Info – En Nouvelle-Calédonie, les gendarmes renouent le contact avec la population",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/en-nouvelle-caledonie-les-gendarmes-renouent-le-contact-avec-la-population",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"
@@ -4102,6 +4169,18 @@
             "valeur": null,
             "approximatif": false
           }
+        },
+        {
+          "force": "gendarmerie",
+          "specialite": "mobile",
+          "unites": [
+            "egm-13-5-sathonay-camp"
+          ],
+          "materiel": [],
+          "effectif": {
+            "valeur": null,
+            "approximatif": false
+          }
         }
       ],
       "effectif_total": {
@@ -4138,6 +4217,11 @@
           "titre": "Sénat – Rapport d'information n° 295 (2020-2021), Les forces armées en Guyane",
           "url": "https://www.senat.fr/rap/r20-295/r20-2951.html",
           "date_consultation": "2026-11-02"
+        },
+        {
+          "titre": "Gend'Info – Mission Harpie : entretien avec la commandante de l'EGM 13/5 de Sathonay-Camp",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/mission-harpie-entretien-avec-la-capitaine-violette-chomienne-commandant-l-egm-13-5-de-sathonay-camp",
+          "date_consultation": "2026-11-03"
         }
       ],
       "derniere_verification": "2026-11-02"

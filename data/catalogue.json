@@ -1379,6 +1379,271 @@
           "date_consultation": "2026-11-02"
         }
       ]
+    },
+    {
+      "id": "egm-211-1-melun",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 211/1 de Melun",
+        "en": "Mobile Gendarmerie Squadron 211/1 (Melun)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Melun engagé en Nouvelle-Calédonie en mai 2024 ; un de ses gendarmes y est mort en mission le 15 mai 2024 à Plum.",
+        "en": "Melun squadron deployed to New Caledonia in May 2024; one of its gendarmes died on duty at Plum on 15 May 2024."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Nouvelle-Calédonie : décès d'un gendarme mobile de Melun",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2024/nouvelle-caledonie-deces-d-un-gendarme-mobile-de-melun-dans-l-exercice-de-ses-fonctions",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-13-3-pontivy",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 13/3 de Pontivy",
+        "en": "Mobile Gendarmerie Squadron 13/3 (Pontivy)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Pontivy déployé en Nouvelle-Calédonie à partir du 27 juin 2024, d'abord sur le Grand Nouméa.",
+        "en": "Pontivy squadron deployed to New Caledonia from 27 June 2024, first in Greater Nouméa."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – La transmission des valeurs au cœur du modèle de la gendarmerie mobile",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/la-transmission-des-valeurs-au-caeur-du-modele-de-la-gendarmerie-mobile",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-25-5-bourgoin-jallieu",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 25/5 de Bourgoin-Jallieu",
+        "en": "Mobile Gendarmerie Squadron 25/5 (Bourgoin-Jallieu)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Bourgoin-Jallieu déployé à Mayotte début 2024, puis en Nouvelle-Calédonie à partir du 1er juillet 2024.",
+        "en": "Bourgoin-Jallieu squadron deployed to Mayotte in early 2024, then to New Caledonia from 1 July 2024."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Engagés en Nouvelle-Calédonie, Florent et Marie sont gendarmes mobiles par vocation",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/engages-en-nouvelle-caledonie-florent-et-marie-sont-gendarmes-mobiles-par-vocation",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-13-6-lodeve",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 13/6 de Lodève",
+        "en": "Mobile Gendarmerie Squadron 13/6 (Lodève)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Lodève présent en Nouvelle-Calédonie en octobre 2024, au contact de la population.",
+        "en": "Lodève squadron present in New Caledonia in October 2024, working with the local population."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – En Nouvelle-Calédonie, les gendarmes renouent le contact avec la population",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/immersion/2024/en-nouvelle-caledonie-les-gendarmes-renouent-le-contact-avec-la-population",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-13-5-sathonay-camp",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 13/5 de Sathonay-Camp",
+        "en": "Mobile Gendarmerie Squadron 13/5 (Sathonay-Camp)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Sathonay-Camp projeté en Guyane du 29 janvier au 5 juin 2024 pour la mission Harpie contre l'orpaillage illégal.",
+        "en": "Sathonay-Camp squadron deployed to French Guiana from 29 January to 5 June 2024 for Operation Harpie against illegal gold mining."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Mission Harpie : entretien avec la commandante de l'EGM 13/5 de Sathonay-Camp",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/mission-harpie-entretien-avec-la-capitaine-violette-chomienne-commandant-l-egm-13-5-de-sathonay-camp",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-27-1-drancy",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 27/1 de Drancy",
+        "en": "Mobile Gendarmerie Squadron 27/1 (Drancy)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Drancy arrivé à Mayotte le 30 septembre 2024, engagé après le cyclone Chido.",
+        "en": "Drancy squadron that arrived in Mayotte on 30 September 2024 and served after Cyclone Chido."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Mayotte : le gendarme mobile Ali raconte l'après-cyclone",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-le-gendarme-mobile-ali-raconte-l-apres-cyclone",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-11-1-satory",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 11/1 de Satory",
+        "en": "Mobile Gendarmerie Squadron 11/1 (Satory)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron du groupement blindé de gendarmerie mobile ; un de ses blindés sécurise l'aéroport de Mayotte depuis le 21 décembre 2024, après le cyclone Chido.",
+        "en": "Squadron of the armoured mobile gendarmerie group; one of its armoured vehicles has secured Mayotte airport since 21 December 2024, after Cyclone Chido."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Mayotte : les gendarmes sécurisent l'aéroport Marcel-Henry",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/cyclone-chido-un-engagement-exceptionnel-a-mayotte-face-a-la-catastrophe/mayotte-les-gendarmes-securisent-l-aeroport-marcel-henry",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-44-3-pithiviers",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 44/3 de Pithiviers",
+        "en": "Mobile Gendarmerie Squadron 44/3 (Pithiviers)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Pithiviers engagé à Mayotte ; la date de sa mission n'est pas publiée.",
+        "en": "Pithiviers squadron deployed to Mayotte; the dates of its mission are not published."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – En immersion avec l'EGM 44/3 de Pithiviers engagé à Mayotte",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/en-images/en-immersion-avec-les-gendarmes-de-l-escadron-de-gendarmerie-mobile-44-3-de-pithiviers-engages-a-mayotte",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-27-2-marmande",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile 27/2 de Marmande",
+        "en": "Mobile Gendarmerie Squadron 27/2 (Marmande)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Marmande arrivé en Polynésie française le 5 juin 2024 pour une mission de quatre mois.",
+        "en": "Marmande squadron that arrived in French Polynesia on 5 June 2024 for a four-month mission."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Retour sur l'engagement de l'EGM 27/2 de Marmande en Polynésie française",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/temoignages/jop-2024-retour-sur-l-engagement-de-l-egm-27-2-de-marmande-en-polynesie-francaise",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-aurillac",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile d'Aurillac",
+        "en": "Mobile Gendarmerie Squadron (Aurillac)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron d'Aurillac présent en Martinique en mars 2026 ; son numéro n'est pas indiqué par la source.",
+        "en": "Aurillac squadron present in Martinique in March 2026; its number is not given by the source."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Déplacement du directeur général de la gendarmerie nationale aux Antilles",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/deplacement-du-directeur-general-de-la-gendarmerie-nationale-aux-antilles",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-nimes",
+      "nom": {
+        "fr": "Escadrons de gendarmerie mobile de Nîmes",
+        "en": "Mobile Gendarmerie Squadrons (Nîmes)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Deux escadrons de Nîmes envoyés à La Réunion en 2025 après le cyclone Garance ; leurs numéros ne sont pas indiqués par la source.",
+        "en": "Two Nîmes squadrons sent to Réunion in 2025 after Cyclone Garance; their numbers are not given by the source."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Cyclone Garance : l'engagement massif des gendarmes aux côtés de la population réunionnaise",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2025/cyclone-garance-l-engagement-massif-des-gendarmes-aux-cotes-de-la-population-reunionnaise",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "egm-mont-de-marsan",
+      "nom": {
+        "fr": "Escadron de gendarmerie mobile de Mont-de-Marsan",
+        "en": "Mobile Gendarmerie Squadron (Mont-de-Marsan)"
+      },
+      "force": "gendarmerie",
+      "rarete": "peu_commune",
+      "description": {
+        "fr": "Escadron de Mont-de-Marsan projeté de Mayotte vers La Réunion en 2025 après le cyclone Garance ; son numéro n'est pas indiqué par la source.",
+        "en": "Mont-de-Marsan squadron moved from Mayotte to Réunion in 2025 after Cyclone Garance; its number is not given by the source."
+      },
+      "sources": [
+        {
+          "titre": "Gend'Info – Cyclone Garance : l'engagement massif des gendarmes aux côtés de la population réunionnaise",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2025/cyclone-garance-l-engagement-massif-des-gendarmes-aux-cotes-de-la-population-reunionnaise",
+          "date_consultation": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "11e-rc",
+      "nom": {
+        "fr": "11e régiment de cuirassiers",
+        "en": "11th Cuirassier Regiment"
+      },
+      "force": "terre",
+      "rarete": "rare",
+      "description": {
+        "fr": "Régiment blindé du camp de Carpiagne, près de Marseille. Fusionné en 1999 avec le 1er régiment de cuirassiers (1er-11e RC), il est dissous en 2009 ; le 4e régiment de dragons lui succède à Carpiagne.",
+        "en": "Armoured regiment based at Carpiagne camp, near Marseille. Merged in 1999 with the 1st Cuirassier Regiment (1st-11th RC), it was disbanded in 2009 and succeeded at Carpiagne by the 4th Dragoon Regiment."
+      },
+      "sources": [
+        {
+          "titre": "Bibliothèques numériques du ministère des Armées – Histoire du 11e régiment de cuirassiers",
+          "url": "https://bibliotheques-numeriques.defense.gouv.fr/impression/document/65381315-9985-4906-818e-6e9e2f1dda2f",
+          "date_consultation": "2026-11-03"
+        },
+        {
+          "titre": "Historique du camp de Carpiagne 1895-2014 (A. Tomeï, document non officiel)",
+          "url": "https://www.monsieur-legionnaire.org/images/Historique-du-camp-de-CARPIAGNE-1895-2014.pdf",
+          "date_consultation": "2026-11-03"
+        }
+      ]
     }
   ],
   "materiels": [
