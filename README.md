@@ -28,7 +28,7 @@ Une carte du monde, des fiches sourcées, et des cartes à collectionner.
 | **≈ 17 800** | militaires et gendarmes, d'après les effectifs publiés |
 | **27** | opérations terminées, de Daguet (1990) aux missions de 2026 |
 | **136** | sources publiques citées |
-| **214** | cartes à collectionner |
+| **227** | cartes à collectionner |
 
 *Chiffres au 2 novembre 2026. Les déploiements sans effectif publié ne sont pas comptés.*
 
@@ -51,7 +51,7 @@ La même chose sous forme de tableau triable : pratique au clavier, avec un lect
 
 ### 🃏 Les cartes à collectionner
 
-Chaque déploiement, régiment, navire ou avion des données devient une carte. Ouvrez des paquets de 5 (autant que vous voulez, sans attente), retournez les cartes et complétez votre collection, de *commune* à *légendaire*.
+Chaque déploiement, régiment, navire ou avion des données devient une carte, illustrée par une vraie photo ou par l'insigne de l'unité. Ouvrez des paquets de 5 (autant que vous voulez, sans attente), retournez les cartes et complétez votre collection, de *commune* à *légendaire*.
 
 | Rareté | Chance par carte | Exemples |
 |---|---|---|
@@ -67,7 +67,7 @@ Au moins une peu commune par paquet. Aucune statistique inventée : les cartes n
 ### Et aussi
 
 - 🇫🇷 / 🇬🇧 Français et anglais, avec un sélecteur de langue.
-- 🌙 Mode sombre automatique, animations désactivées si vous les réduisez dans votre système.
+- 🌙 Mode sombre automatique ou au choix (bouton ☾/☀), animations désactivées si vous les réduisez dans votre système.
 - ♿ Navigation complète au clavier, contrastes AA, la couleur n'est jamais le seul repère : logos des armées, hachures, pointillés.
 - 🔒 Aucun cookie. Mesure d'audience sans cookie, chargée seulement si vous l'acceptez.
 
@@ -177,6 +177,7 @@ Le fond de carte se régénère avec `python scripts/build_basemap.py`.
 - Données (`data/`) : [CC BY 4.0](LICENSE-DATA). Merci de citer « Forces françaises déployées ».
 - Fond de carte : [Natural Earth](https://www.naturalearthdata.com/), domaine public.
 - Logos des armées (`img/forces/`) : marques de leurs titulaires, utilisées pour identifier chaque force, sans lien ni approbation. Fichiers issus de Wikimedia Commons : Armée de Terre (Cheposo, CC BY-SA 3.0), Marine nationale (SIRPA Marine, CC BY-SA 4.0), Armée de l'Air et de l'Espace et Gendarmerie nationale (domaine public).
+- Photos et insignes des cartes (`img/catalogue/`) : Wikimedia Commons, licences libres ; auteur, licence et lien affichés sur chaque carte et enregistrés dans `data/catalogue.json` (champ `image`).
 
 ---
 
@@ -204,4 +205,4 @@ Unofficial website, not affiliated with the French Ministry of the Armed Forces 
 
 **Contribute**: edit `data/deployments.json` (see the example and field table above, and `data/schema.json`), then run `pip install -r scripts/requirements.txt` and `python scripts/validate_data.py`. Optionally check source links with `python scripts/check_sources.py`. Pull requests are validated automatically.
 
-**Licences**: code [MIT](LICENSE), data [CC BY 4.0](LICENSE-DATA), base map Natural Earth (public domain). Service logos are trademarks of their owners, used for identification only (Wikimedia Commons: French Army by Cheposo, CC BY-SA 3.0; French Navy by SIRPA Marine, CC BY-SA 4.0; Air and Space Force and Gendarmerie, public domain).
+**Licences**: code [MIT](LICENSE), data [CC BY 4.0](LICENSE-DATA), base map Natural Earth (public domain). Service logos are trademarks of their owners, used for identification only (Wikimedia Commons: French Army by Cheposo, CC BY-SA 3.0; French Navy by SIRPA Marine, CC BY-SA 4.0; Air and Space Force and Gendarmerie, public domain). Card photos and insignia come from Wikimedia Commons under free licences; author, licence and link are shown on each card.
